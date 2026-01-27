@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T01:03:34.075051+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T03:18:09.502301+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -26,8 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
+        },
+        {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -37,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -48,19 +60,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
+          "title": "任泽平：黄金白银暴涨的原因有两个",
+          "url": "https://www.toutiao.com/trending/7600018593677315590/",
+          "source": "今日头条",
           "ranks": [
-            8
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
           "title": "白银",
@@ -70,19 +83,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         },
         {
-          "title": "任泽平：黄金白银暴涨的原因有两个",
-          "url": "https://www.toutiao.com/trending/7600018593677315590/",
-          "source": "今日头条",
+          "title": "上海黄金交易所黄金T+D 1月27日（周二）晚盘收盘下跌0.17%报1137.01元/克；<br/>上海黄金交易所白银T+D 1月27日（周二）晚盘收盘下跌1.05%报27900.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260128023105341800",
+          "source": "金十数据",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "03时18分"
         }
       ]
     },
@@ -95,11 +108,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时18分]"
         }
       ]
     }
