@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T04:47:50.617634+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-28T05:37:04.184175+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
@@ -36,11 +36,12 @@
           "ranks": [
             8,
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -50,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "任泽平：黄金白银暴涨的原因有两个",
@@ -62,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "白银",
@@ -71,11 +72,12 @@
           "source": "微博",
           "ranks": [
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -106,7 +108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -125,8 +127,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时37分]"
         }
       ]
     }
