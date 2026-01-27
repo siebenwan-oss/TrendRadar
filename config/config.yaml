@@ -30,7 +30,7 @@ report:
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
-  enable_notification: true # 是否启用通知功能，false 时不发送手机通知
+  enable_notification: false # 是否启用通知功能，false 时不发送手机通知
   message_batch_size: 4000 # 消息分批大小（字节）(这个配置别动)
   batch_send_interval: 1 # 批次发送间隔（秒）
   feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 消息分割线
@@ -40,8 +40,8 @@ notification:
     # 因为我们白嫖的 github 服务器执行时间不稳定，所以时间范围要根据实际尽可能大一点，留足 2 小时
     # 如果你想寻求稳定的按时的推送，建议部署在个人的服务器上
     time_range:
-      start: "20:00"  # 推送时间范围开始（北京时间）
-      end: "22:00"    # 推送时间范围结束（北京时间）
+      start: "10:00"  # 推送时间范围开始（北京时间）
+      end: "23:59"    # 推送时间范围结束（北京时间）
     once_per_day: true  # 每天在时间范围内只推送一次，如果 false，则时间范围内每次执行都推送一次
     push_record_retention_days: 7  # 推送记录保留天数
 
@@ -57,9 +57,9 @@ notification:
 
 # 用于让关注度更高的新闻在更前面显示，合起来是 1 就行
 weight:
-  rank_weight: 0.6 # 排名权重
-  frequency_weight: 0.3 # 频次权重
-  hotness_weight: 0.1 # 热度权重
+  rank_weight: 0.3 # 排名权重
+  frequency_weight: 0.1 # 频次权重
+  hotness_weight: 0.6 # 热度权重
 
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
