@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T05:02:52.824394+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-01-29T06:58:54.386306+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 06时58分]"
         },
         {
           "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -56,11 +56,24 @@
           "url": "https://wallstreetcn.com/articles/3764384",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时58分]"
+        },
+        {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时58分]"
         },
         {
           "title": "黄金白银基金暂停申购",
@@ -71,19 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
-        },
-        {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时58分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -92,11 +94,12 @@
           "ranks": [
             24,
             23,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时58分]"
         },
         {
           "title": "现货黄金突破5380美元/盎司，日内涨幅3.8%。现货白银涨幅扩大至4%，现报116.49美元/盎司。",
@@ -105,7 +108,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -135,8 +138,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时58分]"
         }
       ]
     }
