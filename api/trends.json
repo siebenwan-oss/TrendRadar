@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-29T01:51:30.348025+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T03:05:47.082280+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "深度解析白银逼空背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3045756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
         {
           "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
           "url": "https://wallstreetcn.com/articles/3764384",
@@ -15,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时05分]"
         },
         {
           "title": "黄金白银基金暂停申购",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时05分]"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
@@ -37,19 +60,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时05分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
           "url": "https://www.douyin.com/hot/2381695",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时05分]"
+        },
+        {
+          "title": "美联储如期按兵不动，现货白银短线走高1.2美元，现报112.42美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129030138570800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时05分"
         }
       ]
     },
@@ -65,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时05分]"
         }
       ]
     }
