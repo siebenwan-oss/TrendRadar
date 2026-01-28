@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-28T19:43:56.684573+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-01-28T22:02:00.287447+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://www.douyin.com/hot/2381695",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 22时02分]"
+        },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
           "url": "https://wallstreetcn.com/articles/3764206",
@@ -19,17 +30,6 @@
           "time_info": "[01时03分 ~ 07时41分]"
         },
         {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://www.douyin.com/hot/2381695",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 19时43分]"
-        },
-        {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时03分 ~ 06时45分]"
+        },
+        {
+          "title": "深度解析白银逼空背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "芝商所调整白银、铂金、钯金保证金比例",
@@ -139,6 +150,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 03时18分]"
+        },
+        {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "现货白银涨超8.7%",
@@ -302,7 +324,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -337,6 +359,19 @@
           "time_info": "[01时03分 ~ 19时00分]"
         },
         {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时02分]"
+        },
+        {
           "title": "黄金价格暴涨暴跌 是走还是留",
           "url": "https://www.toutiao.com/trending/7600200790535310911/",
           "source": "今日头条",
@@ -347,18 +382,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时55分 ~ 17时05分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 19时43分]"
         },
         {
           "title": "黄金价格短线持续走高，现货黄金向上触及5310美元/盎司，日内涨2.52%。纽约期金向上触及5300美元/盎司，日内涨4.28%。",
@@ -378,7 +401,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
