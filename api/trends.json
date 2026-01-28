@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T22:02:00.287447+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-01-28T23:04:00.659937+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://www.douyin.com/hot/2381695",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 22时02分]"
-        },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
           "url": "https://wallstreetcn.com/articles/3764206",
@@ -45,11 +34,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时04分]"
         },
         {
           "title": "芝商所调整白银、铂金、钯金保证金比例",
@@ -74,6 +64,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时55分 ~ 19时43分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://www.douyin.com/hot/2381695",
+          "source": "抖音",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 23时04分]"
         },
         {
           "title": "商品传奇Rick Rule：看到了史诗级的油气股投资机会，相较实物白银更看好银矿股",
@@ -141,6 +143,18 @@
           "time_info": "[01时03分 ~ 05时37分]"
         },
         {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时04分]"
+        },
+        {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
           "url": "https://wallstreetcn.com/articles/3764173",
           "source": "华尔街见闻",
@@ -152,15 +166,15 @@
           "time_info": "[01时03分 ~ 03时18分]"
         },
         {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
+          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
+          "url": "https://wallstreetcn.com/articles/3764384",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "现货白银涨超8.7%",
@@ -175,6 +189,17 @@
           "time_info": "[06时45分 ~ 07时41分]"
         },
         {
+          "title": "黄金白银基金暂停申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "国投白银LOF盘中触及涨停",
           "url": "https://www.douyin.com/hot/2382081",
           "source": "抖音",
@@ -184,6 +209,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "白银有色7连板逻辑何在",
+          "url": "https://www.toutiao.com/trending/7600386087566970422/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "现货金银短线拉升，现货黄金短线涨幅近20美元，现报5281.9美元/盎司；现货白银短线涨幅近1美元，现报115.17美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128224032419800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "现货白银盘初跌超1.00%，现报111.18美元/盎司。",
@@ -365,11 +412,12 @@
           "ranks": [
             6,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时59分 ~ 23时04分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
