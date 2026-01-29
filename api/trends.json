@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:58:35.805080+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-29T22:12:58.035020+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时03分 ~ 22时12分]"
+        },
+        {
+          "title": "女子卖房买白银5个月狂赚200万",
+          "url": "https://www.toutiao.com/trending/7600131845862850596/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "湖南白银：存在较高的炒作风险，未来存在快速下跌的风险",
@@ -26,9 +38,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
@@ -150,6 +173,17 @@
           "time_info": "[01时51分 ~ 07时51分]"
         },
         {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -160,17 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时03分 ~ 19时58分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 19时58分]"
         },
         {
           "title": "现货黄金突破5380美元/盎司，日内涨幅3.8%。现货白银涨幅扩大至4%，现报116.49美元/盎司。",
@@ -256,9 +279,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "全球大国的白银争夺战",
+          "url": "https://www.douyin.com/hot/2382591",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少211.42吨，当前持仓量为15636.12吨。欢迎点击查看数据中心..",
@@ -310,8 +344,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 19时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 22时12分]"
         },
         {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
@@ -320,7 +354,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -353,7 +387,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         }
