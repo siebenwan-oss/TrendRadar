@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:59:49.313117+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-30T07:53:34.113689+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -15,21 +15,45 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时53分]"
         },
         {
-          "title": "现货黄金白银快速走低",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BF%AB%E9%80%9F%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "现货黄金日内涨超1%报5440美元/盎司，现货白银涨1.75%报117.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少112.76吨，当前持仓量为15523.36吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260130070759019800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "此次白银暴涨的结局会如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
             9,
-            10,
-            28
+            15,
+            14,
+            29,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "time_info": "[03时40分 ~ 07时53分]"
         },
         {
           "title": "白银重挫8%",
@@ -39,11 +63,12 @@
             29,
             27,
             26,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时53分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -51,6 +76,19 @@
           "source": "bilibili 热搜",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时53分]"
+        },
+        {
+          "title": "现货黄金白银快速走低",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BF%AB%E9%80%9F%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -70,18 +108,37 @@
           "time_info": "[03时40分 ~ 06时59分]"
         },
         {
-          "title": "此次白银暴涨的结局会如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "黄金白银大跳水后“深V反转”",
+          "url": "https://www.toutiao.com/trending/7600928417021988361/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            15,
-            14,
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 06时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "黄金白银深夜大幅跳水后反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
+          "url": "https://www.cls.cn/detail/2274893",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月29日（周四）晚盘收盘下跌3.4%报1195.83元/克；<br/>上海黄金交易所白银T+D 1月29日（周四）晚盘收盘下跌1.47%报29359.0元/千克。",
@@ -94,6 +151,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时57分]"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报117.78美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260130070356467800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "白银",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报116.70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260130070213910800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "现货白银收复10美元的日内跌幅",
@@ -113,7 +203,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -143,8 +233,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时53分]"
         }
       ]
     }
