@@ -1,176 +1,33 @@
 {
-  "generated_at": "2026-01-29T22:12:58.035020+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-01-30T01:06:33.759854+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 27,
+      "match_count": 5,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
           "url": "https://www.cls.cn/detail/2274258",
           "source": "财联社热门",
           "ranks": [
-            5,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 22时12分]"
-        },
-        {
-          "title": "女子卖房买白银5个月狂赚200万",
-          "url": "https://www.toutiao.com/trending/7600131845862850596/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "01时06分"
         },
         {
-          "title": "湖南白银：存在较高的炒作风险，未来存在快速下跌的风险",
-          "url": "https://wallstreetcn.com/livenews/3046460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
-          "url": "https://flash.jin10.com/detail/20260129043930303800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "现货白银新高至118美元之上",
-          "url": "https://flash.jin10.com/detail/20260129071632938800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3045756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "现货白银日内涨幅达4.5%，报117.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3045824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
-          "url": "https://wallstreetcn.com/articles/3764384",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 19时58分]"
-        },
-        {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 07时51分]"
-        },
-        {
-          "title": "深度解析白银逼空背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%99%BD%E9%93%B6%E9%80%BC%E7%A9%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 12时55分]"
-        },
-        {
-          "title": "此次白银暴涨的结局会如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 19时58分]"
-        },
-        {
-          "title": "黄金白银基金暂停申购",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD%23&t=31&band_rank=6&Refer=top",
+          "title": "现货黄金白银快速走低",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BF%AB%E9%80%9F%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 07时51分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://www.douyin.com/hot/2381695",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 07时51分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -180,233 +37,47 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 22时12分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 19时58分]"
-        },
-        {
-          "title": "现货黄金突破5380美元/盎司，日内涨幅3.8%。现货白银涨幅扩大至4%，现报116.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3045822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "01时06分"
         },
         {
-          "title": "美联储如期按兵不动，现货白银短线走高1.2美元，现报112.42美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260129030138570800",
+          "title": "黄金ETF-SPDR（GLD）一度跌近3%，现跌2.6%；白银ETF-iShares（SLV）跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260130000907934800",
           "source": "金十数据",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "01时06分"
         },
         {
-          "title": "现货白银站上18美元/盎司，创下历史新高，日内涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3045900",
-          "source": "华尔街见闻-快讯",
+          "title": "白银重挫8%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%87%8D%E6%8C%AB8%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "黄金白银LOF为何突然停售",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6LOF%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%81%9C%E5%94%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "白银有色：公司黄金、白银产品的收入占总营业收入的比重较低",
-          "url": "https://wallstreetcn.com/livenews/3046340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "现货白银日内走低1.00%，现报115.59美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260129070538550800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "中国银行：调整白银延期合约业务参数 保证金比例由48.26%调整为50.80%",
-          "url": "https://wallstreetcn.com/livenews/3046422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "全球大国的白银争夺战",
-          "url": "https://www.douyin.com/hot/2382591",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少211.42吨，当前持仓量为15636.12吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20260129065606459800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "国投白银LOF：本基金将于1月30日开市起停牌至收市",
-          "url": "https://wallstreetcn.com/livenews/3046319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
-          "url": "https://wallstreetcn.com/livenews/3046359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时51分 ~ 22时12分]"
-        },
-        {
-          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
-          "url": "https://wallstreetcn.com/livenews/3046433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
-          "url": "https://wallstreetcn.com/livenews/3046337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
-          "url": "https://wallstreetcn.com/livenews/3046327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
-          "url": "https://wallstreetcn.com/livenews/3046415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
-          "url": "https://wallstreetcn.com/livenews/3046193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "time_info": "01时06分"
         }
       ]
     }
