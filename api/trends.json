@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T06:58:55.326067+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-31T07:52:32.106324+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 07时52分]"
         },
         {
           "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
@@ -28,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘集体下跌黄金白银股大幅下挫",
+          "url": "https://www.toutiao.com/trending/7601295234164592182/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "现货白银日内重挫23.00%，现报88.90美元/盎司。",
@@ -43,6 +54,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "黄金白银急速跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%80%A5%E9%80%9F%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "现货白银失守90美元/盎司，为1月16日以来首次，日内跌22.11%。",
           "url": "https://wallstreetcn.com/livenews/3047512",
           "source": "华尔街见闻-快讯",
@@ -54,6 +76,29 @@
           "time_info": "02时05分"
         },
         {
+          "title": "白银迎来暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%BF%8E%E6%9D%A5%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
+          "url": "https://www.cls.cn/detail/2276350",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
+        },
+        {
           "title": "24小时内两度巨震 黄金、白银在创纪录涨势后迎“拥挤交易清算”",
           "url": "https://www.cls.cn/detail/2275991",
           "source": "财联社热门",
@@ -62,8 +107,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 07时52分]"
         },
         {
           "title": "深交所：对“国投白银LOF”相关投资者采取了暂停交易等自律监管措施",
@@ -74,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 07时52分]"
         },
         {
           "title": "女子卖房得120万元后全部买入白银，5个月狂赚200万元",
@@ -87,8 +132,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 07时52分]"
         },
         {
           "title": "夫妻用CT废胶片提炼白银超27斤",
@@ -99,8 +144,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 07时52分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月30日（周五）晚盘收盘下跌9.47%报1070.0元/克；<br/>上海黄金交易所白银T+D 1月30日（周五）晚盘收盘下跌19.0%报23420.0元/千克。",
@@ -111,8 +156,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时52分]"
         },
         {
           "title": "现货白银RSI掉出超买区间",
@@ -123,8 +168,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时52分]"
         },
         {
           "title": "白银暴跌35%！",
@@ -135,8 +180,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时52分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持COMEX黄金净多头头寸减少17,741手合约，至121,421手合约，创八周新低。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创17周新低。 所持NYMEX铂金净空头头寸创八个月新低，所持NYMEX钯金净空头头寸创四周新高。",
@@ -151,15 +196,16 @@
           "time_info": "[05时01分 ~ 05时54分]"
         },
         {
-          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
-          "url": "https://www.cls.cn/detail/2276350",
-          "source": "财联社热门",
+          "title": "白银周五暴跌26%，1月份累计涨幅急剧收窄至不到19%",
+          "url": "https://wallstreetcn.com/livenews/3047595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
         },
         {
           "title": "上期所调整白银期货合约保证金比例",
@@ -171,17 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "白银周五暴跌26%，1月份累计涨幅急剧收窄至不到19%",
-          "url": "https://wallstreetcn.com/livenews/3047595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         },
         {
           "title": "现货白银失守90美元 日内跌22%",
@@ -204,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美股三大指数飘绿 黄金白银深夜暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%A3%98%E7%BB%BF+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "现货白银日内跌幅达18.5%，报93.83美元/盎司。 纽约银日内跌幅达18.0%，报93.76美元/盎司。",
@@ -286,7 +332,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -310,6 +356,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 06时58分]"
+        },
+        {
+          "title": "鹰派预期抬升，美股指齐跌，闪迪冲高回落仍涨7%，商品遭遇黑色星期五，地缘风险撑原油收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，本周累计下跌0.87%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌1.43%。",
@@ -339,11 +396,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时52分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）热门中概股行情一览（美股盘中）",
@@ -361,22 +419,24 @@
           "url": "https://wallstreetcn.com/livenews/3047594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，1月份累计下跌0.27%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌0.75%。",
           "url": "https://wallstreetcn.com/livenews/3047586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时52分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
