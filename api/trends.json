@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-31T17:00:14.638925+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-01-31T17:54:01.565317+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
       "match_count": 42,
       "titles": [
+        {
+          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
+        },
+        {
+          "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
+          "url": "https://www.cls.cn/detail/2276385",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
+        },
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
           "url": "https://www.zhihu.com/question/2000650330480800125",
@@ -21,29 +44,6 @@
           "time_info": "[00时05分 ~ 07时52分]"
         },
         {
-          "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
-        },
-        {
-          "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
-          "url": "https://www.cls.cn/detail/2276385",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
-        },
-        {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
           "url": "https://www.cls.cn/detail/2276432",
           "source": "财联社热门",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
         },
         {
           "title": "沃什提名引爆金银“血洗”！盘中白银创纪录跌超35%、黄金跌超10%",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
         },
         {
           "title": "美股收盘集体下跌黄金白银股大幅下挫",
@@ -132,8 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 17时00分]"
+          "appearance_count": 10,
+          "time_info": "[06时58分 ~ 17时54分]"
         },
         {
           "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
@@ -158,8 +158,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
         },
         {
           "title": "金十图示：2026年01月31日（周六）白银ETF持仓报告",
@@ -186,8 +186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 17时00分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 17时54分]"
         },
         {
           "title": "女子卖房得120万元后全部买入白银，5个月狂赚200万元",
@@ -218,6 +218,20 @@
           "time_info": "[00时05分 ~ 07时52分]"
         },
         {
+          "title": "黄金白银深夜暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
+        },
+        {
           "title": "夫妻用CT废胶片提炼白银超27斤",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E7%94%A8CT%E5%BA%9F%E8%83%B6%E7%89%87%E6%8F%90%E7%82%BC%E7%99%BD%E9%93%B6%E8%B6%8527%E6%96%A4",
           "source": "百度热搜",
@@ -230,19 +244,6 @@
           "time_info": "[00时05分 ~ 07时52分]"
         },
         {
-          "title": "黄金白银深夜暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
-        },
-        {
           "title": "黄金白银大幅下跌",
           "url": "https://www.douyin.com/hot/2384797",
           "source": "抖音",
@@ -250,11 +251,12 @@
             21,
             25,
             27,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月30日（周五）晚盘收盘下跌9.47%报1070.0元/克；<br/>上海黄金交易所白银T+D 1月30日（周五）晚盘收盘下跌19.0%报23420.0元/千克。",
@@ -588,11 +590,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 17时54分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）热门中概股行情一览（美股盘中）",
