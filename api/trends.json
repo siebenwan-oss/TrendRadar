@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T19:40:09.159025+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-01-31T21:55:09.922349+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "沃什提名引爆金银“血洗”！盘中白银创纪录跌超35%、黄金跌超10%",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
@@ -88,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "黄金白银创单日暴跌纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%88%9B%E5%8D%95%E6%97%A5%E6%9A%B4%E8%B7%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "黄金白银急速跳水原因",
@@ -143,8 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时58分 ~ 19时40分]"
+          "appearance_count": 15,
+          "time_info": "[06时58分 ~ 21时55分]"
         },
         {
           "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
@@ -157,6 +146,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时01分 ~ 12时49分]"
+        },
+        {
+          "title": "黄金白银创单日暴跌纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%88%9B%E5%8D%95%E6%97%A5%E6%9A%B4%E8%B7%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 21时55分]"
         },
         {
           "title": "黄金白银为何暴涨暴跌",
@@ -230,8 +231,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "深交所：对“国投白银LOF”相关投资者采取了暂停交易等自律监管措施",
@@ -277,11 +278,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时59分 ~ 21时55分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月30日（周五）晚盘收盘下跌9.47%报1070.0元/克；<br/>上海黄金交易所白银T+D 1月30日（周五）晚盘收盘下跌19.0%报23420.0元/千克。",
@@ -605,11 +607,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 21时55分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）热门中概股行情一览（美股盘中）",
