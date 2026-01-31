@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T03:01:35.543647+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-02-01T03:39:48.665432+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
         },
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
         },
         {
           "title": "沃什提名引爆金银“血洗”！盘中白银创纪录跌超35%、黄金跌超10%",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
         },
         {
           "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -60,8 +60,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
+        },
+        {
+          "title": "黄金白银大幅下跌 投资者怎么办",
+          "url": "https://www.douyin.com/hot/2385311",
+          "source": "抖音",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时39分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -69,22 +81,12 @@
           "source": "微博",
           "ranks": [
             20,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时01分]"
-        },
-        {
-          "title": "黄金白银大幅下跌 投资者怎么办",
-          "url": "https://www.douyin.com/hot/2385311",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时39分]"
         }
       ]
     }
