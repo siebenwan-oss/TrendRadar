@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T04:51:03.203339+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-01T05:42:37.302649+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "沃什提名引爆金银“血洗”！盘中白银创纪录跌超35%、黄金跌超10%",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -72,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 05时42分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -82,11 +82,12 @@
           "ranks": [
             20,
             10,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时42分]"
         },
         {
           "title": "黄金白银为何暴涨暴跌",
@@ -96,8 +97,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 05时42分]"
         }
       ]
     }
