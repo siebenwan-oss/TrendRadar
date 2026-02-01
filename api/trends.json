@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T21:56:12.439605+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-02-01T22:56:14.003040+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -52,6 +52,19 @@
           "time_info": "[00时59分 ~ 03时39分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时56分]"
+        },
+        {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
           "url": "https://www.cls.cn/detail/2276350",
           "source": "财联社热门",
@@ -62,6 +75,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时59分 ~ 15时52分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时17分 ~ 22时56分]"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -76,42 +103,30 @@
           "time_info": "[03时01分 ~ 07时43分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时56分]"
-        },
-        {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 21时56分]"
-        },
-        {
           "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
           "url": "https://www.cls.cn/detail/2276774",
           "source": "财联社热门",
           "ranks": [
             10,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 21时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时56分 ~ 22时56分]"
+        },
+        {
+          "title": "国投白银LOF开市停牌1小时",
+          "url": "https://www.douyin.com/hot/2386318",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时56分]"
         },
         {
           "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
@@ -121,11 +136,12 @@
             3,
             12,
             17,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 22时56分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -153,6 +169,18 @@
           "time_info": "[04时50分 ~ 19时41分]"
         },
         {
+          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
+          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时56分]"
+        },
+        {
           "title": "2.5吨白银建的湖南永兴银楼被拍卖",
           "url": "https://www.baidu.com/s?wd=2.5%E5%90%A8%E7%99%BD%E9%93%B6%E5%BB%BA%E7%9A%84%E6%B9%96%E5%8D%97%E6%B0%B8%E5%85%B4%E9%93%B6%E6%A5%BC%E8%A2%AB%E6%8B%8D%E5%8D%96",
           "source": "百度热搜",
@@ -163,29 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时56分 ~ 19时41分]"
-        },
-        {
-          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
-          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时56分]"
-        },
-        {
-          "title": "国投白银LOF开市停牌1小时",
-          "url": "https://www.douyin.com/hot/2386318",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "女演员补缴7千提取13年前囤的白银",
@@ -208,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "女演员13年前囤白银遗忘 需补交7千",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%9813%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%99%BD%E9%93%B6%E9%81%97%E5%BF%98+%E9%9C%80%E8%A1%A5%E4%BA%A47%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "演员自曝13年前4元一克买白银",
