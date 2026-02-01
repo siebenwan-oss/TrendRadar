@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:43:48.679303+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-02-01T13:18:12.455249+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄金白银遭遇史诗级跳水 背后“推手”究竟是谁？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 13时18分]"
         },
         {
           "title": "【早报】黄金、白银崩盘式跳水；吴清：全力巩固资本市场稳中向好势头",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 13时18分]"
         },
         {
           "title": "沃什冲击！金属遭遇“黑色星期五”，金铂钯大跳水超10%，白银一度暴跌37%，铜跌4%，美股指齐跌，原油逆市收涨",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 13时18分]"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -97,8 +97,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时50分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[04时50分 ~ 13时18分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         }
       ]
     }
