@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:54:35.153731+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-02T03:05:44.742437+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "国投白银LOF开市停牌1小时",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
@@ -47,9 +47,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时05分]"
         },
         {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "女演员13年前囤白银遗忘 需补交7千",
@@ -69,11 +69,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
@@ -83,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时05分]"
         },
         {
           "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
@@ -94,8 +95,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 03时05分]"
         },
         {
           "title": "黄金白银为何暴涨暴跌",
@@ -104,9 +105,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时05分]"
         }
       ]
     }
