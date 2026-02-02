@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:02:08.161235+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-02-02T19:24:50.363546+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "现货黄金盘中一度跌破4700美元关口，日内跌超3%；现货白银盘中一度跌破77美元关口，日内跌超9%。",
@@ -209,9 +220,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "中国银行发布关于代理个人上金所业务调整白银延期合约业务参数的公告",
+          "url": "https://wallstreetcn.com/livenews/3048312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -280,6 +302,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "白银日内跌幅超14%",
+          "url": "https://www.toutiao.com/trending/7601335266075574291/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "现货白银回落至76美元/盎司下方，日内跌10.94%。",
           "url": "https://flash.jin10.com/detail/20260202120309007800",
           "source": "金十数据",
@@ -289,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "湖南白银：已回购1976万股，使用资金总额1.06亿元",
+          "url": "https://wallstreetcn.com/livenews/3048301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "黄金白银大幅下跌 投资者怎么办",
@@ -311,6 +355,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股三大股指跌超2% 有色金属板块大跌",
+          "url": "https://www.toutiao.com/trending/7602160332387126826/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 19时24分]"
+        },
+        {
+          "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
+          "url": "https://wallstreetcn.com/articles/3764715",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -353,26 +426,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大股指跌超2% 有色金属板块大跌",
-          "url": "https://www.toutiao.com/trending/7602160332387126826/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
         }
       ]
     }
