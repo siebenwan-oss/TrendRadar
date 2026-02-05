@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T07:55:36.892057+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-05T13:10:19.909190+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2280969",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 13时10分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -111,7 +112,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -122,7 +123,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -174,7 +175,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -195,7 +196,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -209,8 +210,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时05分 ~ 07时55分]"
+          "appearance_count": 5,
+          "time_info": "[05时05分 ~ 13时10分]"
         },
         {
           "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
@@ -247,15 +248,59 @@
           "time_info": "03时54分"
         },
         {
+          "title": "白银急挫",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%80%A5%E6%8C%AB%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
+          "url": "https://www.cls.cn/detail/2281028",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。欢迎点击查看数据中心……",
           "url": "https://flash.jin10.com/detail/20260205064811013800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "现货白银日内重挫16%",
+          "url": "https://www.douyin.com/hot/2390231",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。",
+          "url": "https://flash.jin10.com/detail/20260205115111644800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月4日（周三）晚盘收盘下跌1.54%报1112.0元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）晚盘收盘下跌0.13%报22414.0元/千克。",
