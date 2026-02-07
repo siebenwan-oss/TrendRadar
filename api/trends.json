@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:42:51.137755+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-07T21:56:28.989729+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -161,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 21时56分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -195,11 +195,12 @@
             3,
             2,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 21时56分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -212,11 +213,12 @@
             8,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时28分 ~ 19时42分]"
+          "appearance_count": 14,
+          "time_info": "[01时28分 ~ 21时56分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
