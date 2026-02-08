@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:58:21.310881+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-02-08T23:53:43.765044+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             9,
             14,
             19,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 22时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 23时53分]"
         },
         {
           "title": "尽管白银暴跌，散户仍加倍押注",
@@ -86,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 22时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
