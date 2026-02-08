@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:57:55.301150+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-08T22:58:21.310881+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 21时57分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 22时58分]"
         },
         {
           "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
@@ -27,22 +28,24 @@
           "ranks": [
             9,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时58分]"
         },
         {
           "title": "尽管白银暴跌，散户仍加倍押注",
           "url": "https://flash.jin10.com/detail/20260208201102647800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时58分]"
         },
         {
           "title": "谁在逆势抄底白银LOF",
@@ -51,7 +54,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         }
@@ -83,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时52分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 22时58分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
