@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:05:34.886820+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-14T12:59:56.035872+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 07时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 12时59分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -31,23 +53,24 @@
           "time_info": "[01时30分 ~ 07时05分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 07时05分]"
-        },
-        {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
           "url": "https://wallstreetcn.com/articles/3765660",
           "source": "华尔街见闻",
           "ranks": [
             8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 12时59分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
@@ -108,7 +131,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -119,9 +142,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -130,7 +164,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -138,7 +172,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -163,13 +197,24 @@
           "time_info": "[01时30分 ~ 05时54分]"
         },
         {
+          "title": "金十图示：2026年02月14日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260214123315733800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "现货白银周五涨约3%",
           "url": "https://wallstreetcn.com/livenews/3055384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
