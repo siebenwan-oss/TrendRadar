@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T12:59:56.035872+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-02-14T15:23:46.182272+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时23分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -36,9 +36,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时23分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -153,7 +153,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -201,11 +201,12 @@
           "url": "https://flash.jin10.com/detail/20260214123315733800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时23分]"
         },
         {
           "title": "现货白银周五涨约3%",
