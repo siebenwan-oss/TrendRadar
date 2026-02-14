@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T01:54:14.943894+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-02-15T03:04:46.116313+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时04分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时04分]"
         }
       ]
     }
