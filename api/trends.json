@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T05:49:28.096262+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-16T06:56:45.244561+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时56分]"
         },
         {
           "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时56分]"
         },
         {
           "title": "国投瑞银LOF发布白银基金补偿方案",
@@ -54,11 +54,12 @@
           "ranks": [
             9,
             12,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时56分]"
         }
       ]
     }
