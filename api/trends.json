@@ -1,82 +1,50 @@
 {
-  "generated_at": "2026-02-15T23:51:17.919757+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-02-16T01:01:44.654405+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
+          "url": "https://www.cls.cn/detail/2290657",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
+          "url": "https://wallstreetcn.com/livenews/3055625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
           "url": "https://flash.jin10.com/detail/20260215215525567800",
           "source": "金十数据",
           "ranks": [
-            4,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 23时51分]"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时55分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 21时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
-          "url": "https://wallstreetcn.com/livenews/3055625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时51分]"
-        },
-        {
-          "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
-          "url": "https://www.cls.cn/detail/2290657",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时56分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
