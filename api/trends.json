@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T03:47:13.146934+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-17T05:00:58.567866+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时00分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
           "url": "https://wallstreetcn.com/articles/3765768",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时00分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时00分]"
         }
       ]
     }
