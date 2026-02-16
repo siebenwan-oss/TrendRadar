@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T01:24:57.238462+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-17T03:47:13.146934+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时47分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -26,19 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时47分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350731&amp;topic_name=%E8%B4%9F%E5%80%BA%E5%B0%8F%E7%99%BD%E6%A2%AD%E5%93%88%E7%99%BD%E9%93%B6%E9%81%AD%E8%83%96%E6%8F%8D",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时47分]"
         }
       ]
     }
