@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T03:50:14.591691+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-21T04:58:34.801854+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时58分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时58分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时58分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时58分]"
         },
         {
           "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 04时58分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "现货白银站上83美元/盎司，日内涨5.77%。",
+          "url": "https://flash.jin10.com/detail/20260221034016715800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
@@ -126,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 04时58分]"
         }
       ]
     }
