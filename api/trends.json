@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-21T21:55:26.982686+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-02-21T22:55:46.625163+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 22时55分]"
+        },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
           "url": "https://wallstreetcn.com/articles/3765856",
@@ -20,17 +31,6 @@
           "time_info": "[01时07分 ~ 07时01分]"
         },
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 21时55分]"
-        },
-        {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 22时55分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -55,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时07分 ~ 21时55分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 22时55分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -182,8 +182,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时00分 ~ 21时55分]"
+          "appearance_count": 11,
+          "time_info": "[07时00分 ~ 22时55分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -281,8 +281,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时07分 ~ 21时55分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 22时55分]"
         }
       ]
     }
