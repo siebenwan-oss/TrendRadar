@@ -1,271 +1,61 @@
 {
-  "generated_at": "2026-02-21T23:50:23.115877+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-02-22T00:59:40.172727+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 23时50分]"
-        },
-        {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时01分]"
-        },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时07分 ~ 23时50分]"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3057137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 15时07分]"
-        },
-        {
-          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3057124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时55分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3057139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 15时07分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 12时53分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时52分 ~ 07时55分]"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 04时58分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
-          "url": "https://flash.jin10.com/detail/20260220235256591800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
-          "url": "https://wallstreetcn.com/livenews/3057004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "00时59分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时00分 ~ 23时50分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时49分 ~ 05时53分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "现货白银站上83美元/盎司，日内涨5.77%。",
-          "url": "https://flash.jin10.com/detail/20260221034016715800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时58分 ~ 07时55分]"
-        },
-        {
-          "title": "纽约期金周五涨2.5%，本周现货白银涨9.3%",
-          "url": "https://wallstreetcn.com/livenews/3057125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时55分]"
-        },
-        {
-          "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3057005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持COMEX黄金净多头头寸增加3,019手合约，至96,057手合约，创三周新高。 所持COMEX白银净多头头寸创三周新高。 所持COMEX铜净多头头寸创20周新低。 所持NYMEX铂金净多头头寸创四周新高，所持NYMEX钯金净多头头寸创三年新高。",
-          "url": "https://wallstreetcn.com/livenews/3057101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少29.58吨，当前持仓量为15517.61吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260221083747206800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "00时59分"
         }
       ]
     },
@@ -278,15 +68,11 @@
           "url": "https://www.cls.cn/detail/2291772",
           "source": "财联社热门",
           "ranks": [
-            2,
-            3,
-            4,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时07分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     }
