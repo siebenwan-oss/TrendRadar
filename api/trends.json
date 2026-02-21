@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T17:56:42.903634+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-21T18:56:43.688020+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 18时56分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 18时56分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时56分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -180,8 +180,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时00分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时00分 ~ 18时56分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -274,11 +274,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 18时56分]"
         }
       ]
     }
