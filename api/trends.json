@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-02-23T06:56:18.425194+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:52:46.998555+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月23日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260223072200984800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "现货白银突破86美元/盎司，日内涨1.75%。纽约期银站上86美元/盎司，日内涨4.44%。",
+          "url": "https://flash.jin10.com/detail/20260223071535398800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "现货白银短线持续走高，日内涨超1.00%，现报85.46美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260223070741519800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "周一开盘，现货黄金短线小幅震荡，日内微涨0.04%，现货白银短线走高，站上85美元/盎司，日内涨超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260223070209865800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -15,19 +65,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时52分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时52分]"
         }
       ]
     }
