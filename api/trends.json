@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:02:46.314034+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-02-22T18:56:27.337344+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 17时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 18时56分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 18时56分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 17时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 18时56分]"
         }
       ]
     },
