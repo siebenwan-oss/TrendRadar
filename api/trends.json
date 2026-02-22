@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T07:45:28.264430+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-02-22T13:08:22.997439+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 13时08分]"
+        },
+        {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时45分]"
-        },
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 13时08分]"
         }
       ]
     },
