@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T02:11:47.156097+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T04:12:19.153542+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 04时12分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 04时12分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 04时12分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -78,11 +78,12 @@
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 04时12分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -94,6 +95,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260225023158520800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     }
