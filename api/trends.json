@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T02:36:14.253997+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-27T03:36:37.121405+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -26,8 +26,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 2月26日（周四）晚盘收盘下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）晚盘收盘下跌1.57%报21566.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227023023218800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
