@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T07:57:07.416647+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-02-26T13:13:00.973249+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时13分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时13分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -38,19 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 07时57分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[02时16分 ~ 13时13分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -114,7 +115,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -133,7 +134,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "现货白银涨约2.7%，现货铂金涨5.4%",
@@ -147,15 +148,54 @@
           "time_info": "06时01分"
         },
         {
+          "title": "国投白银LOF补偿方案正式启动",
+          "url": "https://www.douyin.com/hot/2411966",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260226115135412800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少28.18吨，当前持仓量为16079.74吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20260226064738775800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 13时13分]"
         }
       ]
     }
