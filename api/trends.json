@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T04:24:26.291603+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-02-27T05:23:52.410301+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时23分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时23分]"
         }
       ]
     },
