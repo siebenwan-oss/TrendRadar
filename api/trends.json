@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-26T13:13:00.973249+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-02-26T16:05:09.833870+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 16时05分]"
+        },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
@@ -19,27 +30,17 @@
           "time_info": "[02时16分 ~ 06时01分]"
         },
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时13分]"
-        },
-        {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
           "url": "https://www.cls.cn/detail/2295296",
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 16时05分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -134,7 +135,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货白银涨约2.7%，现货铂金涨5.4%",
@@ -152,11 +153,23 @@
           "url": "https://www.douyin.com/hot/2411966",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 16时05分]"
+        },
+        {
+          "title": "国投白银LOF补偿今起办理！详细比例首次透露",
+          "url": "https://www.cls.cn/detail/2295399",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）白银ETF持仓报告",
@@ -165,7 +178,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -191,11 +204,12 @@
           "url": "https://www.cls.cn/detail/2295242",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 16时05分]"
         }
       ]
     }
