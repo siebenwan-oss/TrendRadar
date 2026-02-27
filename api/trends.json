@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:24:31.966924+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2026-02-27T20:31:47.337819+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时43分 ~ 11时29分]"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
@@ -202,7 +213,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？",
@@ -210,11 +221,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时31分]"
         },
         {
           "title": "纽约银日内涨幅达4.0%，报91.12美元/盎司；现货白银日内涨幅达2.5%，报90.35美元/盎司。",
@@ -238,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘盘初上涨0.08%报1145.5元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘盘初上涨1.21%报22311.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227200059259800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
