@@ -1,421 +1,83 @@
 {
-  "generated_at": "2026-02-27T23:29:20.416254+08:00",
-  "total_titles_processed": 2089,
+  "generated_at": "2026-02-28T00:27:19.481078+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 26,
+      "keyword_group": "白银",
+      "match_count": 4,
       "titles": [
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时20分]"
-        },
-        {
-          "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
-          "url": "https://flash.jin10.com/detail/20260227053003552800",
+          "title": "现货白银站上94美元/盎司，日内涨6.48%。",
+          "url": "https://flash.jin10.com/detail/20260228001714055800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "00时27分"
         },
         {
-          "title": "奈飞(NFLX.O)美股盘后大涨近8%。",
-          "url": "https://flash.jin10.com/detail/20260227064744288800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
-          "url": "https://flash.jin10.com/detail/20260227151220024800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20260227213721612800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260227231502204800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
-          "url": "https://wallstreetcn.com/livenews/3059808",
+          "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060400",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时27分"
         },
+        {
+          "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260227235313419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
+          "url": "https://flash.jin10.com/detail/20260227234445582800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3059778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 15时38分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 11时29分]"
-        },
-        {
-          "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
-          "url": "https://flash.jin10.com/detail/20260227200350341800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3059777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3060167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3060354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时29分]"
-        },
-        {
-          "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
-          "url": "https://wallstreetcn.com/livenews/3059772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050836225800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "CoreWeave美股盘后跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3059799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时27分"
         },
         {
           "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
           "url": "https://wallstreetcn.com/livenews/3060373",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
-          "url": "https://flash.jin10.com/detail/20260227230411009800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "多邻国美股盘前跌超20%，2026年营收预计低于分析师预期。",
-          "url": "https://wallstreetcn.com/livenews/3060176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260227050544804800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "戴尔(DELL.N)美股盘后涨8%。",
-          "url": "https://flash.jin10.com/detail/20260227050538943800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股收盘：纳指跌超1% 英伟达大跌逾5%",
-          "url": "https://flash.jin10.com/detail/20260227050044369800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股石油股盘前走高，埃克森美孚石油(XOM.N)上涨1.7%，雪佛龙(CVX.N)上涨1.4%，康菲石油(COP.N)上涨1.6%。",
-          "url": "https://flash.jin10.com/detail/20260227215626958800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？",
-          "url": "https://www.zhihu.com/question/2010294430947640231",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时31分]"
-        },
-        {
-          "title": "纽约银日内涨幅达4.0%，报91.12美元/盎司；现货白银日内涨幅达2.5%，报90.35美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时38分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260227115741250800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘盘初上涨0.08%报1145.5元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘盘初上涨1.21%报22311.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260227200059259800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "现货白银日内涨幅达5%，报92.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/3060023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "金银油短线拉升，现货白银日内涨幅达4%，现货黄金短线拉升约50美元",
-          "url": "https://wallstreetcn.com/livenews/3060330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "现货白银站上91美元/盎司，日内涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3060327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "现货白银涨幅扩大至2%，逼近90美元关口。",
-          "url": "https://wallstreetcn.com/livenews/3059930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月26日（周四）晚盘收盘下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）晚盘收盘下跌1.57%报21566.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260227023023218800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "00时27分"
         }
       ]
     }
