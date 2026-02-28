@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:16:19.596270+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-02-28T17:16:13.205804+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时53分 ~ 17时16分]"
+        },
+        {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
@@ -141,18 +153,6 @@
           "time_info": "[00时27分 ~ 06时13分]"
         },
         {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时53分 ~ 16时16分]"
-        },
-        {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
           "url": "https://www.cls.cn/detail/2298093",
           "source": "财联社热门",
@@ -161,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时16分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时16分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -185,8 +185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[07时14分 ~ 17时16分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -258,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
