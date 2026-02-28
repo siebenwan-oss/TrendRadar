@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:13:13.948703+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-01T04:13:37.670722+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时13分]"
         }
       ]
     }
