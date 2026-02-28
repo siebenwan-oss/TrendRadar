@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T11:04:55.877926+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-28T12:46:57.803595+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,18 @@
           "time_info": "[03时26分 ~ 04时17分]"
         },
         {
+          "title": "多数珠宝品牌商现已不回收白银",
+          "url": "https://www.toutiao.com/trending/7611031493875941417/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
           "title": "黄金白银大涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "多数珠宝品牌商现已不回收白银",
-          "url": "https://www.toutiao.com/trending/7611031493875941417/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         }
       ]
     },
@@ -140,6 +141,17 @@
           "time_info": "[00时27分 ~ 06时13分]"
         },
         {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 12时46分]"
+        },
+        {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
@@ -151,17 +163,6 @@
           "time_info": "[07时14分 ~ 07时15分]"
         },
         {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时04分]"
-        },
-        {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
           "url": "https://www.cls.cn/detail/2297908",
           "source": "财联社热门",
@@ -171,8 +172,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时46分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
