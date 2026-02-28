@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:31:45.450651+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-02-28T22:12:39.956816+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时12分]"
         },
         {
           "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
@@ -149,8 +149,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时53分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[08时53分 ~ 22时12分]"
+        },
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 22时12分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -164,18 +176,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 06时13分]"
-        },
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 21时31分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -221,11 +221,12 @@
           "ranks": [
             17,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 22时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
