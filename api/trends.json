@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T22:35:30.782709+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-03-02T23:32:00.092115+08:00",
+  "total_titles_processed": 2165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -64,6 +64,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
           "url": "https://wallstreetcn.com/livenews/3061313",
           "source": "华尔街见闻-快讯",
@@ -92,7 +103,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -108,6 +119,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "油价飙升引发避险潮 美股早盘普跌",
+          "url": "https://flash.jin10.com/detail/20260302225812239800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "大摩坚守美股牛市论 医疗保健板块成避风港",
           "url": "https://flash.jin10.com/detail/20260302194922263800",
           "source": "金十数据",
@@ -117,6 +139,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国与伊朗冲突爆发后，美股邮轮运营商股价盘前走低。嘉年华公司下跌6.9%，皇家加勒比邮轮下跌5.9%，挪威邮轮下跌5.8%。",
@@ -139,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260302224955411800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
