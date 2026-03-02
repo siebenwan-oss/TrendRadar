@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T19:26:02.448443+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-03-02T20:31:35.487871+08:00",
+  "total_titles_processed": 1861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 20时31分]"
         },
         {
           "title": "伊朗危机冲击全球市场：美股三大股指期货均跌0.7%，巴基斯坦触发熔断，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -97,6 +97,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "大摩坚守美股牛市论 医疗保健板块成避风港",
+          "url": "https://flash.jin10.com/detail/20260302194922263800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国与伊朗冲突爆发后，美股邮轮运营商股价盘前走低。嘉年华公司下跌6.9%，皇家加勒比邮轮下跌5.9%，挪威邮轮下跌5.8%。",
           "url": "https://flash.jin10.com/detail/20260302172340379800",
           "source": "金十数据",
@@ -133,7 +144,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国投白银LOF午后触及涨停，现溢价率超51%。",
@@ -145,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘盘初上涨1.55%报1194.93元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘盘初上涨1.03%报23732.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260302200110149800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月2日（周一）收盘上涨4.8%报1199.51元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）收盘上涨8.86%报23998.0元/千克。",
