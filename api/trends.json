@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T04:23:00.755840+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-03-03T05:23:41.180309+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时23分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 05时23分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
