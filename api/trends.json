@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T19:22:05.175861+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-03-04T20:29:28.626897+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时29分]"
         },
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时32分 ~ 13时03分]"
+        },
+        {
+          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时29分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 14时32分]"
-        },
-        {
-          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "黄金盘中跌超 3%，一度跌破 5100 美元，现货白银暴跌 12%，一度跌破 80 美元，发生了什么？",
@@ -227,8 +228,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 20时29分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
