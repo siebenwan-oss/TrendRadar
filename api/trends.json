@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T11:24:24.635660+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-04T13:03:56.635927+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时33分 ~ 06时17分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时03分]"
+        },
+        {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -30,17 +41,6 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时24分]"
-        },
-        {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
           "url": "https://www.cls.cn/detail/2301893",
           "source": "财联社热门",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 11时24分]"
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 13时03分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -134,7 +134,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -196,11 +196,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时32分 ~ 11时24分]"
+          "appearance_count": 9,
+          "time_info": "[03时32分 ~ 13时03分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -232,7 +233,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -254,7 +255,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -265,7 +266,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -287,7 +288,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
