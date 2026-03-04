@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T20:29:28.626897+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2026-03-04T21:48:06.804761+08:00",
+  "total_titles_processed": 2034,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 21时48分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -228,8 +228,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时59分 ~ 21时48分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -252,6 +252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
