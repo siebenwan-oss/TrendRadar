@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T18:24:46.318331+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-04T19:22:05.175861+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时22分]"
         },
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -69,6 +70,17 @@
           "time_info": "[04时21分 ~ 14时32分]"
         },
         {
+          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
           "title": "黄金盘中跌超 3%，一度跌破 5100 美元，现货白银暴跌 12%，一度跌破 80 美元，发生了什么？",
           "url": "https://www.zhihu.com/question/2012256191544320809",
           "source": "知乎",
@@ -108,7 +120,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -211,11 +223,12 @@
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时59分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 19时22分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -400,7 +413,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
