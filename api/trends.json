@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T07:20:10.622096+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-03-05T09:01:42.457314+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时01分]"
+        },
+        {
+          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
+          "url": "https://www.cls.cn/detail/2303150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时01分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -58,22 +70,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
-          "url": "https://www.cls.cn/detail/2303150",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时01分]"
         },
         {
           "title": "城堡证券的Rubner不再看空美股，预计3月将出现反弹",
