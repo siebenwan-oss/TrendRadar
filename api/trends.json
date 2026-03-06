@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:23:37.849835+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-06T19:20:07.846376+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时43分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -168,7 +168,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
