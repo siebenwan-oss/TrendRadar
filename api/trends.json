@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T22:29:05.010567+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-03-06T23:26:23.547766+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时43分 ~ 22时29分]"
+          "appearance_count": 19,
+          "time_info": "[07时43分 ~ 23时26分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -53,6 +53,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 06时19分]"
+        },
+        {
+          "title": "美股三大股指跌幅收窄，纳指现跌1%，标普500指数跌1.24%，道指跌1.39%。",
+          "url": "https://flash.jin10.com/detail/20260306231649816800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -140,6 +162,18 @@
           "time_info": "[06时19分 ~ 07时43分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3065312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140632800",
           "source": "金十数据",
@@ -175,17 +209,6 @@
           "time_info": "21时45分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3065312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "美股芯片股短线走低 英伟达跌近2%",
           "url": "https://flash.jin10.com/detail/20260306013942118800",
           "source": "金十数据",
@@ -195,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "区域银行ETF跌3.77%，银行业ETF跌3.58%，全球航空业ETF跌3.18%，在美股盘初领跌行业ETF，半导体ETF跌2.21%。 标普1500航空指数跌3.6%，进入连续第六个交易日下跌之中。",
+          "url": "https://wallstreetcn.com/livenews/3065326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美股延续跌势，纳指短线下挫，现跌近1%，道指跌约2%，标普500指数跌1.2%。",
@@ -266,7 +300,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
@@ -291,6 +325,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 13时08分]"
+        },
+        {
+          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260306230653728800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
