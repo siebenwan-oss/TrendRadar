@@ -1,69 +1,22 @@
 {
-  "generated_at": "2026-03-06T23:26:23.547766+08:00",
-  "total_titles_processed": 2021,
+  "generated_at": "2026-03-07T00:26:25.695941+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时43分 ~ 23时26分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时43分 ~ 15时32分]"
-        },
-        {
-          "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 06时19分]"
-        },
-        {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 06时19分]"
-        },
-        {
-          "title": "美股三大股指跌幅收窄，纳指现跌1%，标普500指数跌1.24%，道指跌1.39%。",
-          "url": "https://flash.jin10.com/detail/20260306231649816800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "00时26分"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -72,331 +25,37 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
-          "url": "https://wallstreetcn.com/livenews/3064619",
+          "title": "美股另类资产管理公司和银行股大跌，包括贝莱德和Blue Owl在内，因一系列负面私人信贷事件引发市场对行业健康状况的新担忧。 受就业数据弱于预期及中东冲突扩大影响，整体股市亦同步下挫。 目前，贝莱德跌逾5%，Ares Management跌6.3%，KKR & Co Inc跌6.3%，Blue Owl跌6%，黑石跌5.6%，阿波罗全球管理跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3065365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时05分]"
-        },
-        {
-          "title": "【美国2月非农就业报告公布后，美国10年期国债收益率短线下挫，现货黄金短线拉升】美元指数短线走低约20点，现报99.1。美股期货短线走低，纳斯达克100指数期货跌近1%。美国10年期国债收益率短线下挫，现报4.164%。现货黄金短线拉升约40美元，现报5118.35美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3065293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时29分]"
-        },
-        {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时58分 ~ 14时33分]"
-        },
-        {
-          "title": "非农疲软提振降息预期，美债走高，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线拉升",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
-          "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3064618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时05分]"
-        },
-        {
-          "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
-          "url": "https://wallstreetcn.com/livenews/3064666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时43分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
-          "url": "https://wallstreetcn.com/livenews/3064665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时43分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3065312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时26分]"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260306033140632800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时23分]"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260306033140119800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时23分]"
-        },
-        {
-          "title": "卡塔尔警告海湾国家停产，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线下挫",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "美股芯片股短线走低 英伟达跌近2%",
-          "url": "https://flash.jin10.com/detail/20260306013942118800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "区域银行ETF跌3.77%，银行业ETF跌3.58%，全球航空业ETF跌3.18%，在美股盘初领跌行业ETF，半导体ETF跌2.21%。 标普1500航空指数跌3.6%，进入连续第六个交易日下跌之中。",
-          "url": "https://wallstreetcn.com/livenews/3065326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美股延续跌势，纳指短线下挫，现跌近1%，道指跌约2%，标普500指数跌1.2%。",
-          "url": "https://flash.jin10.com/detail/20260306013610859800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "油价急升，美股期货跳水，卡塔尔称所有海湾国家恐在数周内关停生产",
-          "url": "https://wallstreetcn.com/livenews/3065152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日韩股指跌幅快速收窄，日经225指数现跌0.14%，韩国首尔综合指数跌0.26%。 美股期货小幅走高，标普500指数期货现涨0.2%，纳斯达克100指数期货涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3064716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260306050553225800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260306050548553800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股收盘：道指跌1.6% 哔哩哔哩跌7%",
-          "url": "https://flash.jin10.com/detail/20260306050150725800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月06日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260306115436140800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时08分]"
-        },
-        {
-          "title": "现货白银上涨3%，至84.64美元/盎司。 现货黄金涨1.12%，至5138.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3064839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时08分]"
-        },
-        {
-          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260306230653728800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘收盘下跌1.37%报1133.0元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘收盘下跌0.89%报20999.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260306023116487800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "芝商所（CME）将其COMEX 5000白银期货的初始保证金由18%下调至14%。",
-          "url": "https://flash.jin10.com/detail/20260306051416574800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少138.05吨，当前持仓量为15809.52吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260306081700797800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月6日（周五）晚盘盘初下跌0.77%报1132.0元/克；<br/>上海黄金交易所白银T+D 3月6日（周五）晚盘盘初下跌1.07%报20978.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260306200049598800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
       "match_count": 1,
       "titles": [
         {
-          "title": "LME有色金属库存日报",
-          "url": "https://flash.jin10.com/detail/20260306170053790800",
-          "source": "金十数据",
+          "title": "现货白银日内涨超3.00%，现报84.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "00时26分"
         }
       ]
     }
