@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:32:21.451501+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-03-07T22:14:05.352431+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时17分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[07时17分 ~ 22时14分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
