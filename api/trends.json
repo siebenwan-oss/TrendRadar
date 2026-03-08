@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T19:12:36.651847+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-03-08T20:22:51.958699+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
             1,
             8,
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 20时22分]"
         }
       ]
     },
@@ -71,11 +72,12 @@
           "ranks": [
             2,
             4,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时22分]"
         },
         {
           "title": "国投白银LOF：3月9日开市起至当日10:30停牌",
