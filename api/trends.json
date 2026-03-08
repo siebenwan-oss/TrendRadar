@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T18:14:25.452690+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-03-08T19:12:36.651847+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -32,19 +32,6 @@
           "time_info": "[16时17分 ~ 17时18分]"
         },
         {
-          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3065839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时14分]"
-        },
-        {
           "title": "沙特阿美股价早盘上涨3.3%。",
           "url": "https://flash.jin10.com/detail/20260308150416829800",
           "source": "金十数据",
@@ -56,6 +43,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 17时18分]"
+        },
+        {
+          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时12分]"
         }
       ]
     },
@@ -69,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时12分]"
         },
         {
           "title": "国投白银LOF：3月9日开市起至当日10:30停牌",
@@ -81,11 +83,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时12分]"
         }
       ]
     }
