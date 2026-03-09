@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T23:45:51.051742+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-03-10T00:45:12.758229+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -15,234 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 23时45分]"
-        },
-        {
-          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3066555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "美股三大股指期货周一全线低开，均跌1%。",
-          "url": "https://flash.jin10.com/detail/20260309060042758800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时13分]"
-        },
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时18分 ~ 19时27分]"
-        },
-        {
-          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
-          "url": "https://wallstreetcn.com/livenews/3066004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3066608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "[00时44分 ~ 00时45分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
           "ranks": [
-            13,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时58分 ~ 23时45分]"
+          "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "美股股指期货跌幅扩大至2%",
-          "url": "https://flash.jin10.com/detail/20260309062453185800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066345",
+          "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260309214134620800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
-          "url": "https://wallstreetcn.com/livenews/3066428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
-          "url": "https://wallstreetcn.com/livenews/3066555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月09日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260309064149940800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 12时05分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月9日（周一）收盘下跌0.09%报1139.8元/克；<br/>上海黄金交易所白银T+D 3月9日（周一）收盘上涨0.44%报21299.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260309153022648800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "现货黄金日内跌超1.1%，现报5113.11美元/盎司。 现货白银跌超2%，报82.48美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3065946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "现货黄金周一高开，最高至5197.85美元/盎司，现回落至5120美元/盎司附近；现货白银小幅高开，最高逼近85美元/盎司，现回落近2美元，跌破83美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260309060829060800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "现货白银涨超3%，现报84.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3066230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月9日（周一）晚盘盘初上涨0.03%报1139.0元/克；<br/>上海黄金交易所白银T+D 3月9日（周一）晚盘盘初上涨0.93%报21300.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260309200223679800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股有色金属板块午后局部回暖，海南矿业涨停，湖南裕能、西藏矿业、国城矿业、华新环保跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3066205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "00时45分"
         }
       ]
     }
