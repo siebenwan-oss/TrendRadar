@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:34:18.592760+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-03-09T19:27:38.432710+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 19时27分]"
         },
         {
           "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
@@ -83,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
