@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T14:46:28.278510+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-03-09T15:43:34.126823+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年03月09日（周一）白银ETF持仓报告",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 12时05分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月9日（周一）收盘下跌0.09%报1139.8元/克；<br/>上海黄金交易所白银T+D 3月9日（周一）收盘上涨0.44%报21299.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260309153022648800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "现货黄金日内跌超1.1%，现报5113.11美元/盎司。 现货白银跌超2%，报82.48美元/盎司。",
@@ -48,7 +59,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
