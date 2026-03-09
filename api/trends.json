@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T05:22:15.292911+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-03-10T06:17:18.795490+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时17分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨 芯片股走强",
@@ -95,55 +95,60 @@
           "url": "https://wallstreetcn.com/livenews/3066727",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
           "url": "https://wallstreetcn.com/livenews/3066726",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
           "url": "https://wallstreetcn.com/livenews/3066724",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         },
         {
           "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
           "url": "https://wallstreetcn.com/livenews/3066722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         },
         {
           "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3066721",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -163,26 +168,27 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "纽约白银期货涨约3.1%",
-          "url": "https://wallstreetcn.com/livenews/3066735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260310044840238800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "纽约白银期货涨约3.1%",
+          "url": "https://wallstreetcn.com/livenews/3066735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时17分]"
         }
       ]
     }
