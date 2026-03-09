@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T09:02:15.853556+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-03-09T12:05:42.514650+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -64,11 +64,12 @@
           "url": "https://flash.jin10.com/detail/20260309064149940800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 12时05分]"
         },
         {
           "title": "现货黄金日内跌超1.1%，现报5113.11美元/盎司。 现货白银跌超2%，报82.48美元/盎司。",
