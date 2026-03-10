@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-03-11T03:32:19.169324+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-03-11T04:21:35.435936+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时21分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
+          "url": "https://flash.jin10.com/detail/20260311040618267800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260311040539654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260311040537309800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
+          "url": "https://flash.jin10.com/detail/20260311040210694800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -42,7 +87,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         }
