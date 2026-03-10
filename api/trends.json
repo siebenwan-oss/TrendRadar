@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T08:56:46.258969+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-03-10T11:20:05.772468+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 08时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时20分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -169,7 +169,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -180,7 +180,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
