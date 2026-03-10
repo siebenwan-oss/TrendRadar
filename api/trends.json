@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T11:20:05.772468+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-03-10T13:05:05.339685+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时05分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -127,6 +127,17 @@
           "time_info": "[05时22分 ~ 06时17分]"
         },
         {
+          "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
+          "url": "https://www.cls.cn/detail/2307671",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
           "url": "https://wallstreetcn.com/livenews/3066724",
           "source": "华尔街见闻-快讯",
@@ -199,7 +210,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
@@ -224,6 +235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时17分]"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260310115221414800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     }
