@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T11:23:27.195679+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-03-11T13:06:45.768389+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 13时06分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 13时06分]"
         },
         {
           "title": "纽约期金涨超1.9%，一度在美股早盘逼近5250美元",
@@ -195,7 +195,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.34吨，当前持仓量为15654.57吨。欢迎点击查看数据中心...",
@@ -207,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260311115111532800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月10日（周二）晚盘收盘上涨0.57%报1152.5元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）晚盘收盘上涨0.19%报22304.0元/千克。",
