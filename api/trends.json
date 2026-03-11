@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T22:41:12.223752+08:00",
-  "total_titles_processed": 2049,
+  "generated_at": "2026-03-11T23:36:45.880321+08:00",
+  "total_titles_processed": 2142,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时57分 ~ 22时41分]"
+          "appearance_count": 16,
+          "time_info": "[08时57分 ~ 23时36分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -129,11 +129,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时36分]"
         },
         {
           "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
@@ -276,7 +277,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -287,7 +288,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -327,8 +328,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时36分]"
         },
         {
           "title": "国投白银LOF：3月12日开市起至当日10:30停牌",
