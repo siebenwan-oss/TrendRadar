@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:15:21.497601+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-03-12T08:54:51.959348+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -37,9 +37,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 08时54分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 石油股走强",
@@ -72,11 +72,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 08时54分]"
         },
         {
           "title": "周三（3月11日）纽约尾盘，现货黄金跌0.28%，报5176.92美元/盎司，北京时间09:03涨至5223.22美元刷新日高，随后逐步下挫，20:30发布美国CPI通胀数据后、美股盘初跌穿5150美元刷新日低。 COMEX黄金期货跌1.09%，报5184.80美元/盎司。",
@@ -123,7 +124,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -134,7 +135,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -208,18 +209,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 08时54分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -259,13 +261,24 @@
           "time_info": "[05时21分 ~ 07时15分]"
         },
         {
+          "title": "现货白银回落至84美元/盎司下方，日内跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260312080756631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "现货白银失守85美元/盎司，日内跌幅0.82%。",
           "url": "https://flash.jin10.com/detail/20260312063635238800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
