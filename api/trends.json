@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T06:14:30.652247+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-03-13T07:17:34.646526+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 06时14分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -56,6 +67,18 @@
           "time_info": "[04时22分 ~ 05时23分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时17分]"
+        },
+        {
           "title": "美股收盘：纳指跌1.7% 芯片股走弱",
           "url": "https://flash.jin10.com/detail/20260313040117943800",
           "source": "金十数据",
@@ -73,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时17分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
@@ -116,17 +140,6 @@
           "time_info": "[05时23分 ~ 06时14分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
           "url": "https://flash.jin10.com/detail/20260313005601624800",
           "source": "金十数据",
@@ -152,8 +165,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时17分]"
         },
         {
           "title": "现货白银日内跌幅达2.5%，报83.55美元/盎司。",
