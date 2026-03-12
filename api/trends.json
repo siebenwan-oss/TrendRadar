@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T02:37:18.092208+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-03-13T03:43:24.106405+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 03时43分]"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 03时43分]"
         }
       ]
     }
