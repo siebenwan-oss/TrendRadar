@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:11:01.667857+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-03-12T14:39:05.516045+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 14时39分]"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -221,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 14时39分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -268,7 +268,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
