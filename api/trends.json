@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T17:32:23.555212+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-03-12T18:28:10.120190+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
@@ -224,7 +224,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -243,8 +243,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 18时28分]"
         },
         {
           "title": "现货白银日内涨超1.00%，现报86.58美元/盎司。",
@@ -323,7 +323,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -384,7 +384,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
