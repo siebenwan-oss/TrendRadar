@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T07:17:51.154257+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-03-14T08:59:20.133279+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -19,6 +19,17 @@
           "time_info": "[00时25分 ~ 07时17分]"
         },
         {
+          "title": "美伊冲突升级，美股倒V转跌，Mag7陷入回调，Meta跌近4%，美元破百，金银三连跌",
+          "url": "https://wallstreetcn.com/articles/3767492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260314040823519800",
           "source": "金十数据",
@@ -29,6 +40,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 08时59分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
@@ -56,6 +79,19 @@
           "time_info": "[04时21分 ~ 07时17分]"
         },
         {
+          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
+          "url": "https://wallstreetcn.com/articles/3767394",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时23分 ~ 08时59分]"
+        },
+        {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
           "url": "https://flash.jin10.com/detail/20260314040028174800",
           "source": "金十数据",
@@ -66,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时17分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
@@ -102,17 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时27分]"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         },
         {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
@@ -151,7 +164,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
@@ -219,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少78.88吨，当前持仓量为15460.18吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260314080645569800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         },
         {
           "title": "现货白银跌超4%，现报80.62美元/盎司。",
