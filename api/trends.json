@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T12:29:13.384512+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-03-16T14:13:41.150444+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时13分]"
         },
         {
           "title": "现货黄金周一低开近20美元，一度跌破5000美元/盎司；现货白银低开0.3美元，现报79.96美元/盎司。",
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -78,11 +78,23 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 14时13分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -130,7 +142,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
