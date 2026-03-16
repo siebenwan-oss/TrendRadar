@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T09:09:17.177228+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-03-16T12:29:13.384512+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 3月16日（周一）早盘盘初下跌1.48%报1119.75元/克；<br/>上海黄金交易所白银T+D 3月16日（周一）早盘盘初下跌2.57%报20773.0元/千克。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260316064521070800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 12时29分]"
         },
         {
           "title": "国投白银LOF：3月16日开市起至当日10:30停牌",
@@ -40,6 +41,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时18分]"
+        },
+        {
+          "title": "黄金白银再现断崖式跳水",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "现货黄金周一低开近20美元，一度跌破5000美元/盎司；现货白银低开0.3美元，现报79.96美元/盎司。",
@@ -64,11 +77,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 12时29分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -88,7 +102,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -102,6 +116,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沪指、深成指均跌超1%，创业板指跌0.08%，有色金属、钢铁、锂矿、煤炭等方向跌幅居前，沪深京三市下跌个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3070552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
