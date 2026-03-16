@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T14:13:41.150444+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-03-16T16:03:00.856717+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 3月16日（周一）早盘盘初下跌1.48%报1119.75元/克；<br/>上海黄金交易所白银T+D 3月16日（周一）早盘盘初下跌2.57%报20773.0元/千克。",
@@ -48,11 +48,23 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 16时03分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月16日（周一）收盘下跌1.9%报1114.96元/克；<br/>上海黄金交易所白银T+D 3月16日（周一）收盘下跌5.82%报20079.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260316153011320800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "现货黄金周一低开近20美元，一度跌破5000美元/盎司；现货白银低开0.3美元，现报79.96美元/盎司。",
@@ -69,7 +81,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -79,11 +91,23 @@
             6,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 14时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时03分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
@@ -92,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
