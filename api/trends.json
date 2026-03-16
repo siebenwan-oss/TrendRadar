@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T22:12:32.468281+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-03-16T23:54:04.286791+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时54分]"
         },
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -119,7 +119,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -141,7 +141,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         }
