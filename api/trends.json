@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T03:05:09.719122+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-18T04:17:58.305653+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 03时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 04时17分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 03时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 04时17分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 03时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 04时17分]"
         }
       ]
     },
@@ -53,7 +53,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
