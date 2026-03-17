@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T14:48:54.248851+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-03-17T15:45:54.291976+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时45分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 15时45分]"
         },
         {
           "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 15时45分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -134,7 +134,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股贵金属板块午后走强，招金黄金涨超3%，赤峰黄金、湖南白银、盛达资源、山东黄金、晓程科技等个股跟涨。",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月17日（周二）收盘下跌0.26%报1115.6元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）收盘上涨0.6%报20335.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260317153104220800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月16日（周一）晚盘收盘下跌0.33%报1114.84元/克；<br/>上海黄金交易所白银T+D 3月16日（周一）晚盘收盘上涨1.12%报20440.0元/千克。",
@@ -198,7 +209,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
