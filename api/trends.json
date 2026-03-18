@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T07:21:48.623499+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-03-18T09:05:57.262735+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
@@ -30,16 +30,29 @@
           "time_info": "[01时23分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
+          "url": "https://www.cls.cn/detail/2316130",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时05分]"
+        },
+        {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2315898",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 09时05分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         }
       ]
     },
@@ -88,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
