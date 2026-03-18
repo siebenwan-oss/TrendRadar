@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:56:17.666397+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-03-18T14:47:27.287434+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 14时47分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
