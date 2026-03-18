@@ -1,78 +1,34 @@
 {
-  "generated_at": "2026-03-18T16:35:10.725077+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-03-18T17:41:19.302026+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "白银",
+      "match_count": 6,
       "titles": [
         {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
+          "title": "国投白银LOF：3月19日开市起至10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3072315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "国投白银LOF：3月19日开市起至10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260318173635585800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
-        {
-          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时47分]"
-        },
-        {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时23分 ~ 09时05分]"
-        },
-        {
-          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3071892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
         {
           "title": "金十图示：2026年03月18日（周三）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260318115438329800",
@@ -120,6 +76,83 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 06时22分]"
+        },
+        {
+          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 06时22分]"
+        },
+        {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
+          "url": "https://www.cls.cn/detail/2316130",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 14时47分]"
+        },
+        {
+          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2315898",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 09时05分]"
+        },
+        {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -128,11 +161,12 @@
           "url": "https://www.toutiao.com/trending/7618482201037901355/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时41分]"
         }
       ]
     }
