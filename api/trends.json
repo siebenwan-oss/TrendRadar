@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T22:13:40.302331+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-03-18T23:59:31.135769+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
@@ -119,7 +119,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -164,6 +164,17 @@
           "time_info": "[17时41分 ~ 18时40分]"
         },
         {
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时59分]"
+        },
+        {
           "title": "金十图示：2026年03月18日（周三）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260318115438329800",
           "source": "金十数据",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
-          "url": "https://wallstreetcn.com/articles/3767807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "现货白银回落至78美元/盎司下方，日内跌1.53%。",
@@ -247,7 +247,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         }
@@ -264,11 +264,12 @@
           "ranks": [
             4,
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 22时13分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时59分]"
         }
       ]
     }
