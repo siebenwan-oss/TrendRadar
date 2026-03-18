@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T14:47:27.287434+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-18T15:44:41.673569+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年03月18日（周三）白银ETF持仓报告",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金空单密集 国际现货白银留意多单押注",
+          "url": "https://flash.jin10.com/detail/20260318150456375800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     }
