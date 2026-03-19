@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:52:38.359441+08:00",
-  "total_titles_processed": 2138,
+  "generated_at": "2026-03-19T23:42:14.350459+08:00",
+  "total_titles_processed": 2218,
   "failed_sources": [],
   "trends": [
     {
@@ -212,8 +212,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
+          "url": "https://www.cls.cn/detail/2318687",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
         {
           "title": "现货白银回落至74美元/盎司下方，日内跌1.77%。",
           "url": "https://flash.jin10.com/detail/20260319142257957800",
@@ -267,11 +278,25 @@
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时42分]"
+        },
+        {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时42分]"
         },
         {
           "title": "国投白银LOF：3月20日开市起至10:30停牌",
@@ -283,18 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时52分]"
         },
         {
           "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
