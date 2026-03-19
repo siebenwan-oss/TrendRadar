@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:32:58.715763+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-03-19T18:29:08.185667+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -193,6 +193,19 @@
           "time_info": "14时43分"
         },
         {
+          "title": "黄金、白银跳水，原油、天然气飙升",
+          "url": "https://www.cls.cn/detail/2318063",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时29分]"
+        },
+        {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
@@ -206,25 +219,13 @@
           "time_info": "[00时56分 ~ 05时40分]"
         },
         {
-          "title": "黄金、白银跳水，原油、天然气飙升",
-          "url": "https://www.cls.cn/detail/2318063",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时32分]"
-        },
-        {
           "title": "国投白银LOF：3月20日开市起至10:30停牌",
           "url": "https://wallstreetcn.com/livenews/3073146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -269,7 +270,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
