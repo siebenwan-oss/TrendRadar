@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T00:44:52.993349+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-03-20T01:56:38.313019+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时56分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -26,19 +26,59 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时56分]"
         },
         {
           "title": "现货黄金白银暴跌",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时56分]"
+        },
+        {
+          "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2017698247188194999",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260320010337054800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260320010247282800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
