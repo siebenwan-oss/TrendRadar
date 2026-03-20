@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:39:47.629309+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-20T15:39:05.406382+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 15时39分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时39分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -194,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时39分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月19日（周四）晚盘收盘下跌4.76%报1026.42元/克；<br/>上海黄金交易所白银T+D 3月19日（周四）晚盘收盘下跌6.75%报17550.0元/千克。",
@@ -263,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时39分]"
         },
         {
           "title": "现货黄金延续美联储决议日跌穿百日均线的表现，白银随后也失守百日均线",
@@ -355,8 +355,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 15时39分]"
         }
       ]
     }
