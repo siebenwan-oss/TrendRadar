@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T07:18:34.371084+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-03-21T08:57:35.835473+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -21,18 +21,18 @@
           "time_info": "[00时29分 ~ 06时16分]"
         },
         {
-          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040633903800",
-          "source": "金十数据",
+          "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时18分]"
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
-          "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
@@ -40,7 +40,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "08时57分"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -66,11 +66,36 @@
             7,
             8,
             6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时57分]"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260321040633903800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 08时57分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时18分]"
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 08时57分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
@@ -91,33 +116,36 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时57分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260321040547079800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 08时57分]"
         },
         {
           "title": "美股三大指数收跌 超微电脑跌超30%",
           "url": "https://flash.jin10.com/detail/20260321040036809800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 08时57分]"
         },
         {
           "title": "超微电脑美股盘后涨1.6%。",
@@ -130,17 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
@@ -167,6 +184,18 @@
           "time_info": "[05时20分 ~ 06时16分]"
         },
         {
+          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3074368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 08时57分]"
+        },
+        {
           "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
           "url": "https://flash.jin10.com/detail/20260321040036809800",
           "source": "金十数据",
@@ -178,21 +207,21 @@
           "time_info": "04时19分"
         },
         {
-          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3074368",
+          "title": "美股七巨头收盘播报｜周五（3月20日），美国科技股七巨头（Magnificent 7）指数跌2.00%，报185.18点，本周累计下跌2.48%，3月16-17日高位窄幅震荡，3月18-20日持续走低。 “超大”市值科技股指数跌1.99%，报352.43点，本周累跌2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3074383",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄金白银为何暴跌？",
@@ -219,6 +248,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加61.97吨，当前持仓量为15248.91吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260321082852583800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "现货白银周五跌约6.5%，纽约期银本周跌约16.3%，纽约铜期货累跌约7.9%",
           "url": "https://wallstreetcn.com/livenews/3074344",
           "source": "华尔街见闻-快讯",
@@ -241,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "黄金白银狂泻",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%8B%82%E6%B3%BB%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "现货白银日内重挫5美元，现报67.81美元/盎司，跌幅6.89%。纽约期银回落至68美元/盎司下方，日内跌4.52%。",
