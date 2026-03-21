@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T11:15:35.093181+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-03-21T13:02:03.792150+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时02分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -52,8 +52,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 11时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 13时02分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时02分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -70,21 +86,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 06时16分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 11时15分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -148,6 +149,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 08时57分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
@@ -217,7 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -236,7 +248,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄金白银为何暴跌？",
@@ -286,6 +298,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时18分]"
+        },
+        {
+          "title": "黄金失守 4500 美元，白银跌破 68 美元，是短期调整还是趋势终结？会继续下探吗？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/2018600177959708307",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "现货白银日内跌幅达7.0%，报67.67美元/盎司。",
