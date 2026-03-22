@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T12:08:57.848370+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-03-22T13:45:16.640388+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 13时45分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -64,11 +65,12 @@
           "url": "https://flash.jin10.com/detail/20260322112216406800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
