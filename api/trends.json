@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T17:21:16.067945+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-03-22T18:16:12.864499+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 18时16分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -93,6 +93,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国投白银LOF：3月23日开市起至当日10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260322170427149800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
