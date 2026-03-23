@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T09:05:50.599385+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-03-23T12:16:00.866855+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金转为上涨0.8%，报4534.53美元/盎司；现货白银涨超2%，报69.41美元/盎司。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "黄金跳水失守4340美元 白银大跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%A4%B1%E5%AE%884340%E7%BE%8E%E5%85%83+%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "现货白银日内涨超2.00%，现报69.21美元/盎司。",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2026年03月23日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260323115146672800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "现货黄金周一开盘走低25美元后回升，现报4486美元/盎司；现货白银跌超1%，最新报67.17美元/盎司。",
