@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T02:37:28.452707+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-24T03:40:13.987670+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时40分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时40分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时40分]"
         },
         {
           "title": "美股",
@@ -47,11 +47,12 @@
           "ranks": [
             15,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时40分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -63,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时40分]"
         },
         {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
