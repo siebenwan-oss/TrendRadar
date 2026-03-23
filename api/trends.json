@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T17:52:04.592265+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-03-23T18:42:04.394585+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 18时42分]"
         },
         {
           "title": "现货黄金转为上涨0.8%，报4534.53美元/盎司；现货白银涨超2%，报69.41美元/盎司。",
@@ -136,7 +136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -230,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
