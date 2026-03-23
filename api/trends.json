@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:17:16.432427+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-23T09:05:50.599385+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货黄金转为上涨0.8%，报4534.53美元/盎司；现货白银涨超2%，报69.41美元/盎司。",
@@ -14,9 +14,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "黄金白银开涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BC%80%E6%B6%A8%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "现货白银日内大跌3美元，现报64.84美元/盎司，跌幅4.43%。",
+          "url": "https://flash.jin10.com/detail/20260323083724888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "现货白银日内涨超2.00%，现报69.21美元/盎司。",
@@ -25,7 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -36,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -53,7 +75,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -64,7 +86,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -75,7 +97,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
