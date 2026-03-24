@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T19:37:21.980863+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-03-24T20:40:56.975796+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 20时40分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -112,11 +112,12 @@
             4,
             7,
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 20时40分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -185,8 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
@@ -254,7 +255,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -265,7 +266,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -273,7 +274,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银日内跌幅扩大至4%，报66.29美元/盎司。",
@@ -342,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月24日（周二）晚盘盘初上涨0.43%报977.0元/克；<br/>上海黄金交易所白银T+D 3月24日（周二）晚盘盘初上涨3.85%报17299.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260324200122428800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
