@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T02:45:27.006274+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-25T03:46:05.705544+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时46分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时46分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时46分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时46分]"
         },
         {
           "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股盘中）",
@@ -72,7 +72,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         },
