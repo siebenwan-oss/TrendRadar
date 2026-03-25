@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T20:38:21.562872+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2026-03-25T22:10:11.834813+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 20时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时03分 ~ 22时10分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -136,6 +136,28 @@
           "time_info": "[17时41分 ~ 20时38分]"
         },
         {
+          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
           "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3076543",
           "source": "华尔街见闻-快讯",
@@ -169,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美股存储板块走低，美光科技跌超4%，闪迪跌6.5%，西部数据跌超4%，希捷科技跌超5%。此前Google Research推出了TurboQuant，这是一种全新的KV缓存压缩方法。据称，该方法可在不损失准确性的前提下，将大语言模型（LLM）的缓存内存占用至少减少6倍，并实现最高8倍的加速，旨在解决人工智能推理和向量搜索中的内存瓶颈问题。",
+          "url": "https://wallstreetcn.com/livenews/3076731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "金价美股盘后拉升，投资者紧盯中东局势",
@@ -218,6 +251,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。 该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德国思爱普Sap，预计年收入将在2031年达到150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260325021257768800",
           "source": "金十数据",
@@ -249,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.1%，拼多多涨约2%，Arm Holdings涨约12%",
+          "url": "https://wallstreetcn.com/livenews/3076716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "逼空行情将至？城堡证券喊多：美股4月或迎暴力反弹",
@@ -366,7 +421,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -377,7 +432,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
