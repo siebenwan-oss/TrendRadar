@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T02:40:54.581749+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-03-26T03:38:34.659681+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时38分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时38分]"
         },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2324750",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时38分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -77,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时38分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月25日（周三）晚盘收盘上涨0.43%报1013.48元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）晚盘收盘下跌0.58%报17912.0元/千克。",
@@ -87,7 +88,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         }
