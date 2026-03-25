@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T13:54:54.149810+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-03-25T14:51:01.069534+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 14时51分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 14时51分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -113,11 +113,12 @@
             14,
             15,
             23,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 13时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 14时51分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -199,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "逼空行情将至？城堡证券喊多：美股4月或迎暴力反弹",
+          "url": "https://flash.jin10.com/detail/20260325141538639800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
