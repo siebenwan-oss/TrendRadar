@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T12:08:30.075109+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-03-25T13:54:54.149810+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时54分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时54分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -112,11 +112,12 @@
             12,
             14,
             15,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 12时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 13时54分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -234,7 +235,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
