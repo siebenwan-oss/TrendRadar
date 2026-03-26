@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:41:35.119975+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-03-26T20:05:51.897573+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 20时05分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 20时05分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -115,6 +115,17 @@
           "time_info": "[00时56分 ~ 09时09分]"
         },
         {
+          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 20时05分]"
+        },
+        {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3076887",
           "source": "华尔街见闻-快讯",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时26分]"
-        },
-        {
-          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时41分]"
         },
         {
           "title": "美股收盘：三大股指收涨 CPU巨头走强",
@@ -231,7 +231,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -246,6 +246,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时56分 ~ 09时09分]"
+        },
+        {
+          "title": "现货白银日内跌幅达6.0%，报66.93美元/盎司；纽约银日内跌幅达7.5%，报67.16美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月25日（周三）晚盘收盘上涨0.43%报1013.48元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）晚盘收盘下跌0.58%报17912.0元/千克。",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "现货白银日内大跌5.00%，现报67.60美元/盎司。纽约期银日内暴跌7.00%，现报67.55美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260326194940290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "现货黄金短线走低，日内跌0.5%，报4483.06美元/盎司。 现货白银跌近1%，报70.51美元/盎司。",
