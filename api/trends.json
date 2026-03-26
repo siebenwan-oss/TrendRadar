@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-26T14:07:36.303288+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-03-26T15:53:58.996877+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时53分]"
+        },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
           "url": "https://wallstreetcn.com/articles/3768319",
@@ -19,17 +30,6 @@
           "time_info": "[00时56分 ~ 04时27分]"
         },
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时07分]"
-        },
-        {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
           "url": "https://www.cls.cn/detail/2324998",
           "source": "财联社热门",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时53分]"
         },
         {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时53分]"
         },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
@@ -207,7 +207,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
@@ -252,9 +252,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月26日（周四）收盘下跌1.96%报989.31元/克；<br/>上海黄金交易所白银T+D 3月26日（周四）收盘下跌4.09%报17280.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260326153048036800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）白银ETF持仓报告",
@@ -274,7 +285,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
