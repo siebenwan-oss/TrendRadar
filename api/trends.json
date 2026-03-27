@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T07:20:08.375946+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-03-27T09:08:51.012152+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -37,8 +37,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时08分]"
+        },
+        {
+          "title": "美股标普纳指创开战后最大单日跌幅",
+          "url": "https://www.toutiao.com/trending/7621704767055597083/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -80,11 +113,12 @@
           "url": "https://www.cls.cn/detail/2326015",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 09时08分]"
         },
         {
           "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
@@ -110,6 +144,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "美股标普纳指创开战后最大单日跌幅",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
           "url": "https://flash.jin10.com/detail/20260327015622629800",
           "source": "金十数据",
@@ -124,7 +169,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.21吨，当前持仓量为15409.46吨。欢迎点击查看数据中心……",
@@ -149,13 +194,24 @@
           "time_info": "02时47分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 3月27日（周五）早盘盘初下跌2.33%报978.98元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）早盘盘初下跌4.37%报16951.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260327090101750800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "现货白银日内涨幅达1.5%，报68.95美元/盎司。 华尔街日报援引熟悉美国与伊朗和平磋商调解方报道称，伊朗并没有要求美国暂停袭击其能源工厂。 伊朗也没有对美方所谓的和平计划给出最终回应。",
           "url": "https://wallstreetcn.com/livenews/3077729",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
