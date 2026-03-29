@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:19:24.213696+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-03-29T20:27:44.356684+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -61,17 +61,18 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时05分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时05分 ~ 20时27分]"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国投白银LOF：本基金将于2026年3月27日开市起至当日10:30停牌，自2026年3月27日10:30复牌，停牌期间本基金赎回业务照常办理。",
@@ -85,6 +86,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时19分]"
+        },
+        {
+          "title": "国投白银LOF：本基金将于2026年3月30日开市起至当日10:30停牌，自2026年3月30日10:30复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260329170740669800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
