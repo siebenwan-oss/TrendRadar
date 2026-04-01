@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T16:08:12.562107+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-01T17:57:36.673954+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 17时57分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -84,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 17时57分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
