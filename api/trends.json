@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T20:48:25.839761+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-04-01T22:24:21.754452+08:00",
+  "total_titles_processed": 1899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 22时24分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -81,11 +81,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时23分 ~ 20时48分]"
+          "appearance_count": 13,
+          "time_info": "[06时23分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -218,9 +219,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
@@ -289,15 +301,48 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美股涨幅扩大，纳指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3080958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF、半导体ETF涨超2%，全球科技股指数ETF涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3080956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国3月ADP就业数据公布后，美元指数、美股期货短线波动不大",
           "url": "https://wallstreetcn.com/livenews/3080904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.7%，大型科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3080946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "交易员称美股本轮劲扬主要由空头回补所致 并非伊朗和平前景",
@@ -306,7 +351,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
