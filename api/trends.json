@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T00:55:00.407805+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-04-02T01:45:16.457193+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 00时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 01时45分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 00时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 01时45分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -50,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 00时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 01时45分]"
         },
         {
           "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
@@ -71,7 +71,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -107,6 +107,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货白银日内涨幅达1.0%，报75.83美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3081049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报75.92美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260402010113213800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     }
