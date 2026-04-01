@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T12:38:31.793941+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-01T14:20:39.597773+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 14时20分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时20分]"
         },
         {
           "title": "美股三大股指集体收涨纳指涨超3.8%",
@@ -73,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -86,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 14时20分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -301,7 +301,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
