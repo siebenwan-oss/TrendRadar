@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T20:42:55.499570+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-04-02T22:14:56.920249+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时25分]"
+        },
+        {
+          "title": "蓝猫资本美股股价下跌7.6%，创历史最低盘中价。",
+          "url": "https://flash.jin10.com/detail/20260402214652637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -64,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时26分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时26分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -154,6 +165,17 @@
           "time_info": "[05时32分 ~ 06时25分]"
         },
         {
+          "title": "美股跌幅扩大，纳指跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3081637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
           "url": "https://wallstreetcn.com/livenews/3081151",
           "source": "华尔街见闻-快讯",
@@ -163,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普跌，全球航空业ETF跌超4%，全球科技股ETF、半导体ETF跌近3%，能源业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3081633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "电信服务商Globalstar美股盘前涨12%，此前英国金融时报报道亚马逊正洽谈收购该公司。",
@@ -176,6 +220,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "美股盘初大跌：纳指跌1.7%，特斯拉跌约4%，Blue Owl跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3081631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
           "url": "https://flash.jin10.com/detail/20260401233848260800",
           "source": "金十数据",
@@ -185,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260402214152879800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
@@ -220,6 +297,17 @@
           "time_info": "16时45分"
         },
         {
+          "title": "美股低开低走，纳指跌幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260402213923065800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "全球星(GSAT.O)美股盘后涨超10%。",
           "url": "https://flash.jin10.com/detail/20260402064156553800",
           "source": "金十数据",
@@ -231,15 +319,37 @@
           "time_info": "07时27分"
         },
         {
+          "title": "特斯拉美股盘前跌超4%，公司一季度交付量不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3081618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美股期货走低，纳斯达克100指数期货跌2%，标普500指数期货跌1.5%，道指期货跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3081568",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3081609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
@@ -251,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "美股三大股指开盘大跌",
+          "url": "https://flash.jin10.com/detail/20260402213027603800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股Destiny Tech100成交量激增；现涨8%，报道称SpaceX已秘密提交IPO申请。",
@@ -267,8 +388,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
         {
           "title": "特朗普威胁升级对伊战事，布油日内涨9%，美股期货全线下跌，黄金跌破4600、白银日内跌超5%",
           "url": "https://wallstreetcn.com/articles/3769052",
@@ -276,7 +408,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
