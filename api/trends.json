@@ -1,269 +1,66 @@
 {
-  "generated_at": "2026-04-02T23:47:46.116006+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2026-04-03T00:43:32.410671+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260403003135168800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时25分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
-          "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260403003131838800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "蓝猫资本美股股价下跌7.6%，创历史最低盘中价。",
-          "url": "https://flash.jin10.com/detail/20260402214652637800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 05时32分]"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 14时04分]"
-        },
-        {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时26分 ~ 23时47分]"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260402040551362800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
-          "url": "https://wallstreetcn.com/livenews/3081023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时55分]"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260402040549263800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 内存股走强",
-          "url": "https://flash.jin10.com/detail/20260402040132988800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
-          "url": "https://wallstreetcn.com/livenews/3081112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "美股三大指数高开 耐克跌超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 04时33分]"
+          "time_info": "00时43分"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时47分]"
-        },
-        {
-          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3081109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "美股跌幅扩大，纳指跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3081637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时47分]"
-        },
-        {
-          "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3081151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "00时43分"
         },
         {
-          "title": "美股盘初，主要行业ETF普跌，全球航空业ETF跌超4%，全球科技股ETF、半导体ETF跌近3%，能源业ETF涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3081633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "电信服务商Globalstar美股盘前涨12%，此前英国金融时报报道亚马逊正洽谈收购该公司。",
-          "url": "https://flash.jin10.com/detail/20260402160551830800",
-          "source": "金十数据",
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "00时43分"
         },
         {
-          "title": "美股盘初大跌：纳指跌1.7%，特斯拉跌约4%，Blue Owl跌约6%",
-          "url": "https://wallstreetcn.com/livenews/3081631",
+          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
+          "url": "https://wallstreetcn.com/livenews/3081707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
-          "url": "https://flash.jin10.com/detail/20260401233848260800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260402214152879800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "00时43分"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -272,136 +69,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003143069800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "00时43分"
         },
         {
-          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003135801800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美股三大股指期货维持跌势，标普500指数期货跌1%，纳斯达克100指数期货跌1.3%，道琼斯指数期货下跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20260402160122713800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "美股低开低走，纳指跌幅扩大至2%。",
-          "url": "https://flash.jin10.com/detail/20260402213923065800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "全球星(GSAT.O)美股盘后涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260402064156553800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "特斯拉美股盘前跌超4%，公司一季度交付量不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3081618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌2%，标普500指数期货跌1.5%，道指期货跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3081568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3081609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
-          "url": "https://flash.jin10.com/detail/20260401232819708800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "美股三大股指开盘大跌",
-          "url": "https://flash.jin10.com/detail/20260402213027603800",
-          "source": "金十数据",
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美股Destiny Tech100成交量激增；现涨8%，报道称SpaceX已秘密提交IPO申请。",
-          "url": "https://flash.jin10.com/detail/20260401232552665800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -411,157 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时47分]"
-        },
-        {
-          "title": "特朗普威胁升级对伊战事，布油日内涨9%，美股期货全线下跌，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
-          "url": "https://flash.jin10.com/detail/20260402060250655800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，现货黄金涨1.91%，报4757.17美元/盎司，整体持续走高，交投于4662.36-4793.11美元。 COMEX黄金期货涨2.27%，报4784.90美元/盎司，从4690美元持续走高至4821美元。 现货白银跌0.09%，报75.0995美元/盎司。 COMEX白银期货涨0.54%，报75.320美元/盎司。 COMEX铜期货跌0.49%，报5.6230美元/磅。 现货铂金涨0.58%，现货钯金持平。",
-          "url": "https://wallstreetcn.com/livenews/3081113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 19时37分]"
-        },
-        {
-          "title": "现货黄金跌破4600美元/盎司，日内跌幅达3.5%。 现货白银日内跌幅扩大至6%，报70.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月1日（周三）晚盘收盘上涨1.43%报1054.1元/克；<br/>上海黄金交易所白银T+D 4月1日（周三）晚盘收盘上涨0.24%报18700.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260402023103711800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时50分]"
-        },
-        {
-          "title": "现货白银日内涨幅达1.0%，报75.83美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时43分]"
-        },
-        {
-          "title": "现货白银日内跌幅达5.5%，报70.92美元/盎司。 现货黄金跌破4650美元，日内跌近2.5%。 上期所沪银主力合约大跌5%，报17730元/千克。",
-          "url": "https://wallstreetcn.com/livenews/3081343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "现货白银日内跌幅达2.0%，报73.4美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "现货白银日内涨超1.00%，现报75.92美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260402010113213800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月2日（周四）收盘下跌1.24%报1026.4元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）收盘下跌5.23%报17680.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260402153010978800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "黄金白银大跌特跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E7%89%B9%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260402115147740800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "00时43分"
         }
       ]
     }
