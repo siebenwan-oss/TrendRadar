@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T03:41:10.491421+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-03T04:23:33.927734+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260403040200866800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股盘中）",
@@ -39,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -51,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -64,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -74,11 +85,12 @@
           "ranks": [
             27,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -117,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
