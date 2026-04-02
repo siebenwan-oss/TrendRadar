@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T16:45:43.590591+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-04-02T17:49:54.141713+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 17时49分]"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -171,7 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -215,7 +215,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -287,11 +287,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 17时49分]"
         },
         {
           "title": "现货黄金跌破4600美元/盎司，日内跌幅达3.5%。 现货白银日内跌幅扩大至6%，报70.55美元/盎司。",
@@ -379,7 +380,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
