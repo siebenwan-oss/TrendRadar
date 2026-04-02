@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T00:43:32.410671+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-03T01:41:05.865273+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -48,41 +49,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
-          "url": "https://wallstreetcn.com/livenews/3081707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时41分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
           "url": "https://www.cls.cn/detail/2333333",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时41分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时41分]"
+        },
+        {
+          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
+          "url": "https://wallstreetcn.com/livenews/3081707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时41分]"
         }
       ]
     },
@@ -98,8 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时41分]"
         }
       ]
     }
