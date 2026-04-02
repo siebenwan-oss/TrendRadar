@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T14:04:55.428913+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-04-02T15:57:46.974066+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 14时04分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时57分]"
         },
         {
           "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
@@ -233,7 +233,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
@@ -265,7 +265,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -294,13 +294,24 @@
           "time_info": "[01时45分 ~ 02时43分]"
         },
         {
+          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "现货白银日内跌幅达5.5%，报70.92美元/盎司。 现货黄金跌破4650美元，日内跌近2.5%。 上期所沪银主力合约大跌5%，报17730元/千克。",
           "url": "https://wallstreetcn.com/livenews/3081343",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -325,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月2日（周四）收盘下跌1.24%报1026.4元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）收盘下跌5.23%报17680.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260402153010978800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）白银ETF持仓报告",
