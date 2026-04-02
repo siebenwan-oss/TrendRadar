@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:22:10.930820+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-03T07:22:55.851800+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -30,6 +30,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
@@ -39,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时22分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -77,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时22分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -90,11 +101,12 @@
             22,
             24,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时22分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -104,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 07时22分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -189,11 +201,12 @@
           "url": "https://flash.jin10.com/detail/20260403054814113800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
