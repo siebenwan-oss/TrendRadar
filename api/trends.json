@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T02:39:31.364899+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-04-03T03:41:10.491421+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -35,22 +35,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时41分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -58,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时41分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -70,11 +73,23 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时41分]"
+        },
+        {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -102,19 +117,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时41分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260403023044891800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时41分]"
         }
       ]
     }
