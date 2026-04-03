@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-03T07:22:55.851800+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-04-03T09:10:26.167757+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时10分]"
+        },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
@@ -30,28 +41,18 @@
           "time_info": "00时43分"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 09时10分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
