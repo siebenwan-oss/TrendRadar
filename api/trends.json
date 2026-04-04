@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T16:27:31.836107+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-04-04T17:27:52.163916+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 17时27分]"
         },
         {
           "title": "中国有色金属工业协会硅业分会赴包头开展硅产业深度调研",
