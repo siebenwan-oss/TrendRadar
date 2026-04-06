@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-06T20:42:18.892395+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-04-06T22:04:20.344698+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股存储概念股上涨，希捷科技(STX.O)涨7%，闪迪(SNDK.O)涨4.3%，西部数据(WDC.O)涨4%，美光科技(MU.O)涨3.1%。",
+          "url": "https://flash.jin10.com/detail/20260406213359587800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、半导体ETF涨近1%，医疗业ETF跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3082847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3082682",
@@ -18,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时12分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.3%，存储板块涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3082845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
@@ -55,6 +88,17 @@
           "time_info": "17时58分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260406213037860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美股“最强4月”成泡影？三大逆风突袭，反弹之路或功亏一篑",
           "url": "https://flash.jin10.com/detail/20260406114344911800",
           "source": "金十数据",
@@ -75,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3082834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美股底部已现？真底还是死猫跳？4月或是关键！丨Hi，今天怎么看？",
