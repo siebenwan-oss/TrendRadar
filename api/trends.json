@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T16:41:20.263768+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-04-07T18:34:46.457949+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球首款纯内存芯片ETF近日在美股上市",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 16时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 18时34分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -128,6 +128,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "美股股指期货短线走弱，标普500指数期货转跌。",
+          "url": "https://flash.jin10.com/detail/20260407182847672800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
           "url": "https://wallstreetcn.com/livenews/3082970",
           "source": "华尔街见闻-快讯",
@@ -156,7 +167,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -175,7 +186,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
@@ -199,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 12时23分]"
+        },
+        {
+          "title": "国投白银LOF：将于4月8日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3083370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
