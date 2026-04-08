@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T03:01:44.588726+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-09T03:59:29.949668+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时59分]"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时59分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时59分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时59分]"
         }
       ]
     },
@@ -65,7 +66,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
