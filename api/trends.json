@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T19:44:37.540919+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-04-08T20:51:21.591250+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 20时51分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时56分 ~ 19时44分]"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，现货钯金涨超9%，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -214,7 +225,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
@@ -338,7 +349,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "标普500指数目前跌0.4%，道指跌0.5%，纳指跌0.6%。 WTI原油跌破113美元/桶关口，报112.81美元/桶；布伦特原油跌破108美元/桶关口，报107.68美元/桶。 现货黄金5分钟内上涨22.53美元/盎司，报4692.84美元/盎司；纽约金5分钟内上涨10.1美元/盎司，报4715.9美元/盎司。 美国国债价格走高。 巴基斯坦总理称，请求美国总统特朗普将对伊朗的最后期限延长两周，请求伊朗将霍尔木兹海峡开放两周。",
@@ -351,6 +362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "世界黄金协会：展望未来，黄金价格有望出现反弹",
+          "url": "https://flash.jin10.com/detail/20260408203520930800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     }
