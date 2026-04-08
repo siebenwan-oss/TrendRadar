@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T12:26:34.870447+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-04-08T14:14:46.252047+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 14时14分]"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 14时14分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -81,6 +81,19 @@
           "time_info": "[04时34分 ~ 06时27分]"
         },
         {
+          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2337241",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 14时14分]"
+        },
+        {
           "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3083708",
           "source": "华尔街见闻-快讯",
@@ -92,18 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时27分]"
-        },
-        {
-          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
-          "url": "https://www.cls.cn/detail/2337241",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时26分]"
         },
         {
           "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
@@ -208,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 14时14分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月8日（周三）早盘盘初上涨3.18%报1062.48元/克；<br/>上海黄金交易所白银T+D 4月8日（周三）早盘盘初上涨4.93%报18800.0元/千克。",
@@ -229,7 +230,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
