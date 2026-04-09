@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T05:37:35.714292+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-04-10T06:30:00.419661+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 06时30分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 06时30分]"
         },
         {
           "title": "贝莱德：市场对美股的盈利预期过于乐观",
@@ -103,6 +103,18 @@
           "time_info": "[04时40分 ~ 05时37分]"
         },
         {
+          "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3085334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
           "title": "美股收盘：标普500指数、纳指7连涨",
           "url": "https://flash.jin10.com/detail/20260410040102828800",
           "source": "金十数据",
@@ -115,15 +127,38 @@
           "time_info": "[04时40分 ~ 05时37分]"
         },
         {
-          "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3085334",
-          "source": "华尔街见闻-快讯",
+          "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
+          "url": "https://flash.jin10.com/detail/20260410060121700800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨5.6%，Meta涨2.6%",
+          "url": "https://wallstreetcn.com/livenews/3085330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "美债收益率于美股早盘显著下挫，两年期实际收益率飙涨31个基点",
@@ -138,15 +173,15 @@
           "time_info": "[04时40分 ~ 05时37分]"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收涨5.6%，Meta涨2.6%",
-          "url": "https://wallstreetcn.com/livenews/3085330",
+          "title": "美股大类资产类ETF多数收涨",
+          "url": "https://wallstreetcn.com/livenews/3085346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时30分"
         },
         {
           "title": "美股开盘：蔚来涨超3%",
@@ -170,11 +205,12 @@
           "url": "https://wallstreetcn.com/livenews/3085335",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时30分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月9日（周四）晚盘收盘上涨0.86%报1051.0元/克；<br/>上海黄金交易所白银T+D 4月9日（周四）晚盘收盘上涨2.57%报18740.0元/千克。",
