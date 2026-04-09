@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T19:54:11.222019+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-04-09T20:54:33.310992+08:00",
+  "total_titles_processed": 1808,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 19时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时28分 ~ 20时54分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -135,8 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 20时54分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -306,7 +306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
