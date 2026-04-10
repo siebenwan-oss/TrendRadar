@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:32:43.063744+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-04-11T06:25:35.981403+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时25分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -40,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -72,7 +72,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
