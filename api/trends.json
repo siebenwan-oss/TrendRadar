@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T02:37:31.095982+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-04-11T03:36:08.404741+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月10日（周五）晚盘收盘上涨0.07%报1048.5元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）晚盘收盘上涨1.45%报18832.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260411023054951800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
