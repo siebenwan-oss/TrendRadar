@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-04-11T03:36:08.404741+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-11T04:24:14.004161+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003357698800",
@@ -33,8 +66,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。 所持COMEX白银净多头头寸创三周新低。 所持NYMEX铂金净多头头寸创16周月新高。 所持NYMEX钯金净空头头寸创六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3086067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 4月10日（周五）晚盘收盘上涨0.07%报1048.5元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）晚盘收盘上涨1.45%报18832.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260411023054951800",
@@ -42,9 +86,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX白银期货投机性净多头头寸减少777手至10,039手。",
+          "url": "https://flash.jin10.com/detail/20260411033835234800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
