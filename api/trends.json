@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T06:25:35.981403+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-11T07:44:12.040263+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时44分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -28,8 +28,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时44分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 07时44分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -40,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时44分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
