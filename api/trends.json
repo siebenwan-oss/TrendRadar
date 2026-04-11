@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:30:20.459420+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-04-11T18:22:31.673230+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时43分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[07时43分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -47,6 +47,19 @@
           "time_info": "[04时24分 ~ 09时07分]"
         },
         {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 18时22分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
           "url": "https://flash.jin10.com/detail/20260411040442253800",
           "source": "金十数据",
@@ -60,27 +73,16 @@
           "time_info": "[04时24分 ~ 09时07分]"
         },
         {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时30分]"
-        },
-        {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
