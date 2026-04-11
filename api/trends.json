@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-04-11T07:44:12.040263+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-04-11T09:07:36.249889+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时44分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时44分]"
-        },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
@@ -39,8 +15,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时07分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时07分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时07分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -48,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             18,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时44分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时07分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -91,8 +94,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少18.31吨，当前持仓量为15291.24吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260411080726704800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。 所持COMEX白银净多头头寸创三周新低。 所持NYMEX铂金净多头头寸创16周月新高。 所持NYMEX钯金净空头头寸创六个月新高。",
           "url": "https://wallstreetcn.com/livenews/3086067",
