@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:22:31.673230+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-04-11T19:21:38.310968+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时43分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -78,11 +79,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
