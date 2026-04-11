@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:22:42.071597+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-12T02:26:30.900104+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -27,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     }
