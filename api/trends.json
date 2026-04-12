@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-04-12T18:27:33.597509+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-12T19:25:36.290796+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
+          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时36分]"
+        },
+        {
+          "title": "国投白银LOF：将于2026年4月13日开市起至当日10:30停牌，自2026年4月13日10:30复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260412170344093800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时25分]"
+        },
+        {
+          "title": "黄金白银销量暴跌 市场剧烈震荡",
+          "url": "https://www.toutiao.com/trending/7627088440979718187/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 3,
@@ -35,8 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 19时25分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -48,35 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
-          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 16时36分]"
-        },
-        {
-          "title": "国投白银LOF：将于2026年4月13日开市起至当日10:30停牌，自2026年4月13日10:30复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260412170344093800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         }
       ]
     }
