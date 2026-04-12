@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T09:16:26.892753+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-04-12T12:37:16.247387+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时37分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -30,11 +30,29 @@
             13,
             16,
             17,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
+          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         }
       ]
     }
