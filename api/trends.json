@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T12:48:32.266401+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-04-13T15:07:17.874526+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -90,11 +90,12 @@
             12,
             13,
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 15时07分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
