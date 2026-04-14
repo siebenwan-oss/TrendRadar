@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T09:17:11.204736+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-04-14T12:42:44.307478+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时42分]"
         },
         {
           "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
@@ -165,7 +166,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "挂单报告：国际现货黄金涨势不改 国际现货白银留意多单押注",
@@ -174,7 +175,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -185,7 +186,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -223,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "金十图示：2026年04月14日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260414115436024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     }
