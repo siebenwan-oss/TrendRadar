@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:50:34.469669+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-04-16T20:59:08.719186+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -106,6 +106,17 @@
           "time_info": "[04时36分 ~ 05时41分]"
         },
         {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
           "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
           "url": "https://www.cls.cn/detail/2345773",
           "source": "财联社热门",
@@ -192,7 +203,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -222,7 +233,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少35.19吨，当前持仓量为15254.64吨。欢迎点击查看数据中心…",
@@ -235,6 +246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时32分]"
+        },
+        {
+          "title": "DeepTalk：不等黄金了？白银技术性突破预示大行情即将开启",
+          "url": "https://flash.jin10.com/detail/20260416205040372800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月15日（周三）晚盘收盘下跌0.42%报1053.6元/克；<br/>上海黄金交易所白银T+D 4月15日（周三）晚盘收盘下跌0.21%报19634.0元/千克。",
@@ -254,7 +276,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
