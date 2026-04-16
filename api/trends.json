@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T07:32:52.435203+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-04-16T09:31:24.332441+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 09时31分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 09时31分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
