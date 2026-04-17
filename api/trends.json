@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T22:15:57.966519+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-04-17T23:47:12.668934+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 23时47分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -75,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时03分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[18时03分 ~ 23时47分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -141,6 +142,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时28分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时47分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -227,17 +240,6 @@
           "time_info": "[04时38分 ~ 05时43分]"
         },
         {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "奈飞美股盘前跌近10%，Q1业绩超预期增长但指引逊色，公司董事长将离任。",
           "url": "https://wallstreetcn.com/livenews/3089899",
           "source": "华尔街见闻-快讯",
@@ -310,7 +312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -332,7 +334,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
@@ -340,8 +342,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "霍尔木兹将开放，核谈判现曙光，道指涨超1%，WTI油价跳水跌超11%，白银涨5%",
+          "url": "https://wallstreetcn.com/articles/3770230",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
         {
           "title": "现货白银向上触及80美元/盎司，日内涨2.03%。",
           "url": "https://flash.jin10.com/detail/20260417202610034800",
@@ -383,7 +396,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -427,7 +440,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
