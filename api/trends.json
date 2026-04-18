@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T15:52:40.872110+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-04-18T16:36:30.214027+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 16时36分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -68,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时36分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -310,11 +310,12 @@
           "url": "https://www.toutiao.com/trending/7629288526889353242/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 16时36分]"
         }
       ]
     }
