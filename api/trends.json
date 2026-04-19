@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T15:59:57.028921+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-04-19T16:52:14.901072+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
@@ -26,11 +26,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 16时52分]"
+        },
+        {
+          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
+          "url": "https://wallstreetcn.com/articles/3770345",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时59分]"
+          "time_info": "[16时51分 ~ 16时52分]"
         }
       ]
     },
