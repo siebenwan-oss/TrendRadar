@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:29:18.078370+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-19T19:26:41.408145+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 19时26分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 19时26分]"
         }
       ]
     },
@@ -74,11 +74,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时26分]"
         }
       ]
     }
