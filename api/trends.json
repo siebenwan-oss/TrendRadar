@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T09:19:10.232222+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-04-20T12:48:11.474812+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 09时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 12时48分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时25分 ~ 09时19分]"
+        },
+        {
+          "title": "周末美伊“各施手段”，周一开盘油价大涨7%，美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
@@ -65,11 +76,12 @@
           "url": "https://flash.jin10.com/detail/20260420064627633800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 12时48分]"
         },
         {
           "title": "现货黄金跌破4830美元/盎司，低开1.41%。现货白银周一开盘跌超2%，报78.98美元/盎司。",
@@ -95,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
