@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T01:47:56.467666+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-21T02:47:48.930989+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时47分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时47分]"
         }
       ]
     }
