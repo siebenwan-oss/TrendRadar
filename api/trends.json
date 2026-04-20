@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T02:47:48.930989+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-04-21T03:53:05.298645+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时53分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -27,8 +27,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时53分]"
+        },
+        {
+          "title": "高盛交易员：美股已经做好本周回调的准备",
+          "url": "https://wallstreetcn.com/articles/3770364",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 03时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月20日（周一）晚盘收盘下跌0.0%报1055.95元/克；<br/>上海黄金交易所白银T+D 4月20日（周一）晚盘收盘下跌0.33%报19907.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260421023116950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
         }
       ]
     }
