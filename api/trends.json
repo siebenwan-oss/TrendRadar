@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T09:17:03.757547+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-04-21T12:39:13.973906+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 09时17分]"
+          "appearance_count": 6,
+          "time_info": "[06时32分 ~ 12时39分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 09时17分]"
+          "appearance_count": 6,
+          "time_info": "[06时32分 ~ 12时39分]"
         },
         {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
@@ -199,7 +199,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 4月21日（周二）早盘盘初上涨0.09%报1056.87元/克；<br/>上海黄金交易所白银T+D 4月21日（周二）早盘盘初下跌0.31%报19911.0元/千克。",
@@ -208,7 +208,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -247,6 +247,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时34分]"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260421115513921800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "投机性黄金头寸已接近出清，稳定流动性下价格正趋于健康",
+          "url": "https://flash.jin10.com/detail/20260421114529031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     }
