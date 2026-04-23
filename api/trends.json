@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T16:27:37.271047+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-04-23T18:12:35.328536+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -178,7 +178,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -282,6 +282,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "好未来第四季度净营收8.024亿美元，预估7.79亿美元。 第四季度调整后每ADS收益 0.45美元，预估0.11美元。 第四季度毛利率53.2％，预估55.5％。 好未来美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3093195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美股股指期货、现货金银跳水，国际原油快速拉升，WTI原油涨幅扩大至4%。",
           "url": "https://flash.jin10.com/detail/20260423081610232800",
           "source": "金十数据",
@@ -329,7 +340,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年04月23日（周四）白银ETF持仓报告",
@@ -341,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "国投白银LOF：将于4月24日开市起至当日10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260423180058327800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "周三（4月22日）纽约尾盘，现货黄金涨0.41%，报4739.31美元/盎司，绝大部分时间处于上涨状态，北京时间06:50微跌至4715.72美元刷新日低，随后持续上扬，15:08刷新日高至4772.38美元，之后逐步回吐涨幅。 COMEX黄金期货涨0.76%，报4755.50美元/盎司，全天上涨，整体上也冲高回落。 现货白银涨1.26%，报77.6927美元/盎司，13:39涨至78.6770美元刷新日高，随后也逐步回吐涨幅。 COMEX白银期货涨1.54%，报78.230美元/盎司。 COMEX铜期货涨2.04%，报6.1955美元/磅。 现货铂金涨1.88%，现货钯金跌0.04%。",
@@ -366,6 +388,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "我国白银进口量创历史纪录，3 月超过去 10 年同比均值近 3 倍，银锭进口暴增，市场发生了什么？",
+          "url": "https://www.zhihu.com/question/2029837660173209696",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少77.43吨，当前持仓量为15202.55吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260423064637172800",
           "source": "金十数据",
@@ -375,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "现货白银日内跌幅达3%，报75.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3093199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
