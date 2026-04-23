@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T02:52:18.882524+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-24T04:01:42.299312+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时01分]"
         },
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时01分]"
         }
       ]
     },
@@ -41,11 +42,12 @@
           "url": "https://flash.jin10.com/detail/20260424023104176800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时01分]"
         }
       ]
     },
@@ -60,9 +62,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时01分]"
         }
       ]
     }
