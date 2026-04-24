@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:42:25.793220+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-25T02:36:01.751644+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时36分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时36分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -47,9 +47,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 02时36分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -58,7 +58,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
