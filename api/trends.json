@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T09:20:03.909566+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-04-24T12:44:55.572231+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,23 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 09时20分]"
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 12时44分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 12时44分]"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 04时51分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
@@ -143,7 +144,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -194,6 +195,46 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260424023104176800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时01分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少64.76吨，当前持仓量为15137.79吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260424064132721800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260424120504102800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -223,35 +264,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月23日（周四）晚盘收盘下跌0.18%报1037.83元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）晚盘收盘下跌0.95%报18907.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260424023104176800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时01分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少64.76吨，当前持仓量为15137.79吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260424064132721800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "有色金属",
       "match_count": 1,
       "titles": [
@@ -262,11 +274,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 09时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 12时44分]"
         }
       ]
     }
