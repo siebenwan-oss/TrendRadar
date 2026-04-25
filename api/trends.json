@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T07:31:21.484634+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-04-25T09:13:10.298662+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -20,30 +20,6 @@
           "time_info": "[00时43分 ~ 06时31分]"
         },
         {
-          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260425040603793800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时31分]"
-        },
-        {
-          "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260425040536488800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时31分]"
-        },
-        {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260425003044610800",
           "source": "金十数据",
@@ -53,6 +29,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 09时13分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260425040603793800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时34分 ~ 09时13分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260425040536488800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时34分 ~ 09时13分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -65,18 +80,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 05时37分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超2%领跑",
@@ -102,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 09时13分]"
         },
         {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
@@ -111,11 +114,26 @@
           "source": "金十数据",
           "ranks": [
             14,
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时34分 ~ 09时13分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
+          "url": "https://wallstreetcn.com/livenews/3094299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20,
+            23,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时34分 ~ 07时31分]"
+          "time_info": "[05时37分 ~ 09时13分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -129,19 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时31分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
-          "url": "https://wallstreetcn.com/livenews/3094299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时31分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -158,8 +163,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加16.9吨，当前持仓量为15154.69吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260425082759366800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX白银期货投机性净多头寸减少2184手至8863手。",
           "url": "https://flash.jin10.com/detail/20260425033333730800",
