@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T16:10:27.767940+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-04-26T17:42:34.834789+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时10分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 17时42分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -45,6 +46,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国投白银LOF：A类份额溢价风险提示及4月27日停复牌安排",
+          "url": "https://flash.jin10.com/detail/20260426172720905800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }
