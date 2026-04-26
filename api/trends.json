@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-26T07:27:22.766750+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-04-26T09:22:12.976110+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 09时22分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时29分 ~ 07时27分]"
+        },
+        {
+          "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
+          "url": "https://wallstreetcn.com/articles/3770879",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
         }
       ]
     }
