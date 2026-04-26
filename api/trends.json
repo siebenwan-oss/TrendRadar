@@ -1,73 +1,7 @@
 {
-  "generated_at": "2026-04-26T23:33:13.641730+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-04-27T00:29:01.078510+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 18时34分]"
-        },
-        {
-          "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
-          "url": "https://www.zhihu.com/question/2031283079852110233",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 07时27分]"
-        },
-        {
-          "title": "美股原油和半导体ETF“历史级别资金流出”，大赚之后有人已选择“套现离场”",
-          "url": "https://wallstreetcn.com/articles/3770879",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国投白银LOF：A类份额溢价风险提示及4月27日停复牌安排",
-          "url": "https://flash.jin10.com/detail/20260426172720905800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 19时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/siebenwan-oss/TrendRadar.git/img/news.jpg"
 }
