@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T12:57:44.476429+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-04-27T15:31:56.108154+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -70,6 +70,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时28分]"
+        },
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期权下行押注力度减弱，这一心理价格关口需留意...",
+          "url": "https://flash.jin10.com/detail/20260427150206241800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     }
