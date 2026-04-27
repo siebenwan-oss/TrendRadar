@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T09:23:06.984671+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-04-27T12:57:44.476429+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,27 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金十图示：2026年04月27日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260427065605491800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 4月27日（周一）早盘盘初上涨0.18%报1035.99元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）早盘盘初上涨0.29%报18722.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260427090118293800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260427065605491800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 12时57分]"
         },
         {
           "title": "现货白银失守75美元/盎司，日内跌幅0.89%。",
