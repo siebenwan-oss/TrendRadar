@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T01:58:52.313369+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-28T03:09:18.023056+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 03时09分]"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -26,8 +26,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 03时09分]"
+        },
+        {
+          "title": "美股三大指数集体低开 高通涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月27日（周一）晚盘收盘下跌0.47%报1032.5元/克；<br/>上海黄金交易所白银T+D 4月27日（周一）晚盘收盘下跌0.49%报18658.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428024422344800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
