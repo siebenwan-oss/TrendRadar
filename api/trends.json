@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:14:47.562884+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-04-28T20:19:02.706064+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -147,7 +147,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -158,9 +158,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "康宁第一季度核心销售额43.5亿美元，预估43亿美元。 第一季度核心每股收益70美分，预估69美分。 康宁预计第二季度核心每股收益73至77美分，预估76美分。 康宁将推出新的市场准入平台。 康宁美股盘前跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3095768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "分析师：警惕美股财报与乐观预期出现裂痕",
@@ -177,7 +188,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银日内跌幅达2.00%，向下触及74美元/盎司。",
@@ -189,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月28日（周二）晚盘盘初下跌1.99%报1006.5元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）晚盘盘初下跌2.2%报17886.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428200055221800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
@@ -223,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "现货黄金日内跌幅达2.0%，报4588.02美元/盎司。 现货白银日内跌幅达4.0%，报72.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3095752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月28日（周二）收盘下跌1.55%报1021.2元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）收盘下跌3.63%报18070.0元/千克。",
