@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-29T01:28:06.102504+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-29T03:15:38.476073+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月28日（周二）晚盘收盘下跌1.23%报1014.23元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）晚盘收盘下跌1.44%报18024.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260429023046900800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/siebenwan-oss/TrendRadar.git/img/news.jpg"
 }
