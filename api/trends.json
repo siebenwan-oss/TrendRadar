@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T13:19:44.622687+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-28T16:02:38.895844+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[07时41分 ~ 13时19分]"
         },
         {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 16时02分]"
+        },
+        {
           "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
           "url": "https://wallstreetcn.com/articles/3770961",
           "source": "华尔街见闻",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 06时39分]"
-        },
-        {
-          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
-          "url": "https://www.cls.cn/detail/2357471",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 13时19分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -155,7 +155,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货白银日内跌幅达2.00%，向下触及74美元/盎司。",
@@ -164,7 +164,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -201,6 +201,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月28日（周二）收盘下跌1.55%报1021.2元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）收盘下跌3.63%报18070.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260428153047757800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     }
