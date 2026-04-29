@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T13:16:29.696209+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-04-29T15:55:47.533926+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时55分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -139,7 +139,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（4月28日）纽约尾盘，现货黄金跌1.86%，报4595.11美元/盎司，亚太早盘以来持续走低，北京时间20:01刷新日低至4555.02美元，19:00以来持续低位窄幅震荡。 COMEX黄金期货跌1.84%，报4607.40美元/盎司。 现货白银跌3.21%，报73.0888美元/盎司，14:00以来持续低位窄幅震荡——持续交投于73美元附近。",
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月29日（周三）收盘下跌1.76%报1008.8元/克；<br/>上海黄金交易所白银T+D 4月29日（周三）收盘下跌1.19%报18070.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260429153045654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     }
