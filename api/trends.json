@@ -1,269 +1,44 @@
 {
-  "generated_at": "2026-04-29T23:51:18.071743+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-04-30T01:14:07.404584+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时43分 ~ 23时51分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
-          "url": "https://wallstreetcn.com/livenews/3096046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3096698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 13时16分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3096026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时44分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
-          "url": "https://wallstreetcn.com/livenews/3096006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时50分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 23时51分]"
-        },
-        {
-          "title": "西部数据美股盘后涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3096002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时50分]"
-        },
-        {
-          "title": "网红券商Robinhood一季度净营收10.7亿美元，分析师预期11.4亿美元。 由于运营成本的缘故，不提供2026年业绩展望。 Robinhood美股盘后跌6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3096001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时50分]"
-        },
-        {
-          "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3096000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时50分]"
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-04-29）",
-          "url": "https://flash.jin10.com/detail/20260429204435522800",
-          "source": "金十数据",
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 闪迪跌6%",
-          "url": "https://flash.jin10.com/detail/20260429040104432800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美元指数短线小幅拉升，现报98.71。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至1%。美国10年期国债收益率短线拉升，现报4.361%。现货黄金短线小幅走低，现报4561.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3095983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "周二（4月28日）纽约尾盘，现货黄金跌1.86%，报4595.11美元/盎司，亚太早盘以来持续走低，北京时间20:01刷新日低至4555.02美元，19:00以来持续低位窄幅震荡。 COMEX黄金期货跌1.84%，报4607.40美元/盎司。 现货白银跌3.21%，报73.0888美元/盎司，14:00以来持续低位窄幅震荡——持续交投于73美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3096016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月29日（周三）早盘盘初下跌1.35%报1013.01元/克；<br/>上海黄金交易所白银T+D 4月29日（周三）早盘盘初下跌1.95%报17932.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260429090206832800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月28日（周二）晚盘收盘下跌1.23%报1014.23元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）晚盘收盘下跌1.44%报18024.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260429023046900800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "现货白银日内跌幅达1%，报72.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月29日（周三）收盘下跌1.76%报1008.8元/克；<br/>上海黄金交易所白银T+D 4月29日（周三）收盘下跌1.19%报18070.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260429153045654800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "现货白银日内跌超1.00%，现报72.36美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260429203421248800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     }
