@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T15:58:46.922175+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-04-30T18:02:29.788372+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 18时02分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -84,11 +84,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 18时02分]"
         },
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
@@ -132,7 +133,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -226,7 +227,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
