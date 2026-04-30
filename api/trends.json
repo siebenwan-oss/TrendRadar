@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:02:29.788372+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-30T20:07:08.830326+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 20时07分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
