@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T00:12:47.294319+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-01T02:02:20.808432+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时02分]"
         },
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时02分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3097626",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时02分]"
         }
       ]
     },
