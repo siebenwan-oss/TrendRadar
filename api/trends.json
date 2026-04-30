@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:07:08.830326+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-04-30T22:57:00.001440+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 20时07分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 22时56分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
