@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T02:54:06.542634+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-02T03:59:38.720370+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时59分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 03时59分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
@@ -69,11 +69,12 @@
           "url": "https://wallstreetcn.com/articles/3771452",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时59分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时59分]"
         }
       ]
     }
