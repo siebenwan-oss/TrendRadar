@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T12:50:01.482390+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-05-02T14:55:35.235462+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -98,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 12时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 14时55分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
@@ -202,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     },
@@ -217,8 +228,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 14时55分]"
         },
         {
           "title": "915亿“真金白银”直达16个领域",
@@ -228,8 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 14时55分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
