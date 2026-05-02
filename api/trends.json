@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:46:17.782766+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-03T04:29:47.546667+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时46分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时29分]"
         }
       ]
     }
