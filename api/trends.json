@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:03:59.165962+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-05-02T23:36:49.879106+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
@@ -201,19 +201,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 23时36分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
           "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 23时36分]"
         },
         {
           "title": "美股创新高之际，对冲基金资产规模创新高",
