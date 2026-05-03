@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-04T02:40:51.403114+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-05-04T03:45:06.569412+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 03时45分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/siebenwan-oss/TrendRadar.git/img/news.jpg"
 }
