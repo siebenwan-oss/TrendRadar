@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-03T09:28:22.210383+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-05-03T13:20:13.147386+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时39分 ~ 13时20分]"
+        },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
           "url": "https://www.cls.cn/detail/2362019",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 09时28分]"
         }
       ]
     }
