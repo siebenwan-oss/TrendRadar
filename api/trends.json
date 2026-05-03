@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:37:05.080573+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-05-04T00:35:25.661798+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时39分 ~ 13时20分]"
-        },
-        {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 22时05分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/siebenwan-oss/TrendRadar.git/img/news.jpg"
 }
