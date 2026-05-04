@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-05-04T16:12:33.494370+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-05-04T18:53:35.710124+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "现货白银日内走低1.00%，现报75.01美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504091028391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "周一亚太盘初，布伦特原油期货跌2.4%，WTI原油期货跌1.6%，美国打算引导船只通过霍尔木兹海峡。 白银跌0.9%，黄金跌0.5%。 美国三大股指期货涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3098321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时33分]"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260504065657319800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3098460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "布伦特原油向上触及112美元/桶，日内涨4.14%。现货白银日内大跌4.00%，现报72.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504181410485800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
@@ -14,9 +87,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
+          "url": "https://wallstreetcn.com/livenews/3098470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -55,46 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "现货白银日内走低1.00%，现报75.01美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504091028391800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
-          "title": "周一亚太盘初，布伦特原油期货跌2.4%，WTI原油期货跌1.6%，美国打算引导船只通过霍尔木兹海峡。 白银跌0.9%，黄金跌0.5%。 美国三大股指期货涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3098321",
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时33分]"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260504065657319800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "18时53分"
         }
       ]
     }
