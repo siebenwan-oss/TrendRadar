@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T01:35:28.698038+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-06T03:12:46.960165+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -19,22 +19,22 @@
           "time_info": "01时35分"
         },
         {
-          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011205693800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
           "url": "https://www.cls.cn/detail/2362725",
           "source": "财联社热门",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 03时12分]"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260506011205693800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 03时12分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
@@ -59,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 03时12分]"
         }
       ]
     }
