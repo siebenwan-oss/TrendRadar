@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:38:20.267505+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-06T09:25:22.871957+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -156,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -167,7 +178,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -197,7 +208,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货白银站上74美元/盎司。",
@@ -206,9 +217,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月6日（周三）早盘盘初上涨0.95%报1016.73元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）早盘盘初上涨2.92%报18439.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260506090205192800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.00%，现报74.28美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260506085541500800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     }
