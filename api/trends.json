@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:40:51.046728+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-05-07T09:31:42.734700+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时40分]"
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时31分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -46,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2364348",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时31分]"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -70,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 09时31分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -100,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时40分]"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -149,8 +162,41 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "现货白银向上触及78美元/盎司，日内涨0.87%。",
+          "url": "https://flash.jin10.com/detail/20260507091616148800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货白银失守77美元/盎司，日内跌幅0.47%。",
+          "url": "https://flash.jin10.com/detail/20260507090158762800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月7日（周四）早盘盘初上涨0.85%报1030.6元/克；<br/>上海黄金交易所白银T+D 5月7日（周四）早盘盘初上涨2.29%报19096.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260507090059072800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260507023104398800",
