@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-09T00:10:36.533497+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-09T02:03:19.989680+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -15,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时03分]"
         }
       ]
     }
