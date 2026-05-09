@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T12:59:22.385116+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-05-09T15:05:29.985880+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 15时05分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 15时05分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -184,7 +185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
