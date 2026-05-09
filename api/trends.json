@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T03:48:30.633650+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-05-10T04:33:01.934217+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时33分]"
         }
       ]
     }
