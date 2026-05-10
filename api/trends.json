@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:52:44.824208+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-05-10T17:19:31.328844+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 17时19分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -50,9 +51,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国投白银LOF：本基金将于2026年5月11日开市起停牌，自2026年5月11日10:30起复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260510170427705800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
