@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T06:44:31.772212+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-05-12T07:45:29.146393+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,16 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时44分]"
-        },
-        {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
           "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时45分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -51,6 +40,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时45分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -105,7 +107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
         },
@@ -190,7 +192,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -210,9 +212,42 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时45分]"
+        },
+        {
+          "title": "现货白银站上87美元/盎司，日内涨1.11%。",
+          "url": "https://flash.jin10.com/detail/20260512070912493800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "07时45分"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报86.92美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260512064836408800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
@@ -224,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加36.59吨，当前持仓量为15084.89吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260512061744279800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
