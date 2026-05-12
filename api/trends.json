@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T09:46:22.514348+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-05-12T13:28:34.482217+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 13时28分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -87,8 +87,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 13时28分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
@@ -196,6 +218,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 13时28分]"
+        },
+        {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
@@ -205,17 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 05时08分]"
-        },
-        {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 09时46分]"
         },
         {
           "title": "现货白银站上87美元/盎司，日内涨1.11%。",
@@ -237,8 +259,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 13时28分]"
         },
         {
           "title": "现货白银日内涨超1.00%，现报86.92美元/盎司。",
@@ -258,7 +280,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
