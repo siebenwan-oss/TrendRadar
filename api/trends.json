@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T00:17:15.595411+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-14T02:52:29.237807+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
@@ -26,19 +27,37 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
           "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：金银交易商表示，印度黄金折扣因关税驱动的价格飙升，创下每盎司超过200美元的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260514015625262800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -53,7 +72,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         }
