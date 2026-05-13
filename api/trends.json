@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T19:54:01.799110+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-05-13T22:03:08.718269+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 22时03分]"
         },
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
@@ -68,6 +68,28 @@
           "time_info": "04时24分"
         },
         {
+          "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260513214733639800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美股开盘：纳指涨0.21%，道指跌0.36%，标普500指数涨0.01%。英伟达开盘上涨2.08%，报225.365美元/股，续创记录新高，总市值达5.46万亿美元。美光科技涨超6%，高通涨超3%。阿里巴巴下跌2.6%，腾讯控股ADR上涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3103059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
           "url": "https://wallstreetcn.com/livenews/3102552",
           "source": "华尔街见闻-快讯",
@@ -89,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时00分 ~ 19时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时00分 ~ 22时03分]"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -139,6 +161,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
+          "url": "https://www.cls.cn/detail/2370478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -148,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "美股中国金龙指数涨逾2% 百度涨超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E5%9B%BD%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E6%B6%A8%E9%80%BE2%25+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌",
@@ -172,6 +216,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3103049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
           "url": "https://wallstreetcn.com/livenews/3102555",
           "source": "华尔街见闻-快讯",
@@ -192,6 +247,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "美股半导体板块普涨，美光科技(MU.O)、安森美半导体(ON.O)涨近5%，纳微半导体(NVTS.O)涨4.6%。",
+          "url": "https://flash.jin10.com/detail/20260513213303714800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美股开盘，道指跌0.3%、标普500指数涨0.08%、纳指涨0.23%。阿里巴巴(BABA.N)绩后开跌1.7%；AI芯片股走强，高通(QCOM.O)、英特尔(INTC.O)涨约3%，英伟达(NVDA.O)涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260513213025485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
