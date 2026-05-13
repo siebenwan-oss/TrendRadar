@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-13T17:34:22.215149+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-05-13T19:54:01.799110+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 19时54分]"
+        },
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
           "url": "https://www.cls.cn/detail/2369590",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时00分 ~ 14时16分]"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时58分 ~ 17时34分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -88,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时00分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时00分 ~ 19时54分]"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -384,7 +385,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
