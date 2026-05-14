@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T19:07:48.659861+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-05-14T21:24:08.449153+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -26,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3103741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
@@ -184,8 +195,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepTalk：白银将迎来史上最疯狂的“暴力拉升”窗口！300美元只是起点？",
+          "url": "https://flash.jin10.com/detail/20260514204634379800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
         {
           "title": "现货白银日内涨幅达2%，现报88.24美元/盎司。纽约银日内涨幅达4.5%，报89.46美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3103121",
