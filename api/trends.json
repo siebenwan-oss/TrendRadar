@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T16:35:32.922843+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-05-15T19:11:09.929907+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -132,7 +132,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -176,7 +176,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -228,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时58分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[05时58分 ~ 19时11分]"
         },
         {
           "title": "现货白银日内大跌4美元，现报83.50美元/盎司，跌幅4.58%。",
@@ -263,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "全球长债收益率飙升，股市普遍下挫，白银跌破80美元，黄金跌超1%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "A股贵金属板块震荡下探，兴业银锡跌超8%，山金国际、西部黄金、湖南白银、中金黄金、招金黄金、赤峰黄金跌逾5%。",
