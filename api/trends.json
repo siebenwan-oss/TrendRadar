@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T19:11:09.929907+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-05-15T21:22:58.349893+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -228,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时58分 ~ 19时11分]"
+          "appearance_count": 10,
+          "time_info": "[05时58分 ~ 21时22分]"
         },
         {
           "title": "现货白银日内大跌4美元，现报83.50美元/盎司，跌幅4.58%。",
@@ -263,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "全球长债收益率飙升，股市普遍下挫，美股盘前跌幅扩大，白银跌破80美元，黄金跌超1%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "全球长债收益率飙升，股市普遍下挫，白银跌破80美元，黄金跌超1%",
