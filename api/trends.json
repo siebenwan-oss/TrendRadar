@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:41:50.446926+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-05-16T20:52:51.568243+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 20时52分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，加息预期助美元五连阳，金属重挫",
