@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-16T22:17:19.442913+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-05-16T23:45:42.304164+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[07时43分 ~ 23时45分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[07时43分 ~ 23时45分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，加息预期助美元五连阳，金属重挫",
@@ -222,6 +223,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美股三大指数跌超1%标普500周线七连涨",
           "url": "https://www.toutiao.com/trending/7640259244561796650/",
           "source": "今日头条",
@@ -289,9 +301,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时45分]"
         },
         {
           "title": "13F报告显示：Citadel Advisors LLC.一季度建仓阿斯利康、iShares白银信托等，增持美光、Meta、华纳兄弟探索等。 清仓以色列Teva等，减持亚马逊、Visa、英伟达等。 重仓英伟达、亚马逊、美光。",
