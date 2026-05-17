@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T09:48:54.588702+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-05-17T13:38:20.348859+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 13时38分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时44分 ~ 13时38分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -54,22 +55,35 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 13时38分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时38分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时38分"
         }
       ]
     },
@@ -77,18 +91,6 @@
       "keyword_group": "白银",
       "match_count": 3,
       "titles": [
-        {
-          "title": "珠宝行业：印度白银进口新政将导致本土市场供应吃紧",
-          "url": "https://wallstreetcn.com/livenews/3104821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 09时48分]"
-        },
         {
           "title": "印度外贸总局：修改白银进口政策，将白银条的进口政策修改为“限制”类。",
           "url": "https://wallstreetcn.com/livenews/3104808",
@@ -102,16 +104,30 @@
           "time_info": "[00时42分 ~ 02时44分]"
         },
         {
+          "title": "珠宝行业：印度白银进口新政将导致本土市场供应吃紧",
+          "url": "https://wallstreetcn.com/livenews/3104821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时55分 ~ 13时38分]"
+        },
+        {
           "title": "印度限制绝大部分白银进口以缩减进口账单，从而支撑卢比",
           "url": "https://wallstreetcn.com/livenews/3104808",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 09时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时55分 ~ 13时38分]"
         }
       ]
     }
