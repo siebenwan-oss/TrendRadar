@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T13:38:20.348859+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-05-17T16:05:47.150372+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时05分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -59,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时05分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -71,25 +71,26 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 13时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 16时05分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 16时05分]"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "印度外贸总局：修改白银进口政策，将白银条的进口政策修改为“限制”类。",
@@ -110,11 +111,12 @@
           "ranks": [
             5,
             7,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时55分 ~ 13时38分]"
+          "appearance_count": 8,
+          "time_info": "[03时55分 ~ 16时05分]"
         },
         {
           "title": "印度限制绝大部分白银进口以缩减进口账单，从而支撑卢比",
@@ -128,6 +130,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时55分 ~ 13时38分]"
+        },
+        {
+          "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         }
       ]
     }
