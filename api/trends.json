@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:16:13.287263+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-05-17T19:52:19.392863+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -36,20 +36,6 @@
           "time_info": "[01时44分 ~ 13时38分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 18时16分]"
-        },
-        {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
@@ -61,6 +47,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时38分 ~ 18时16分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 19时52分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -82,11 +83,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 19时52分]"
         }
       ]
     },
@@ -139,11 +141,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 19时52分]"
         }
       ]
     }
