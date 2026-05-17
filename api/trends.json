@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T02:49:55.035006+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-18T03:58:44.356412+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时58分]"
         },
         {
           "title": "白银价格“过山车” 何时重回巅峰",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时58分]"
         }
       ]
     }
