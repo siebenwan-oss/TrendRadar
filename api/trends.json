@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-18T07:45:13.553927+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-05-18T09:57:48.985801+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 09时57分]"
         },
         {
           "title": "现货黄金开跌0.2%，现货白银开盘快速跌1%。",
@@ -49,7 +50,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -60,9 +61,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "A股贵金属板块多股低开，白银有色跌超4%，湖南白银跌超3%，招金黄金、中金黄金等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260518092822970800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -80,8 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 09时57分]"
         },
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
@@ -89,11 +101,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 09时57分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
