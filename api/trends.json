@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T01:49:36.366119+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-21T03:59:45.077976+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 03时59分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 03时59分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 03时59分]"
         }
       ]
     }
