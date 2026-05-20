@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T09:57:29.907207+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-05-20T13:58:29.399778+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -91,11 +91,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时03分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[06时03分 ~ 13时58分]"
         },
         {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
@@ -116,11 +117,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时03分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[06时03分 ~ 13时58分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -157,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 02时31分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -295,7 +308,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
