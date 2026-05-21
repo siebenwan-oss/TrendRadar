@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-21T07:02:42.196948+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-21T09:56:35.006766+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
           "url": "https://www.cls.cn/detail/2377305",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 09时56分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -25,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -132,7 +155,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -154,7 +177,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -165,7 +188,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -196,6 +219,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色金属",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股有色金属板块回暖，华锡有色涨超6%，云南铜业涨超3%，山金国际、盛龙股份等股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260521093642237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
