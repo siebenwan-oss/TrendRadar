@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T02:51:18.271486+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-05-22T04:29:01.778565+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 04时29分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 04时29分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Arm涨16%",
+          "url": "https://flash.jin10.com/detail/20260522040124425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -36,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
@@ -51,11 +62,12 @@
           "url": "https://flash.jin10.com/detail/20260522023129049800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时29分]"
         },
         {
           "title": "油价暴跌 黄金白银上涨",
@@ -66,8 +78,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 04时29分]"
         }
       ]
     }
