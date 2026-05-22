@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T07:47:05.702392+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-05-22T09:58:00.911748+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://www.cls.cn/detail/2378488",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 07时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 09时58分]"
         },
         {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
