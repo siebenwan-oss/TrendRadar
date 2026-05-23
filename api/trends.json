@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:53:02.568895+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-05-23T20:53:38.644285+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 19时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 19时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 20时53分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -63,22 +64,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 20时53分]"
         },
         {
           "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2041150006099501503",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 20时53分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -190,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
