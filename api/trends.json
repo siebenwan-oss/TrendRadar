@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:42:45.975739+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-24T06:40:42.578745+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -39,19 +40,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时40分]"
         },
         {
           "title": "下周一港股、美股休市",
           "url": "https://www.toutiao.com/trending/7642672726146056242/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时00分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 06时40分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
