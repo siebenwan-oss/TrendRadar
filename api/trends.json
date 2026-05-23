@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-24T00:46:12.325446+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T02:51:04.104372+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
-        },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
           "url": "https://www.cls.cn/detail/2379735",
@@ -26,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时51分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时51分]"
+        },
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时51分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
