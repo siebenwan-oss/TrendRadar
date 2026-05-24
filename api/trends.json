@@ -1,115 +1,22 @@
 {
-  "generated_at": "2026-05-24T23:53:22.305363+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-05-25T00:48:26.586411+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 23时53分]"
-        },
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 19时57分]"
-        },
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时40分]"
-        },
-        {
-          "title": "港股、美股周一休市 金银油交易将提前结束",
-          "url": "https://flash.jin10.com/detail/20260524212457510800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时53分]"
-        },
-        {
-          "title": "下周一港股、美股休市",
-          "url": "https://www.toutiao.com/trending/7642672726146056242/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 07时45分]"
-        },
-        {
-          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
-          "url": "https://wallstreetcn.com/articles/3772970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时52分]"
-        },
-        {
-          "title": "如何看待美股当前的泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E5%BD%93%E5%89%8D%E7%9A%84%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国投白银LOF发布A类基金份额二级市场交易价格溢价风险提示",
-          "url": "https://flash.jin10.com/detail/20260524170330052800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "00时48分"
         }
       ]
     }
