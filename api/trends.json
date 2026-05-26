@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-26T06:59:13.150293+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-05-26T08:02:13.300087+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
+          "url": "https://flash.jin10.com/detail/20260526072611689800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
           "url": "https://www.toutiao.com/trending/7643690261362196489/",
@@ -27,7 +38,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -57,7 +68,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金涨超1.3%，白银涨超3.3%",
@@ -82,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 06时00分]"
+        },
+        {
+          "title": "金十图示：2026年05月26日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260526071020144800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     }
