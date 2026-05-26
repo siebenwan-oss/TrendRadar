@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T01:50:21.137243+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-27T03:51:07.848261+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时51分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时51分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2381755",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时51分]"
         },
         {
           "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
@@ -76,8 +77,25 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 03时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月26日（周二）晚盘收盘下跌0.97%报984.5元/克；<br/>上海黄金交易所白银T+D 5月26日（周二）晚盘收盘下跌0.6%报18554.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260527023332740800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "03时51分"
         }
       ]
     }
