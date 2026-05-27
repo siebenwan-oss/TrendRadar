@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T15:54:33.833659+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-27T19:26:46.667013+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 11时47分]"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -91,6 +102,17 @@
           "time_info": "[05时25分 ~ 06时59分]"
         },
         {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260527003233683800",
           "source": "金十数据",
@@ -100,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
@@ -124,13 +157,24 @@
           "time_info": "08时01分"
         },
         {
+          "title": "拼多多(PDD.O)美股盘前跌超3.3%，消息面上，公司2026年Q1营收1062亿元，上年同期956.7亿元。",
+          "url": "https://flash.jin10.com/detail/20260527183308629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "三巨头超级IPO或搅动美股",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%B6%85%E7%BA%A7IPO%E6%88%96%E6%90%85%E5%8A%A8%E7%BE%8E%E8%82%A1",
           "source": "bilibili 热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -138,8 +182,30 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.00%，现报74.56美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260527185035011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 5月26日（周二）晚盘收盘下跌0.97%报984.5元/克；<br/>上海黄金交易所白银T+D 5月26日（周二）晚盘收盘下跌0.6%报18554.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260527023332740800",
