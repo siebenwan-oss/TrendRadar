@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T11:47:29.632163+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-05-27T15:54:33.833659+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 15时54分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "三巨头超级IPO或搅动美股",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%B6%85%E7%BA%A7IPO%E6%88%96%E6%90%85%E5%8A%A8%E7%BE%8E%E8%82%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -179,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时50分 ~ 11时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 15时54分]"
         },
         {
           "title": "【每日收评】创业板指探底回升成功翻红，全市场超4000股收跌，PCB、有色金属板块走强",
