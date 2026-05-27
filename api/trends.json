@@ -1,127 +1,33 @@
 {
-  "generated_at": "2026-05-27T22:49:07.870370+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-05-28T01:50:08.602237+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 05时25分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 15时54分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时47分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
-        },
-        {
-          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3110049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3109648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时59分]"
-        },
-        {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时01分]"
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
-        },
-        {
-          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
-          "url": "https://wallstreetcn.com/livenews/3109647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时59分]"
-        },
-        {
-          "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
-          "url": "https://wallstreetcn.com/livenews/3109642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时59分]"
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -132,221 +38,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
+          "title": "“泡沫预言家”：美股或面临十年低迷",
+          "url": "https://www.toutiao.com/trending/7644455365212094515/",
+          "source": "今日头条",
           "ranks": [
-            10
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
         },
         {
-          "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003233683800",
+          "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
+          "url": "https://flash.jin10.com/detail/20260528011006984800",
           "source": "金十数据",
           "ranks": [
-            12
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003022520800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超3%，可选消费ETF涨超1%，能源业ETF跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3110117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美股收盘：标普500和纳指再创新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美股盘初：美光科技涨约5%，拼多多跌约9%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3110113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "拼多多(PDD.O)美股盘前跌超3.3%，消息面上，公司2026年Q1营收1062亿元，上年同期956.7亿元。",
-          "url": "https://flash.jin10.com/detail/20260527183308629800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "Astrotech美股盘前涨超220%。",
-          "url": "https://wallstreetcn.com/livenews/3110107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "三巨头超级IPO或搅动美股",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%B6%85%E7%BA%A7IPO%E6%88%96%E6%90%85%E5%8A%A8%E7%BE%8E%E8%82%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3110100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3110051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "现货白银日内跌幅达3.00%，现报74.56美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260527185035011800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月26日（周二）晚盘收盘下跌0.97%报984.5元/克；<br/>上海黄金交易所白银T+D 5月26日（周二）晚盘收盘下跌0.6%报18554.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260527023332740800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.59吨，当前持仓量为15177.78吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260527060340071800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "黄金跳水白银跟跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E7%99%BD%E9%93%B6%E8%B7%9F%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
-          "url": "https://wallstreetcn.com/articles/3773113",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 15时54分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升成功翻红，全市场超4000股收跌，PCB、有色金属板块走强",
-          "url": "https://www.cls.cn/detail/2381755",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时59分]"
         }
       ]
     }
