@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T09:46:05.919663+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-05-28T13:59:29.457684+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时59分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
           "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时59分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -188,7 +189,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
