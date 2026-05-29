@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T14:02:45.128888+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-05-29T18:37:29.538475+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 07时06分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 18时37分]"
         },
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 07时06分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 14时02分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
