@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T20:57:43.222510+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-05-30T22:25:42.003562+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 22时25分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时24分 ~ 19时10分]"
+        },
+        {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时25分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -106,16 +119,15 @@
           "time_info": "[17时08分 ~ 19时10分]"
         },
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
+          "title": "中美股市的风格为何越来越相似了",
+          "url": "https://www.toutiao.com/trending/7645641566559669823/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 20时57分]"
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -127,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 08时01分]"
+        },
+        {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时25分]"
         },
         {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
@@ -175,28 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 08时01分]"
-        },
-        {
-          "title": "中美股市的风格为何越来越相似了",
-          "url": "https://www.toutiao.com/trending/7645641566559669823/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
