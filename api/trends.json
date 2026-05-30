@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T22:25:42.003562+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-05-30T23:57:35.064541+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 22时25分]"
+          "appearance_count": 10,
+          "time_info": "[08时01分 ~ 23时57分]"
+        },
+        {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时09分 ~ 23时57分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时24分 ~ 19时10分]"
-        },
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 22时25分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
