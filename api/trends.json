@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:58:36.995847+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-31T06:53:34.998201+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时53分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时53分]"
         }
       ]
     }
