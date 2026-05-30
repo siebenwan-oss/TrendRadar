@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T10:54:05.812531+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-05-30T14:13:18.958460+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 10时54分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 14时13分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 10时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 14时13分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
