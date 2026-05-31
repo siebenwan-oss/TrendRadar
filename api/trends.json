@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-05-31T23:09:33.552428+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-06-01T00:53:21.056494+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            3,
-            2
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 10时03分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 17时40分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     }
