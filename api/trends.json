@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-01T05:45:58.789891+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-06-01T06:46:04.093407+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
         {
           "title": "李大霄：为何鲜有人提醒美股风险",
           "url": "https://www.toutiao.com/trending/7646060691119410724/",
@@ -28,6 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌2.08%。",
+          "url": "https://flash.jin10.com/detail/20260601060106646800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     }
