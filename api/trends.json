@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-06-01T10:11:40.918540+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-01T16:18:38.468399+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3112272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美股科技股盘前多数上涨，Arm(ARM.O)一度涨超8%，美光科技(MU.O)涨超3%，甲骨文(ORCL.N)涨2.8%，微软(MSFT.O)涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260601160804673800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前上涨近2%，此前公司推出PC芯片，将人工智能直接带入个人电脑。",
+          "url": "https://flash.jin10.com/detail/20260601160339366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
         {
           "title": "美股三大股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260601060027642800",
