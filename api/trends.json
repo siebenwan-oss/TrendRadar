@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-04T08:25:55.586642+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-06-04T13:32:11.552519+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 13时32分]"
+        },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 06时21分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 08时25分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -58,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 08时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时39分 ~ 13时32分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -70,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 08时25分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 13时32分]"
         },
         {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
@@ -106,7 +108,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
