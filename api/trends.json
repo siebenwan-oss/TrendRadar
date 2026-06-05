@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:02:32.601271+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-05T20:08:41.383612+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -80,6 +80,17 @@
           "time_info": "[17时01分 ~ 17时02分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
           "url": "https://www.zhihu.com/question/2045914979002315116",
           "source": "知乎",
@@ -119,7 +130,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
@@ -127,7 +138,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金涨0.9%，白银涨1.6%",
@@ -140,6 +151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时59分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月5日（周五）晚盘盘初下跌0.02%报974.3元/克；<br/>上海黄金交易所白银T+D 6月5日（周五）晚盘盘初下跌1.25%报17520.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260605200041942800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
