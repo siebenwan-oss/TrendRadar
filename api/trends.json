@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:58:18.697676+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-06-08T05:59:31.657026+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -64,8 +64,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -85,7 +85,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
