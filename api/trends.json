@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-07T10:08:00.189417+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-06-07T14:56:07.957949+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 14时56分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 14时56分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -76,6 +78,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 05时53分]"
+        },
+        {
+          "title": "李大霄：美股是没有信仰的",
+          "url": "https://www.toutiao.com/trending/7648033458622595114/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
         }
       ]
     },
