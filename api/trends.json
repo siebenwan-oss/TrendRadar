@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T03:57:28.823633+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-09T05:43:37.513107+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时43分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -27,19 +27,64 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时43分]"
         },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 05时43分]"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后上涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260609050509753800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "05时43分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3116342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3116340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260609040521709800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
@@ -53,6 +98,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260609040515138800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3116263",
           "source": "华尔街见闻-快讯",
@@ -62,6 +118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（6月8日）纽约尾盘，现货黄金大致持平，报4326.91美元/盎司，整体呈现出V形走势，交投于4353.37-4268.80美元。 COMEX黄金期货跌0.34%，报4350.30美元/盎司，北京时间13:37曾刷新日低至4293美元。 现货白银涨0.47%，报68.1553美元/盎司。 COMEX白银期货跌1.23%，报68.250美元/盎司。 COMEX铜期货涨0.61%，报6.3315美元/磅。 现货铂金跌1.17%，现货钯金跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3116353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
