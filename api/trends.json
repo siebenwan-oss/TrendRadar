@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T08:07:42.360131+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-06-08T13:22:31.292343+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,26 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时22分]"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时22分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -52,24 +67,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时07分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 08时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 13时22分]"
         },
         {
           "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
