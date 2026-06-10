@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T14:25:17.643729+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-06-10T18:46:42.601955+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -59,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -90,6 +90,18 @@
           "time_info": "[01时50分 ~ 05时28分]"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 18时46分]"
+        },
+        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
@@ -102,6 +114,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时50分 ~ 07时08分]"
+        },
+        {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 18时46分]"
         },
         {
           "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
@@ -124,28 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 03时53分]"
-        },
-        {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         },
         {
           "title": "WTI原油抹去盘初1%的涨幅，现货黄金和美股股指期货目前小幅下跌约0.1%。",
@@ -179,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美国5月CPI七大情景推演：美元黄金和美股谁将率先变盘？",
+          "url": "https://flash.jin10.com/detail/20260610180405068800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
@@ -332,7 +345,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
