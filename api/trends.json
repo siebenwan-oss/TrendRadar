@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T01:48:43.676601+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-11T04:05:00.334256+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 04时05分]"
+        },
+        {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260611010905648800",
           "source": "金十数据",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
