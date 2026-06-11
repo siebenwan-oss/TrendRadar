@@ -1,248 +1,88 @@
 {
-  "generated_at": "2026-06-11T21:56:43.951611+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-06-12T01:32:25.034091+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 21时56分]"
-        },
-        {
-          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2396570",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 13时18分]"
-        },
-        {
-          "title": "美股三大股指集体高开，道指涨0.42%，标普500指数涨0.5%，纳指涨0.5%。英特尔上涨7.4%，因美国银行将公司评级上调至“买入”。甲骨文下跌12%，创去年12月以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3118229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "01时32分"
         },
         {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 04时05分]"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 21时56分]"
-        },
-        {
-          "title": "交火暂歇，特朗普威胁发动新袭击，美股高开，油价走低，黄金重回4080美元",
+          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股泡沫为何逐渐得到认同",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E4%B8%BA%E4%BD%95%E9%80%90%E6%B8%90%E5%BE%97%E5%88%B0%E8%AE%A4%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时46分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
           "url": "https://www.cls.cn/detail/2397555",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260611010905648800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "金十图示：2026年06月10日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260611010903112800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "01时32分"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3118216",
-          "source": "华尔街见闻-快讯",
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260612003345284800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股开盘，道指涨0.42%，标普500指数涨0.5%，纳指涨0.5%。甲骨文(ORCL.N)大跌11%，公司新财年计划融资翻倍至400亿美元。英特尔(INTC.O)涨7%，美银将其评级上调至“买入”。",
-          "url": "https://flash.jin10.com/detail/20260611213029258800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
-          "url": "https://www.cls.cn/detail/2396599",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时18分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少7.04吨，当前持仓量为15027.71吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260611061514379800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "01时32分"
         },
         {
-          "title": "金十图示：2026年06月11日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260611124447527800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "现货白银盘初下跌1.00%，现报62.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260611061016162800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "上期所：调整黄金、白银期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3118055",
+          "title": "投行：SpaceX上市在即 美股“错失恐惧症”还将持续",
+          "url": "https://wallstreetcn.com/livenews/3118317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
+          "time_info": "01时32分"
         },
         {
-          "title": "现货黄金日内跌超1%，报4028.52美元/盎司。 现货白银跌3%至61.76美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3117760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金期货价格较近期高点下跌 20%，四年来首次正式迈入熊市，黄金到底为什么崩了？",
-          "url": "https://www.zhihu.com/question/2048414803740160205",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "技术刘Pro：黄金价格走横但受POC压制，防守底线在区间下边缘...",
-          "url": "https://flash.jin10.com/detail/20260611212626522800",
+          "title": "金十图示：2026年06月11日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260612003159566800",
           "source": "金十数据",
           "ranks": [
-            27
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "01时32分"
         }
       ]
     }
