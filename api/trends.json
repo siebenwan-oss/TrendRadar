@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-11T08:07:17.295919+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-06-11T13:18:36.179584+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 08时07分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 13时18分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时18分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -51,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 06时46分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -78,18 +91,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
           "url": "https://www.cls.cn/detail/2396599",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时18分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少7.04吨，当前持仓量为15027.71吨。欢迎点击查看数据中心…",
@@ -101,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "金十图示：2026年06月11日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260611124447527800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "现货白银盘初下跌1.00%，现报62.74美元/盎司。",
@@ -120,7 +145,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
