@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T16:43:28.171232+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-06-13T19:07:51.061054+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 16时43分]"
-        },
-        {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[08时10分 ~ 19时07分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -39,6 +29,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 06时22分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时10分 ~ 19时07分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -126,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 19时07分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
