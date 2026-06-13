@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:07:51.061054+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-06-13T21:18:46.915658+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时10分 ~ 19时07分]"
+          "appearance_count": 7,
+          "time_info": "[08时10分 ~ 21时18分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时10分 ~ 19时07分]"
+          "appearance_count": 7,
+          "time_info": "[08时10分 ~ 21时18分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -128,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时22分 ~ 19时07分]"
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 21时18分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
