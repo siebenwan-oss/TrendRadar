@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T15:13:17.374722+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-06-14T18:42:26.794941+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 18时42分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
