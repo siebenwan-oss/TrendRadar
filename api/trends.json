@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T08:20:59.729380+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-16T14:20:33.781319+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时08分 ~ 14时20分]"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时08分 ~ 08时20分]"
+          "time_info": "[08时20分 ~ 14时20分]"
         },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
@@ -152,11 +153,12 @@
           "url": "https://www.cls.cn/detail/2400629",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 14时20分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月15日（周一）晚盘收盘上涨1.03%报941.0元/克；<br/>上海黄金交易所白银T+D 6月15日（周一）晚盘收盘上涨0.3%报16786.0元/千克。",
@@ -176,7 +178,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         }
