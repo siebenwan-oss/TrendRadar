@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T03:54:54.142289+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-18T05:50:37.447419+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时50分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -31,6 +31,17 @@
           "time_info": "[01时41分 ~ 03时54分]"
         },
         {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
@@ -39,14 +50,113 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时50分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260618050254137800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
+          "url": "https://wallstreetcn.com/livenews/3121260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3121255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
+          "url": "https://wallstreetcn.com/livenews/3121254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
+          "url": "https://wallstreetcn.com/livenews/3121251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "金十图示：2026年06月17日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260618040640588800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "周三（6月17日），美股行业ETF普遍收跌，网络股指数ETF跌2.89%，可选消费ETF、日常消费品等至多跌2.51%，区域银行ETF、银行业ETF、能源业ETF、全球航空业ETF至多跌1.90%，半导体指数ETF则涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3121250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "金十图示：2026年06月17日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260618040638076800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美股收盘：沃什美联储首秀 三大股指集体收跌",
+          "url": "https://flash.jin10.com/detail/20260618040054736800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金日内跌幅达2.0%，报4242.32美元/盎司。 纽约金日内跌幅达2.0%，报4264.1美元/盎司。 现货白银日内跌幅达2.5%，报68.25美元/盎司。",
@@ -55,7 +165,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -66,9 +176,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "欧元兑美元跌超1%，刷新日低至1.1483。 澳元兑美元跌1%，刷新日低至0.6995。 现货白银日内跌幅达4.5%，报66.83美元/盎司；纽约银日内跌幅达4.5%，报67.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         }
       ]
     }
