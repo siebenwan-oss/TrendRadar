@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T08:07:20.719179+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-06-17T13:56:47.007842+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -27,30 +27,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时09分 ~ 08时07分]"
+          "appearance_count": 4,
+          "time_info": "[06时09分 ~ 13时56分]"
         },
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
           "url": "https://www.cls.cn/detail/2401752",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时56分]"
         },
         {
           "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
           "url": "https://www.cls.cn/detail/2401731",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时56分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -96,7 +98,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -129,7 +131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
