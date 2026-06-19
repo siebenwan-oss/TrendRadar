@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T14:05:16.049595+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-06-19T19:10:44.837275+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时18分 ~ 14时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时18分 ~ 19时10分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -52,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 14时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 19时10分]"
         },
         {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
@@ -169,7 +170,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -191,7 +192,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -202,7 +203,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
