@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T10:08:01.913973+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-06-20T14:52:10.451527+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 10时08分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 14时52分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 14时52分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -55,7 +57,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
