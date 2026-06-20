@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T06:08:46.519787+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-06-21T07:58:01.001718+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时58分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时58分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时58分]"
         }
       ]
     }
