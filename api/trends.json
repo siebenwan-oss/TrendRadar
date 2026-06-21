@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T07:58:01.001718+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-06-21T10:51:33.668657+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 10时51分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 10时51分]"
         }
       ]
     }
