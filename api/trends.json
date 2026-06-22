@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T06:29:58.475935+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-06-23T07:58:41.277369+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -19,15 +19,38 @@
           "time_info": "[01时22分 ~ 04时29分]"
         },
         {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时58分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -38,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时58分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX大跌16%",
@@ -51,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）美股热门股票行情一览（美股盘中）",
@@ -103,7 +115,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -114,7 +126,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -125,7 +137,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -155,7 +167,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：6月16日当周，投机者所持NYMEX WTI原油净多头头寸增加9,258手合约，至112,918手合约，创逾20周新高。 所持COMEX白银净多头头寸增加至12,070手合约，创逾五周新高。 所持COMEX铜净多头头寸降低至71,076手合约，创逾六周新低。 所持NYMEX铂金净多头头寸降低至8,072手合约，创逾14周新低。 所持NYMEX钯金净空头头寸降低至4,268手合约。",
@@ -167,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.4吨，当前持仓量为15023.49吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260623064256317800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月16日当周，COMEX黄金投机者将净多头头寸增加9,258手，至112,918手。COMEX白银投机者将净多头头寸增加2,275手，至12,070手。COMEX铜投机者将净多头头寸减少52手，至71,076手。",
