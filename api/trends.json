@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-06-22T08:03:33.998606+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-06-22T14:17:00.563638+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货白银向上触及65美元/盎司，日内涨0.29%。",
-          "url": "https://flash.jin10.com/detail/20260622070932852800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "金十图示：2026年06月22日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260622065719543800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -56,6 +28,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "A股氟化工板块持续走高，巨化股份午后涨停，多氟多此前封板，三美股份、永和股份、金石资源、昊华科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3122545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货白银向上触及65美元/盎司，日内涨0.29%。",
+          "url": "https://flash.jin10.com/detail/20260622070932852800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "金十图示：2026年06月22日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260622065719543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     }
