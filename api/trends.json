@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-06-22T06:57:16.405734+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-06-22T08:03:33.998606+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货白银向上触及65美元/盎司，日内涨0.29%。",
+          "url": "https://flash.jin10.com/detail/20260622070932852800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "金十图示：2026年06月22日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260622065719543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -25,7 +53,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         }
