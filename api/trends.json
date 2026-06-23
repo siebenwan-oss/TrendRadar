@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T00:18:14.904985+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:00:03.454642+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时00分]"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -30,17 +30,6 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
@@ -48,8 +37,37 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时00分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘收盘下跌0.35%报900.43元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘收盘下跌2.75%报14827.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260624023113394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         }
       ]
     },
@@ -65,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时00分]"
         }
       ]
     }
