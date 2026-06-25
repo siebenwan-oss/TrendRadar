@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T02:01:40.922445+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-26T03:57:09.990065+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 03时57分]"
         },
         {
           "title": "数字货币市场在美股盘初跳水",
@@ -25,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -54,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 03时57分]"
         }
       ]
     }
