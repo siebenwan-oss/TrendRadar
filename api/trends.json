@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T02:20:40.595851+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-27T04:25:25.898339+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时25分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -26,8 +26,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时25分]"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260627040745332800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "美股收盘，道指跌0.12%、标普500指数跌0.07%、纳指跌0.24%。半导体、存储概念股走软，西部数据(WDC.O)跌13%、希捷科技(STX.O)跌12%、闪迪(SNDK.O)跌10%、美光科技(MU.O)跌6.6%、高通(QCOM.O)跌7%。",
+          "url": "https://flash.jin10.com/detail/20260627040045015800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
