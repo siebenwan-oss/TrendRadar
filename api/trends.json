@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:51:06.605447+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-06-28T07:51:37.434429+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时51分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时51分]"
         }
       ]
     }
