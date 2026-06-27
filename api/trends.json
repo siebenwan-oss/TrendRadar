@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:05:02.100576+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-06-27T22:21:39.373806+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 20时05分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 22时21分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 20时05分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 22时21分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -42,6 +42,20 @@
           "time_info": "[00时05分 ~ 05时59分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[05时59分 ~ 22时21分]"
+        },
+        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
@@ -50,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时05分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 22时21分]"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
@@ -64,19 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时59分 ~ 20时05分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
