@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T09:54:02.490355+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-27T13:44:04.371232+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时44分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时44分]"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
@@ -62,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 09时54分]"
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 13时44分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时05分 ~ 07时03分]"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
@@ -105,7 +117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -145,7 +157,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
