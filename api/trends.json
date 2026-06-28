@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T05:52:04.513584+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-06-29T06:51:27.581295+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -16,8 +16,58 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时51分]"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货金银短线下挫，现货黄金跌幅扩大至0.6%，现报4055美元/盎司；现货白银跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260629061857195800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "现货白银盘初涨超1.00%，现报59.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260629060316167800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     }
