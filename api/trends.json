@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T14:51:12.833500+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-28T17:50:53.046088+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时50分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时50分]"
         }
       ]
     }
