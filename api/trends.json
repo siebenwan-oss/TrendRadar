@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T07:58:44.090632+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-06-29T10:35:03.340556+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时35分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
