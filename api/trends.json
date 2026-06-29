@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-06-29T15:19:08.620825+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-29T20:21:35.024483+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 15时19分]"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "白银",
       "match_count": 3,
@@ -39,46 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 15时19分]"
-        },
-        {
-          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260629060352549800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260629060021389800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
         }
       ]
     }
