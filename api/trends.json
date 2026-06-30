@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T09:59:31.422303+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-06-30T14:06:52.277373+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 14时06分]"
         },
         {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 14时06分]"
         },
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -50,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 14时06分]"
         },
         {
           "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
@@ -113,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 14时06分]"
         },
         {
           "title": "现货黄金跌约1.8%，美股早盘一度逼近4000点整数位心理关口",
