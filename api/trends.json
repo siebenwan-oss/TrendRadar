@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T06:06:46.369698+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-01T07:56:37.260312+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -17,6 +17,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 06时06分]"
+        },
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
+          "url": "https://flash.jin10.com/detail/20260701072937445800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
@@ -82,11 +126,12 @@
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 07时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -107,7 +152,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -184,7 +229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -192,7 +237,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大摩Wilson：类比白银，半导体或正在经历最后狂欢",
@@ -200,11 +245,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 07时56分]"
         },
         {
           "title": "周二（6月30日）纽约尾盘，现货黄金跌0.18%，报4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年冲高回落，1月29日涨至5595.47美元创历史最高，随后逐步回撤，6月30日一度跌至3943.29美元。 现货白银涨0.62%，报58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日达到121.6540美元，之后逐步回撤，6月24日曾跌至55.6125美元。",
@@ -213,9 +259,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.69吨，当前持仓量为14922.22吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260701070315811800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
