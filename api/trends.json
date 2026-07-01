@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:56:37.260312+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-01T10:05:07.826344+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -25,20 +25,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时05分]"
         },
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2413612",
           "source": "财联社热门",
           "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时05分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时05分]"
         },
         {
           "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
@@ -47,18 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -110,6 +112,18 @@
           "time_info": "[04时49分 ~ 06时06分]"
         },
         {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 10时05分]"
+        },
+        {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -120,18 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 06时06分]"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -155,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "A股氟化工板块盘初拉升，三美股份涨停，昊华科技、联创股份、金石资源、永和股份、巍华新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701093236524800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -249,8 +262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 10时05分]"
         },
         {
           "title": "周二（6月30日）纽约尾盘，现货黄金跌0.18%，报4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年冲高回落，1月29日涨至5595.47美元创历史最高，随后逐步回撤，6月30日一度跌至3943.29美元。 现货白银涨0.62%，报58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日达到121.6540美元，之后逐步回撤，6月24日曾跌至55.6125美元。",
@@ -270,7 +283,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
