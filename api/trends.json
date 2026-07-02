@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-03T02:22:18.892118+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-07-03T04:14:00.259197+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040606639800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040551550800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
         {
           "title": "美股集体高开 黄金板块领涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E9%BB%84%E9%87%91%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
+          "url": "https://flash.jin10.com/detail/20260703040150384800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美股存储芯片指数跌超7%，成分股全线溃败，闪迪盘中跌幅扩大至10%，泰瑞达、拉姆研究、应用材料、希捷科技、西部数据、Rambus、美光科技至多跌7.6%。",
