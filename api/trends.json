@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T19:23:16.920618+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-07-03T21:28:15.061209+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时28分]"
         },
         {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
@@ -216,7 +217,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加16.79吨，当前持仓量为14939.01吨。欢迎点击查看数据中心...",
@@ -229,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "DeepTalk：5%见顶概率下加码，白银大师为什么仍看好？",
+          "url": "https://flash.jin10.com/detail/20260703210233701800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "现货金银短线走高 白银日内涨超1%",
@@ -276,7 +288,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
