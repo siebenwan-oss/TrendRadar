@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T05:45:41.261257+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-05T06:44:27.529254+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 06时44分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -25,9 +26,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时44分]"
         }
       ]
     }
