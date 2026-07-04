@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-04T07:54:27.055826+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-07-04T09:28:40.097507+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260704023100243800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 07时54分]"
+        },
+        {
+          "title": "金十图示：2026年07月04日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260704081521793800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -14,11 +44,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 09时28分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -49,25 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 04时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260704023100243800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时54分]"
         }
       ]
     }
