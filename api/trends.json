@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T18:47:46.113344+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-07-04T20:02:10.064236+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[13时33分 ~ 20时02分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 20时02分]"
         }
       ]
     },
