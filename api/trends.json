@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T07:50:47.903464+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-05T09:44:14.665916+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 09时44分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
