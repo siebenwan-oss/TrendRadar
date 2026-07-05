@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T22:23:59.721380+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-05T23:59:18.390561+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 23时59分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时59分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时51分 ~ 16时36分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
