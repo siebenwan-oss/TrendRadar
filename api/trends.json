@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T02:55:55.604810+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-06T04:05:57.822637+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时05分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时05分]"
         }
       ]
     }
