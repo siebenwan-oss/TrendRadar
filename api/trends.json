@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T07:53:45.157770+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-07-06T09:49:09.843910+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时49分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -32,15 +32,37 @@
           "time_info": "[01时02分 ~ 07时53分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
           "url": "https://flash.jin10.com/detail/20260706070621012800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         }
       ]
     },
@@ -67,7 +89,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
