@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:18:19.643039+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-07T21:10:35.590554+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -127,6 +127,17 @@
           "time_info": "[05时18分 ~ 06时58分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "三星电子公布业绩预告后，闪迪(SNDK.O)和美光科技(MU.O)美股盘后走低，现分别跌1.2%和0.7%。",
           "url": "https://flash.jin10.com/detail/20260707065433008800",
           "source": "金十数据",
@@ -169,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-07）",
+          "url": "https://flash.jin10.com/detail/20260707202455784800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -219,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 21时10分]"
         },
         {
           "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
