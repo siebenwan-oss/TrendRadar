@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T06:03:55.473258+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-08T07:43:44.886727+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -25,11 +36,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时43分]"
         },
         {
           "title": "美股",
@@ -38,11 +50,12 @@
           "ranks": [
             14,
             29,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时43分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -54,6 +67,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 06时03分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
@@ -73,7 +97,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -84,9 +108,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美股三大指数集体收跌 纳指跌1.16%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%BA%B3%E6%8C%87%E8%B7%8C1.16%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
@@ -95,9 +130,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，英特尔跌超10%。",
@@ -114,19 +160,31 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
         {
           "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
           "url": "https://wallstreetcn.com/articles/3776333",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 07时43分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
@@ -146,9 +204,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加15.47吨，当前持仓量为14915.1吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260708064243496800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     }
