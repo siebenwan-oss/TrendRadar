@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:55:39.013972+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-07-08T15:21:58.097196+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 15时21分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 15时21分]"
         },
         {
           "title": "美股",
@@ -174,8 +174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 15时21分]"
         },
         {
           "title": "挂单报告：国际现货黄金上测4110 国际现货白银留意下行押注",
@@ -252,7 +252,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
