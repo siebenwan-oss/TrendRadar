@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T09:20:07.937739+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-07-08T12:55:39.013972+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 09时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 12时55分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -38,11 +38,25 @@
             8,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 09时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 12时55分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 12时55分]"
         },
         {
           "title": "美股",
@@ -57,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 07时43分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 09时20分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -162,7 +164,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -172,8 +174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 09时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 12时55分]"
         },
         {
           "title": "挂单报告：国际现货黄金上测4110 国际现货白银留意下行押注",
@@ -182,7 +184,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -206,7 +208,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -242,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "白银腰斩到60！多头最怕的信号变了",
+          "url": "https://flash.jin10.com/detail/20260708121602435800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
