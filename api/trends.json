@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-08T07:43:44.886727+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-07-08T09:20:07.937739+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时20分]"
+        },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
           "url": "https://wallstreetcn.com/articles/3776355",
@@ -19,17 +31,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
           "url": "https://wallstreetcn.com/articles/3776359",
           "source": "华尔街见闻",
@@ -40,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 09时20分]"
         },
         {
           "title": "美股",
@@ -58,6 +59,18 @@
           "time_info": "[00时15分 ~ 07时43分]"
         },
         {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时20分]"
+        },
+        {
           "title": "跌个不停！美股半导体连跌第四天",
           "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
           "source": "百度热搜",
@@ -67,17 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 06时03分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
         },
         {
           "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
@@ -119,7 +121,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -141,7 +143,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -160,7 +162,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -169,9 +171,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时20分]"
+        },
+        {
+          "title": "挂单报告：国际现货黄金上测4110 国际现货白银留意下行押注",
+          "url": "https://flash.jin10.com/detail/20260708090549809800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "09时20分"
         },
         {
           "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
@@ -185,6 +198,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 07时43分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月8日（周三）早盘盘初下跌0.5%报898.3元/克；<br/>上海黄金交易所白银T+D 7月8日（周三）早盘盘初下跌1.1%报14700.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260708090158552800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
@@ -215,7 +239,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
