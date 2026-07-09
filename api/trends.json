@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T14:32:22.103010+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-07-09T18:22:10.972744+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
@@ -196,7 +196,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
