@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T10:07:28.394799+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-07-09T14:32:22.103010+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时32分]"
         },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
@@ -186,8 +186,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时32分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报58.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260709142426467800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少15.47吨，当前持仓量为14899.63吨。欢迎点击查看数据中心...",
@@ -236,7 +247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
