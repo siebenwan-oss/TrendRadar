@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T07:56:28.461193+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-07-10T09:25:35.542495+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -36,11 +36,23 @@
           "url": "https://www.cls.cn/detail/2422278",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 09时25分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "09时25分"
         },
         {
           "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
@@ -94,11 +106,12 @@
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 09时25分]"
         },
         {
           "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
@@ -107,9 +120,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 09时25分]"
         },
         {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
@@ -151,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -181,7 +194,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少28.12吨，当前持仓量为14871.51吨。欢迎点击查看数据中心...",
@@ -190,9 +203,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月10日（周五）早盘盘初上涨1.2%报901.7元/克；<br/>上海黄金交易所白银T+D 7月10日（周五）早盘盘初上涨3.23%报14692.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260710090116371800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月9日（周四）晚盘收盘上涨1.16%报901.36元/克；<br/>上海黄金交易所白银T+D 7月9日（周四）晚盘收盘上涨2.96%报14653.0元/千克。",
