@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:38:36.899483+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-12T06:36:20.305598+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时36分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -63,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时36分]"
         }
       ]
     }
