@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T15:03:59.213266+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-07-11T17:13:53.046648+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 15时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 17时13分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -79,8 +79,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 15时03分]"
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 17时13分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 17时13分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -92,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时45分 ~ 15时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时45分 ~ 17时13分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -121,8 +133,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 15时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 17时13分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -173,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
