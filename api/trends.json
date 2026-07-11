@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-11T09:19:07.093330+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-07-11T12:51:21.446077+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 09时19分]"
-        },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
@@ -67,17 +55,44 @@
           "time_info": "00时11分"
         },
         {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 12时51分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 12时51分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时47分 ~ 09时19分]"
+          "time_info": "[07时45分 ~ 12时51分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -91,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 09时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 12时51分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -104,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 09时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 12时51分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -147,18 +162,6 @@
           "time_info": "[05时48分 ~ 09时19分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 09时19分]"
-        },
-        {
           "title": "SK海力士美股首日开涨14%",
           "url": "https://flash.jin10.com/detail/20260710233613237800",
           "source": "金十数据",
@@ -168,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
+          "url": "https://flash.jin10.com/detail/20260711094525096800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -229,7 +243,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
