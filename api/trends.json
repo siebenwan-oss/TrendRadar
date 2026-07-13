@@ -1,198 +1,44 @@
 {
-  "generated_at": "2026-07-13T21:55:40.765619+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-07-14T00:18:59.032877+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
-          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 19时47分]"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时40分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "00时18分"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
           "url": "https://www.cls.cn/detail/2424724",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 21时55分]"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3132940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普跌，SK海力士跌近10%",
-          "url": "https://wallstreetcn.com/livenews/3132708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2424933",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "00时18分"
         },
         {
-          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260713214251101800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股开盘：SK海力士ADR跌9%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%ABADR%E8%B7%8C9%25",
+          "title": "美股半导体大跌！闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3132925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货白银日内跌超2.00%，现报58.65美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260713060721876800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时40分]"
-        },
-        {
-          "title": "周一开盘，现货黄金低开约20美元，跌破4100美元/盎司。现货白银低开0.8%。",
-          "url": "https://flash.jin10.com/detail/20260713060149944800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时40分]"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260713065755518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月13日（周一）早盘盘初下跌1.17%报888.13元/克；<br/>上海黄金交易所白银T+D 7月13日（周一）早盘盘初下跌2.08%报14331.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260713090138095800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "00时18分"
         }
       ]
     }
