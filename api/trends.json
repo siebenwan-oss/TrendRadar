@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T21:11:28.011728+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-07-16T23:23:56.189288+08:00",
+  "total_titles_processed": 1831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 23时23分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -154,6 +166,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 05时49分]"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时23分]"
         },
         {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
@@ -282,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -293,18 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2428765",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -392,7 +405,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
@@ -465,7 +478,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
