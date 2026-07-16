@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T05:53:19.558367+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-07-17T07:45:46.156641+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -30,6 +30,17 @@
           "time_info": "[00时59分 ~ 05时53分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指跌超1%，中概再度逆市收涨，黄金跌破4000关口",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260717003033503800",
           "source": "金十数据",
@@ -39,6 +50,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -81,11 +114,12 @@
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 07时45分]"
         },
         {
           "title": "奈飞二季度营收125.6亿美元，分析师预期125.8亿美元。 二季度每股收益（EPS）为0.80美元，分析师预期0.79美元。 预计全年营收510亿-514亿美元，公司原本预计507亿-517亿美元。 预计三季度营收128.6亿美元，分析师预期130亿美元。 预计三季度EPS为0.82美元，分析师预期0.84美元。 “我们观看了啥”（What we Watched）的发布频率将从半年一次降低至一年一次。 奈飞美股盘后跌3%。",
@@ -139,7 +173,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -164,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘后下跌4%，星舰在得州的第13次试飞过程中，于升空前最后一刻中止发射。",
+          "url": "https://flash.jin10.com/detail/20260717065032894800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
@@ -182,8 +227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 07时45分]"
         },
         {
           "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
@@ -192,7 +237,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
