@@ -1,113 +1,22 @@
 {
-  "generated_at": "2026-07-18T23:42:59.761158+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-07-19T00:41:36.662848+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时37分]"
-        },
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 05时40分]"
-        },
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            9,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时37分 ~ 23时42分]"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040531274800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 07时41分]"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260718040519016800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 07时41分]"
-        },
-        {
-          "title": "美股芯片股，距熊市仅一步之遥",
-          "url": "https://wallstreetcn.com/articles/3777197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时30分]"
-        },
-        {
-          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
-          "url": "https://wallstreetcn.com/livenews/3135907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时41分]"
-        },
-        {
-          "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3135906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时41分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -117,189 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 23时42分]"
-        },
-        {
-          "title": "美股三大指数全线下挫",
-          "url": "https://www.douyin.com/hot/2575548",
-          "source": "抖音",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时51分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
-          "url": "https://wallstreetcn.com/livenews/3135852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时49分]"
-        },
-        {
-          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260718040114530800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
-        },
-        {
-          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
-          "url": "https://wallstreetcn.com/livenews/3135984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时42分]"
-        },
-        {
-          "title": "如何甄别美股的漂亮话",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%84%E5%88%AB%E7%BE%8E%E8%82%A1%E7%9A%84%E6%BC%82%E4%BA%AE%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "美股半导体指数跌入熊市",
-          "url": "https://www.toutiao.com/trending/7663631586239188521/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260718003300132800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3135803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "现货白银日内涨幅扩大至1.00%，现报56.08美元/盎司。纽约期银日内涨幅扩大至1.00%，现报56.33美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260717233924934800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月17日（周五）晚盘收盘上涨0.61%报876.0元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）晚盘收盘上涨1.16%报13636.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260718023152658800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3135831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时55分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加67.49吨，当前持仓量为15061.32吨。欢迎点击查看数据中心>>",
-          "url": "https://flash.jin10.com/detail/20260718060817490800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时13分]"
-        },
-        {
-          "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
-          "url": "https://wallstreetcn.com/livenews/3135913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时40分 ~ 09时13分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手。COMEX白银投机者将净多头持仓减少1,755手至10,377手。COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
-          "url": "https://flash.jin10.com/detail/20260718033105365800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时41分]"
-        },
-        {
-          "title": "现货白银站上56美元/盎司，日内涨0.90%。",
-          "url": "https://flash.jin10.com/detail/20260717230611338800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "00时41分"
         }
       ]
     }
