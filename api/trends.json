@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T20:43:35.873455+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-07-18T22:13:48.689409+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -36,11 +36,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时37分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[06时37分 ~ 22时13分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -155,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时07分 ~ 19时42分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "如何甄别美股的漂亮话",
