@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:39:22.772785+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-07-20T07:44:33.109780+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货白银盘初下跌0.4%，现报55.64美元/盎司。",
@@ -14,9 +14,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260720065031066800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         }
       ]
     },
@@ -50,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         }
