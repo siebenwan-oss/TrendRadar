@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-19T15:24:24.593185+08:00",
-  "total_titles_processed": 1000,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-07-19T17:42:33.686909+08:00",
+  "total_titles_processed": 1139,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
@@ -18,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 15时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 17时42分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -39,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 17时42分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -55,6 +54,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国投白银LOF：二季度国投瑞银白银期货（LOF）A类已实现收益4.05亿元",
+          "url": "https://flash.jin10.com/detail/20260719171650877800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260719170711762800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3136209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }
