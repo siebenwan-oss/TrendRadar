@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:58:55.196157+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-07-22T09:17:28.947770+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -48,9 +48,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 09时17分]"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 09时17分]"
         },
         {
           "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
-        },
-        {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
@@ -105,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 09时17分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -118,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 09时17分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -205,7 +206,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
@@ -242,6 +243,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时58分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月22日（周三）早盘盘初上涨1.3%报893.72元/克；<br/>上海黄金交易所白银T+D 7月22日（周三）早盘盘初上涨2.91%报14461.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260722090058978800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报59.36美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260722090014908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     }
