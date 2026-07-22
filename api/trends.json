@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-07-23T06:49:51.730052+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-23T07:52:41.784413+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时52分]"
+        },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时49分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -47,9 +48,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时52分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时49分"
+          "time_info": "07时52分"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -57,11 +69,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 07时52分]"
         },
         {
           "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
@@ -94,11 +107,12 @@
           "ranks": [
             15,
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 06时49分]"
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 07时52分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -154,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "韩股剧烈震荡，韩国散户重返美股扫货",
+          "url": "https://flash.jin10.com/detail/20260723065105541800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌2.5%。",
@@ -217,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -228,7 +253,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -254,11 +279,12 @@
           "url": "https://flash.jin10.com/detail/20260723061656457800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时52分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月22日（周三）晚盘收盘上涨0.71%报903.69元/克；<br/>上海黄金交易所白银T+D 7月22日（周三）晚盘收盘上涨1.15%报14660.0元/千克。",
