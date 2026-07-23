@@ -1,387 +1,50 @@
 {
-  "generated_at": "2026-07-23T22:59:08.744627+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-07-24T00:22:33.293773+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 2,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时49分 ~ 22时59分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时52分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时49分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时55分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 15时33分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时54分 ~ 13时02分]"
-        },
-        {
-          "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
-          "url": "https://wallstreetcn.com/livenews/3138429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时49分]"
-        },
-        {
-          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
-          "url": "https://wallstreetcn.com/livenews/3138400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时55分]"
-        },
-        {
-          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063182962879993810",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时57分 ~ 09时24分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
-          "url": "https://flash.jin10.com/detail/20260723054245169800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时55分"
+          "time_info": "00时22分"
         },
         {
-          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度汽车营收205.2亿美元，分析师预期186.8亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。 二季度毛利润率16.8%，分析师预期19.4%。 二季度运营利润3.98亿美元，分析师预期13.9亿美元。 二季度自由现金流（FCF）为负10.9亿美元（-10.9亿美元），分析师预期-36.4亿美元。 特斯拉美股盘后跌2.41%，暂报365.00美元。",
-          "url": "https://wallstreetcn.com/livenews/3138393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "谷歌母公司Alphabet二季度营收1198亿美元，分析师预期1170.2亿美元。 二季度剔除流量获取成本（Ex-TAC）营收103.6亿美元，分析师预期1010.7亿美元。 二季度谷歌云营收247.7亿美元，分析师预期224.6亿美元；谷歌云订单积压5140亿美元。 二季度谷歌搜索与其他收入632.7亿美元，分析师预期632.8亿美元。 二季度搜索同比增长17%。 二季度谷歌服务营收945.4亿美元，分析师预期943.2亿美元。 二季度谷歌广告营收816.3亿美元，分析师预期811.2亿美元。 二季度YouTube广告营收110.6亿美元，分析师预期108.1亿美元。 二季度运营利润407.6亿美元，分析师预期405.5亿美元。 二季度资本开支449.2亿美元，分析师预期441.5亿美元。 没有按市价出售任何股份，股权增长990.3亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
-          "url": "https://wallstreetcn.com/livenews/3138391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
-          "url": "https://flash.jin10.com/detail/20260722232746995800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美股软件ETF收跌3%，创6月5日以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3138389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "韩股剧烈震荡，韩国散户重返美股扫货",
-          "url": "https://flash.jin10.com/detail/20260723065105541800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后跌2.5%。",
-          "url": "https://flash.jin10.com/detail/20260723040928495800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "SK海力士(SKHY.O)美股盘后涨4.5%，美光科技(MU.O)涨2%，特斯拉(TSLA.O)跌3%，谷歌A(GOOGL.O)跌4%，",
-          "url": "https://flash.jin10.com/detail/20260723053142248800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "尚未被定价的隐形风险：日本万亿级资金回流将成美股的“抽水机”",
-          "url": "https://flash.jin10.com/detail/20260723222612176800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3138380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌超0.9%，大豆、黄金、布油基金涨超1%",
-          "url": "https://wallstreetcn.com/livenews/3138406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3138849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260723040541765800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特斯拉美股盘后跌幅扩大至5%，SpaceX涨0.7%。 马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
-          "url": "https://wallstreetcn.com/livenews/3138431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "特斯拉美股盘后跌幅扩大至5%，马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
-          "url": "https://wallstreetcn.com/livenews/3138430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "金十图示：2026年07月22日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260723040538396800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3138842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3138834",
-          "source": "华尔街见闻-快讯",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15066.94吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20260723061656457800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时52分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月22日（周三）晚盘收盘上涨0.71%报903.69元/克；<br/>上海黄金交易所白银T+D 7月22日（周三）晚盘收盘上涨1.15%报14660.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260723023020337800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月23日（周四）早盘盘初上涨0.58%报902.5元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）早盘盘初上涨1.21%报14669.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260723090020632800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "现货白银日内跌幅达2.0%，报58.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3138843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色金属",
       "match_count": 1,
       "titles": [
         {
-          "title": "港股午评：恒指收涨1.34%，有色金属板块走强",
-          "url": "https://flash.jin10.com/detail/20260723120228115800",
-          "source": "金十数据",
+          "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3138979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "00时22分"
         }
       ]
     }
