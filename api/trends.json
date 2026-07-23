@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T13:02:02.828105+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-07-23T15:33:36.165108+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 15时33分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -323,7 +323,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
