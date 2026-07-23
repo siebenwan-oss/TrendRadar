@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T07:52:41.784413+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-07-23T09:24:44.890487+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 09时24分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -59,9 +59,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 09时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -70,11 +70,12 @@
           "ranks": [
             12,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时54分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[05时54分 ~ 09时24分]"
         },
         {
           "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
@@ -108,11 +109,12 @@
             15,
             14,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时57分 ~ 07时52分]"
+          "appearance_count": 6,
+          "time_info": "[04时57分 ~ 09时24分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -176,7 +178,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -272,7 +274,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15066.94吨。欢迎点击查看数据中心..",
@@ -296,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月23日（周四）早盘盘初上涨0.58%报902.5元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）早盘盘初上涨1.21%报14669.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260723090020632800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
