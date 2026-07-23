@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T15:33:36.165108+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-23T18:10:45.650432+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 18时10分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
