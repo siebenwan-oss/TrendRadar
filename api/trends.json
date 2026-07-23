@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T02:05:52.583259+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-24T04:07:35.864189+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "美股",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             30,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时07分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -37,7 +38,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
