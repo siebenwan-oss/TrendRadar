@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:21:09.598216+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-07-24T12:57:22.335134+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 09时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 12时57分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -42,6 +42,17 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
           "url": "https://www.cls.cn/detail/2435694",
           "source": "财联社热门",
@@ -51,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 09时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 12时57分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -63,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 09时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 12时57分]"
         },
         {
           "title": "美股",
@@ -195,11 +206,12 @@
           "url": "https://flash.jin10.com/detail/20260724082052452800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时57分]"
         },
         {
           "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
@@ -211,6 +223,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学者：黄金价格尚未迎来击球区",
+          "url": "https://www.toutiao.com/trending/7665878483473550911/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     }
