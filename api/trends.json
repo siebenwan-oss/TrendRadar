@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T09:21:09.033464+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-07-25T12:53:25.917483+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 12时53分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -65,6 +65,19 @@
           "time_info": "05时53分"
         },
         {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 12时53分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
           "url": "https://wallstreetcn.com/livenews/3139670",
           "source": "华尔街见闻-快讯",
@@ -78,18 +91,6 @@
           "time_info": "[06时50分 ~ 09时21分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时21分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
@@ -97,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 12时53分]"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
@@ -196,7 +197,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
