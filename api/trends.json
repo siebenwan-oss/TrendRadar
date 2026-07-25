@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T02:45:50.744601+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-26T04:04:00.356043+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时04分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时04分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时04分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -46,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 04时04分]"
         }
       ]
     }
