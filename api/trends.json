@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-25T17:24:48.361005+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-07-25T19:01:40.558074+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时53分 ~ 19时01分]"
+        },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时09分 ~ 07时53分]"
-        },
-        {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 17时24分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -75,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时53分 ~ 19时01分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
@@ -98,11 +98,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时53分 ~ 19时01分]"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
