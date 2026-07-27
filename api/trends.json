@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T17:22:07.885401+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-07-27T20:48:27.193632+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -65,12 +65,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时49分 ~ 09时29分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727202205552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "甘肃白银警方侦破一起16年前的命案，4名嫌犯落网",
@@ -94,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月27日（周一）晚盘盘初上涨1.47%报894.15元/克；<br/>上海黄金交易所白银T+D 7月27日（周一）晚盘盘初下跌1.49%报14250.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260727200027856800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     }
