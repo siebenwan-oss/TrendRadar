@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T01:15:44.380029+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-29T03:02:26.140475+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时02分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时02分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时02分]"
         },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -48,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时02分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -59,8 +61,36 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时02分]"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月28日（周二）晚盘收盘下跌0.4%报878.96元/克；<br/>上海黄金交易所白银T+D 7月28日（周二）晚盘收盘下跌0.34%报13962.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260729023026069800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     }
