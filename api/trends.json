@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:02:53.131642+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-28T09:16:55.651746+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时16分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -38,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -52,6 +53,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "美股芯片股“血流成河”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E2%80%9C%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -78,6 +101,18 @@
           "time_info": "[04时59分 ~ 06时01分]"
         },
         {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 09时16分]"
+        },
+        {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
@@ -87,8 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时16分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -101,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时16分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -165,15 +200,26 @@
           "time_info": "[04时59分 ~ 06时01分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "09时16分"
+        },
+        {
+          "title": "美光科技(MU.O)、西部数据(WDC.O)和SK海力士(SKHY.O)美股盘后均跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260728082354418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -207,13 +253,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "美股上演芯片风暴 苹果重返市值第一",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "现货白银向下触及58美元/盎司，日内跌0.70%。",
+          "url": "https://flash.jin10.com/detail/20260728084604232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 7月27日（周一）晚盘收盘下跌0.45%报888.05元/克；<br/>上海黄金交易所白银T+D 7月27日（周一）晚盘收盘下跌1.27%报14283.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260728023123374800",
@@ -243,7 +311,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
