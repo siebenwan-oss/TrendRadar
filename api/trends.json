@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:51:10.369460+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-07-28T15:29:48.484092+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股",
@@ -21,6 +21,19 @@
           "time_info": "[01时26分 ~ 09时16分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时29分]"
+        },
+        {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -33,18 +46,6 @@
           "time_info": "[01时26分 ~ 04时59分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时51分]"
-        },
-        {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
           "url": "https://www.cls.cn/detail/2438605",
           "source": "财联社热门",
@@ -52,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时29分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，美元走V",
@@ -98,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 12时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 15时29分]"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -161,8 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 15时29分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -175,6 +176,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时01分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
@@ -245,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
@@ -336,7 +359,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
