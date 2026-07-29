@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T02:48:24.223606+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-30T04:06:56.512499+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时06分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时06分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时06分]"
         },
         {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
@@ -81,7 +81,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -120,7 +120,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         }
