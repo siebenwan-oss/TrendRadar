@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T09:24:57.731632+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-07-31T13:21:39.752000+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 09时24分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 13时21分]"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅",
@@ -110,9 +111,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
@@ -165,7 +177,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -173,7 +185,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货白银日内涨幅达2.0%，报58.76美元/盎司。",
@@ -194,7 +206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -219,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260731115555250800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
