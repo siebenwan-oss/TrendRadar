@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T17:49:19.155686+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-08-01T19:09:42.120822+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 19时09分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 17时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 19时09分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -85,6 +85,17 @@
           "time_info": "[05时54分 ~ 07时50分]"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时09分]"
+        },
+        {
           "title": "美股三大股指全线收涨",
           "url": "https://www.douyin.com/hot/2592807",
           "source": "抖音",
@@ -94,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -197,11 +197,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时16分 ~ 17时49分]"
+          "appearance_count": 13,
+          "time_info": "[01时16分 ~ 19时09分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月31日（周五）晚盘收盘下跌0.71%报881.08元/克；<br/>上海黄金交易所白银T+D 7月31日（周五）晚盘收盘下跌0.99%报14094.0元/千克。",
