@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T13:14:57.541969+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-08-01T17:49:19.155686+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 17时49分]"
+        },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 13时14分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -50,11 +50,12 @@
             9,
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 17时49分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -188,8 +200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 13时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 17时49分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月31日（周五）晚盘收盘下跌0.71%报881.08元/克；<br/>上海黄金交易所白银T+D 7月31日（周五）晚盘收盘下跌0.99%报14094.0元/千克。",
