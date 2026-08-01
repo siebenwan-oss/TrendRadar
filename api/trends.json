@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T06:42:36.977777+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-08-02T07:46:29.513969+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时46分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时46分]"
         }
       ]
     }
