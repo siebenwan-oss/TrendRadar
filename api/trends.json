@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-03T05:42:59.486066+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-08-03T06:43:38.918879+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银日内上涨1美元，现报58.60美元/盎司，涨幅1.79%。",
+          "url": "https://flash.jin10.com/detail/20260803060825671800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -16,8 +33,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时43分]"
         }
       ]
     }
