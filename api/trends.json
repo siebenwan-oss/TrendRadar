@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T09:24:19.106841+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-08-02T13:18:27.874599+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2443155",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 13时18分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -27,19 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 13时18分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
           "url": "https://wallstreetcn.com/articles/3778494",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 13时18分]"
         }
       ]
     }
