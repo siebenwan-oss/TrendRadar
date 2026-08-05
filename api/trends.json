@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T07:52:13.547320+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-05T09:17:14.225523+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -35,11 +35,23 @@
           "url": "https://www.cls.cn/detail/2445802",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 09时17分]"
+        },
+        {
+          "title": "“大空头”再发警告：美股市场正接近“大顶”，1987式崩盘或重演",
+          "url": "https://flash.jin10.com/detail/20260805083108933800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
@@ -50,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时09分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时09分 ~ 09时17分]"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -75,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 09时17分]"
         },
         {
           "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
@@ -262,7 +274,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -290,7 +302,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
