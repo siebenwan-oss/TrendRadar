@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T01:16:44.017217+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-06T03:09:57.656177+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时09分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时09分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -50,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月5日（周三）晚盘收盘上涨3.4%报925.64元/克；<br/>上海黄金交易所白银T+D 8月5日（周三）晚盘收盘上涨3.11%报15187.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260806023111532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
