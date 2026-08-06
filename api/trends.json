@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T12:52:46.948681+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-08-06T15:31:50.196523+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 15时31分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -109,11 +110,12 @@
           "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时31分]"
         },
         {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -227,7 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
