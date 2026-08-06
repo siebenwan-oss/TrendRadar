@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T20:48:47.437552+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-08-06T23:04:37.253920+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 04时54分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -119,6 +130,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "SpaceX涨超5%，刷新日高。 美股盘初，特斯拉与美国得州州长宣布，SpaceX在Grimes县扩建，Terafab一期项目意味着168亿美元资本开支投资，SpaceX将在Grimes县建设芯片设施。",
+          "url": "https://wallstreetcn.com/livenews/3146110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260806003157857800",
           "source": "金十数据",
@@ -161,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "疯狂补仓撑起美股反弹，专家警告：对冲抛压可能会卷土重来！",
+          "url": "https://flash.jin10.com/detail/20260806221403559800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
@@ -227,13 +260,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "美股盘初纳指跌0.3%，存储芯片股集体大跌",
+          "url": "https://wallstreetcn.com/livenews/3146086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄金、白银大涨，黄金盘中重回 4300 美元，白银突破 62 美元，品牌金饰价涨超 55 元，开启新一轮上涨了吗？",
+          "url": "https://www.zhihu.com/question/2068465234843530940",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
         {
           "title": "金十图示：2026年08月06日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260806121832150800",
