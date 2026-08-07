@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:26:43.462625+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-08-08T06:23:47.101631+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时23分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时23分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -80,11 +80,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -96,11 +97,12 @@
             17,
             15,
             10,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时23分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -111,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时23分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -122,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         }
       ]
     },
@@ -152,8 +154,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         }
       ]
     }
