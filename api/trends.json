@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-07T12:18:49.497745+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-08-07T14:03:49.149856+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "现货黄金站上4280美元/盎司，日内涨0.94%。现货白银日内涨幅扩大至2.00%，现报62.76美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260807135733338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "现货白银日内涨1美元，现报62.53美元/盎司，涨幅1.64%。",
+          "url": "https://flash.jin10.com/detail/20260807134215887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日增加42.17吨，当前持仓量为15172.99吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20260807062010110800",
@@ -36,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         }
@@ -55,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 14时03分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -67,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 14时03分]"
         },
         {
           "title": "美股三大指数集体收跌",
