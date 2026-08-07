@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:38:37.995611+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-08-08T02:36:27.726243+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -69,11 +69,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时36分]"
         }
       ]
     }
