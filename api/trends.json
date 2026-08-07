@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-07T07:47:41.452342+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-07T09:57:18.937711+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时57分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时57分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
     {
       "keyword_group": "白银",
       "match_count": 2,
@@ -24,34 +64,6 @@
           "source": "知乎",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
