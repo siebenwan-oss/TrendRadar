@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T18:53:19.146016+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-08-07T19:36:30.606039+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -99,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时47分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -120,11 +120,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
