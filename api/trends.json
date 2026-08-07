@@ -1,51 +1,11 @@
 {
-  "generated_at": "2026-08-07T09:57:18.937711+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-08-07T12:18:49.497745+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时57分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时57分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2600354",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日增加42.17吨，当前持仓量为15172.99吨。欢迎点击查看数据中心…",
@@ -68,6 +28,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "美国非农今晚出炉，华尔街预期分歧巨大，现货黄金目前多空占比为54%-46%，现货白银多头占比近90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260807114548091800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 12时18分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 12时18分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     }
