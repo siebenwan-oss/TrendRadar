@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T20:20:53.384195+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-08-08T21:37:21.207112+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时40分 ~ 20时20分]"
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时23分 ~ 20时20分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 21时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 20时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 21时37分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -252,7 +252,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
