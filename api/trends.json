@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:34:19.291887+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-08-08T14:30:41.272537+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 13时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 14时30分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -64,8 +64,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 13时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时30分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 14时30分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -90,18 +103,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时27分 ~ 08时40分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 13时34分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -210,6 +211,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 10时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
         }
       ]
     }
