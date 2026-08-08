@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:15:32.831821+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-08-09T05:18:13.999425+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时18分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时18分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时18分]"
         }
       ]
     }
