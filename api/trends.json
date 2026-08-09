@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:40:16.502953+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-08-09T14:34:29.306565+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时34分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时34分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -60,11 +61,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 14时34分]"
         }
       ]
     }
