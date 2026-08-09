@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:27:01.548875+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-08-09T18:20:53.164240+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 18时20分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -26,25 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 17时27分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 17时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时20分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -59,6 +46,21 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时20分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -68,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时55分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 18时20分]"
         }
       ]
     }
