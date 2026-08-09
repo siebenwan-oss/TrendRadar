@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-09T16:27:57.924897+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-08-09T17:27:01.548875+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 16时27分]"
-        },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
           "url": "https://wallstreetcn.com/articles/3778998",
@@ -29,8 +17,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 17时27分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 17时27分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 16时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 17时27分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -68,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 17时27分]"
         }
       ]
     }
