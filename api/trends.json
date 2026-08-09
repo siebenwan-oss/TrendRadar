@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:23:46.178848+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-10T04:18:30.319648+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -36,9 +36,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时18分]"
         }
       ]
     }
