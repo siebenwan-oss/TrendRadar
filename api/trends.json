@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:14:25.311247+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-08-10T15:03:32.316237+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,20 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时23分 ~ 15时03分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -43,26 +57,13 @@
           "time_info": "[00时19分 ~ 08时45分]"
         },
         {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时23分 ~ 13时14分]"
-        },
-        {
           "title": "美股新高即将迎来考验，CPI会来带抛售潮吗？",
           "url": "https://flash.jin10.com/detail/20260810130237090800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
