@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T08:45:08.015016+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-08-10T11:04:53.350622+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 08时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时04分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -47,11 +47,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时23分 ~ 07时19分]"
+          "appearance_count": 8,
+          "time_info": "[03时23分 ~ 11时04分]"
         }
       ]
     },
@@ -66,7 +67,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
