@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:04:53.350622+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-08-10T13:14:25.311247+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -48,11 +48,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时23分 ~ 11时04分]"
+          "appearance_count": 9,
+          "time_info": "[03时23分 ~ 13时14分]"
+        },
+        {
+          "title": "美股新高即将迎来考验，CPI会来带抛售潮吗？",
+          "url": "https://flash.jin10.com/detail/20260810130237090800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
