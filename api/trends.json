@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:19:11.186431+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-10T08:45:08.015016+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 08时45分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -35,11 +35,12 @@
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 08时45分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -51,6 +52,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时23分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银突破64美元/盎司，日内涨0.74%。",
+          "url": "https://flash.jin10.com/detail/20260810081503471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         }
       ]
     }
