@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T01:48:12.635742+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-08-12T02:42:58.517854+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 01时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时42分]"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -48,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         }
