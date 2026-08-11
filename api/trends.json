@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T12:12:16.539017+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-08-11T13:46:14.349876+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 12时12分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时46分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 12时12分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 13时46分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 13时46分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -209,7 +209,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
