@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:36:14.001761+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-08-11T20:36:05.477139+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时44分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[08时44分 ~ 20时36分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -164,6 +164,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
+          "url": "https://wallstreetcn.com/livenews/3148059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
           "url": "https://flash.jin10.com/detail/20260811004521998800",
           "source": "金十数据",
@@ -200,8 +211,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "芝商所白银24小时全天候交易将于9月11日启动",
+          "url": "https://flash.jin10.com/detail/20260811200747518800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
         {
           "title": "金十图示：2026年08月11日（周二）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260811113833694800",
@@ -259,6 +281,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "芝商所将把24/7全天候交易扩展至100盎司白银期货",
+          "url": "https://wallstreetcn.com/livenews/3148068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "芝商所集团将把全天候交易范围扩大至100盎司白银期货。",
+          "url": "https://flash.jin10.com/detail/20260811200303711800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "芝商所集团：白银24小时全天候交易将于9月11日启动。",
+          "url": "https://flash.jin10.com/detail/20260811200229731800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月11日（周二）晚盘盘初上涨0.59%报946.69元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）晚盘盘初上涨0.81%报15678.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260811200019985800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
