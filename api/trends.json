@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T08:51:40.162880+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-08-12T13:22:14.559688+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 08时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 13时22分]"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
@@ -199,7 +199,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
