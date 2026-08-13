@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T11:21:40.292678+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-08-13T13:26:13.711074+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2452897",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时26分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -28,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时28分 ~ 11时21分]"
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 13时26分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -69,6 +70,18 @@
           "time_info": "[01时48分 ~ 05时33分]"
         },
         {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时26分]"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260813040554059800",
           "source": "金十数据",
@@ -80,17 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时29分]"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 11时21分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
@@ -177,17 +179,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2026年08月13日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260813081749767800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "现货白银日内涨幅达1.00%，现报65.97美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260813081741043800",
           "source": "金十数据",
@@ -197,6 +188,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260813081749767800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 13时26分]"
         },
         {
           "title": "周三（8月12日）纽约尾盘，现货黄金涨0.86%，报4408.84美元/盎司。 现货白银冲高回落，日内涨幅1.02%，报65.322美元/盎司。 COMEX铜期货倒V反转，盘中一度走强1.25%，随后涨幅全部回吐，最终日内跌幅0.37%，报6.5549美元/磅。",
@@ -228,7 +231,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -245,7 +248,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
