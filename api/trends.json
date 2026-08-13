@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T02:44:45.138260+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-08-14T03:50:31.848063+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 03时50分]"
         },
         {
           "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 03时50分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘收盘下跌0.96%报945.3元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘收盘下跌1.21%报15740.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260814023528730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时50分"
         }
       ]
     }
