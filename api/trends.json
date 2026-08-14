@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:46:46.659907+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-08-14T20:36:03.278226+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
@@ -120,7 +120,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -183,7 +183,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15336.03吨。欢迎点击查看数据中心...",
@@ -220,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘盘初上涨0.82%报947.5元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘盘初上涨1.19%报15800.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260814200231375800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘收盘下跌0.96%报945.3元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘收盘下跌1.21%报15740.0元/千克。",
