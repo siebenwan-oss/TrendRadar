@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T13:23:12.572722+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-08-14T15:04:41.602250+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 15时04分]"
         },
         {
           "title": "美股三大指数集体高开",
