@@ -1,162 +1,33 @@
 {
-  "generated_at": "2026-08-15T22:10:51.355864+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-08-16T07:09:36.650945+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时29分 ~ 22时10分]"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011957438800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011719410800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 07时10分]"
+          "time_info": "07时09分"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8,
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 22时10分]"
-        },
-        {
-          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3149871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时10分]"
-        },
-        {
-          "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
-          "url": "https://wallstreetcn.com/livenews/3149816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时43分]"
-        },
-        {
-          "title": "美股三大指数集体走低，标普500指数跌0.23%，纳斯达克指数跌0.45%，道琼斯指数跌0.26%。",
-          "url": "https://flash.jin10.com/detail/20260815005734260800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "美股三大指数全线收跌",
-          "url": "https://www.toutiao.com/trending/7674037560066441266/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260815023016767800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            9,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时49分 ~ 10时07分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少23.9吨，当前持仓量为15312.13吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20260815081848459800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 11时28分]"
+          "time_info": "07时09分"
         }
       ]
     }
