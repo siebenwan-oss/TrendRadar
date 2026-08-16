@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:19:07.045585+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-08-16T15:22:09.644776+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时09分 ~ 14时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时09分 ~ 15时22分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -39,11 +39,12 @@
             11,
             12,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 15时22分]"
         }
       ]
     }
