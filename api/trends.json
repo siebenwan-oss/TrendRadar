@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-08-16T23:10:19.942614+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-08-17T00:10:36.302450+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时09分 ~ 20时14分]"
-        },
-        {
-          "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
-          "url": "https://wallstreetcn.com/livenews/3150016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            12,
-            15,
-            20,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时14分 ~ 17时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/siebenwan-oss/TrendRadar.git/img/news.jpg"
 }
